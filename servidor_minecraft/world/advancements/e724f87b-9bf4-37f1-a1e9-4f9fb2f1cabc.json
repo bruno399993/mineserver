@@ -39,6 +39,7 @@
       "minecraft:wither": "2025-04-26 05:41:40 +0000",
       "minecraft:zombified_piglin": "2025-04-26 05:53:15 +0000",
       "minecraft:wither_skeleton": "2025-04-26 05:36:48 +0000",
+      "minecraft:ender_dragon": "2025-04-26 06:50:13 +0000",
       "minecraft:piglin": "2025-04-26 05:52:56 +0000",
       "minecraft:silverfish": "2025-04-26 06:39:57 +0000",
       "minecraft:zombie": "2025-04-18 06:15:13 +0000",
@@ -1885,6 +1886,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-04-26 06:50:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-04-26 06:39:49 +0000"
@@ -1933,6 +1940,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-04-26 06:51:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-04-26 06:27:23 +0000"
@@ -1948,6 +1961,12 @@
   "minecraft:recipes/decorations/lime_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-04-26 06:25:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-04-26 06:50:33 +0000"
     },
     "done": true
   },
@@ -2041,6 +2060,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-04-26 06:50:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-04-26 06:50:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-04-26 06:39:27 +0000"
@@ -2098,6 +2129,12 @@
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-04-26 06:41:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-04-26 06:43:50 +0000"
     },
     "done": true
   },
@@ -2203,9 +2240,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-04-26 06:50:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-04-26 06:39:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-04-26 06:50:33 +0000"
     },
     "done": true
   },
@@ -2230,6 +2279,12 @@
   "minecraft:nether/netherite_armor": {
     "criteria": {
       "netherite_armor": "2025-04-26 06:21:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-04-26 06:43:50 +0000"
     },
     "done": true
   },
