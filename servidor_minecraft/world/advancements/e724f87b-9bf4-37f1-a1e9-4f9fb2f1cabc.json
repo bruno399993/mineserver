@@ -32,18 +32,24 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-04-26 05:36:34 +0000",
+      "minecraft:pillager": "2025-04-26 07:18:31 +0000",
       "minecraft:skeleton": "2025-04-26 04:30:23 +0000",
+      "minecraft:ravager": "2025-04-26 07:20:50 +0000",
       "minecraft:ghast": "2025-04-26 05:03:33 +0000",
+      "minecraft:vindicator": "2025-04-26 07:18:41 +0000",
       "minecraft:spider": "2025-04-26 04:48:33 +0000",
       "minecraft:creeper": "2025-04-26 04:30:04 +0000",
       "minecraft:wither": "2025-04-26 05:41:40 +0000",
+      "minecraft:evoker": "2025-04-26 07:23:43 +0000",
       "minecraft:zombified_piglin": "2025-04-26 05:53:15 +0000",
+      "minecraft:witch": "2025-04-26 07:21:35 +0000",
       "minecraft:wither_skeleton": "2025-04-26 05:36:48 +0000",
       "minecraft:ender_dragon": "2025-04-26 06:50:13 +0000",
       "minecraft:shulker": "2025-04-26 06:53:57 +0000",
       "minecraft:piglin": "2025-04-26 05:52:56 +0000",
       "minecraft:enderman": "2025-04-26 06:52:02 +0000",
       "minecraft:silverfish": "2025-04-26 06:39:57 +0000",
+      "minecraft:vex": "2025-04-26 07:22:55 +0000",
       "minecraft:zombie": "2025-04-18 06:15:13 +0000",
       "minecraft:zombie_villager": "2025-04-26 04:27:29 +0000"
     },
@@ -1991,6 +1997,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-04-26 07:18:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-04-26 06:27:23 +0000"
@@ -2177,6 +2189,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-26 07:18:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-26 06:39:27 +0000"
@@ -2210,6 +2228,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-04-26 07:11:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-04-26 07:26:28 +0000"
     },
     "done": true
   },
@@ -2306,6 +2330,12 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-04-26 06:39:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-04-26 07:18:40 +0000"
     },
     "done": true
   },
