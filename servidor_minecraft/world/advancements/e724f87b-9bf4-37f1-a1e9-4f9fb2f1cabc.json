@@ -12,6 +12,7 @@
       "minecraft:river": "2025-04-26 04:39:57 +0000",
       "minecraft:stony_shore": "2025-04-26 04:30:43 +0000",
       "minecraft:ocean": "2025-04-26 04:30:45 +0000",
+      "minecraft:flower_forest": "2025-04-26 04:53:53 +0000",
       "minecraft:savanna": "2025-04-26 04:16:08 +0000",
       "minecraft:plains": "2025-04-18 06:14:43 +0000"
     },
@@ -26,6 +27,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-26 04:30:23 +0000",
+      "minecraft:spider": "2025-04-26 04:48:33 +0000",
       "minecraft:creeper": "2025-04-26 04:30:04 +0000",
       "minecraft:zombie": "2025-04-18 06:15:13 +0000",
       "minecraft:zombie_villager": "2025-04-26 04:27:29 +0000"
@@ -221,6 +223,12 @@
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-26 04:24:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-26 04:58:14 +0000"
     },
     "done": true
   },
@@ -584,6 +592,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-04-26 04:58:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-04-26 04:27:30 +0000"
@@ -623,6 +637,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-04-26 04:21:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-04-26 04:52:15 +0000"
     },
     "done": true
   },
@@ -964,8 +984,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-04-26 04:53:51 +0000",
       "cooked_beef": "2025-04-26 04:29:02 +0000",
-      "bread": "2025-04-26 04:18:07 +0000"
+      "bread": "2025-04-26 04:18:07 +0000",
+      "carrot": "2025-04-26 04:50:51 +0000"
     },
     "done": false
   },
