@@ -320,8 +320,11 @@
       "minecraft:spider": "2025-04-26 05:49:01 +0000",
       "minecraft:creeper": "2025-04-26 04:57:45 +0000",
       "minecraft:evoker": "2025-04-26 07:22:46 +0000",
+      "minecraft:zombified_piglin": "2025-04-26 07:24:10 +0000",
       "minecraft:witch": "2025-04-26 07:21:39 +0000",
+      "minecraft:enderman": "2025-04-26 07:24:04 +0000",
       "minecraft:endermite": "2025-04-26 06:25:19 +0000",
+      "minecraft:vex": "2025-04-26 07:23:59 +0000",
       "minecraft:zombie": "2025-04-26 04:52:14 +0000"
     },
     "done": false
@@ -1389,6 +1392,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-26 07:26:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_bricks": {
     "criteria": {
       "has_end_stone": "2025-04-26 07:10:15 +0000"
@@ -1458,6 +1467,12 @@
   "minecraft:end/elytra": {
     "criteria": {
       "elytra": "2025-04-26 07:02:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-26 07:25:48 +0000"
     },
     "done": true
   },
@@ -1584,6 +1599,12 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-04-26 06:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-04-26 07:30:34 +0000"
     },
     "done": true
   },

@@ -436,3 +436,32 @@ java.lang.NoSuchMethodError: 'com.viaversion.viaversion.api.minecraft.entities.E
 [07:26:28] [Server thread/INFO]: Reinhard_VA has reached the goal [Postmortal]
 [07:26:32] [Server thread/INFO]: Gabo399993 was slain by Vex
 [07:26:37] [Server thread/INFO]: Reinhard_VA was slain by Vex
+[07:28:16] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
+[07:28:16] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
+[07:28:24] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
+[07:28:24] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
+[07:28:39] [Async Chat Thread - #33/INFO]: [Not Secure] <Gabo399993> bandera tene
+[07:28:48] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
+[07:28:48] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
+[07:29:22] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
+[07:29:22] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
+[07:29:34] [Async Chat Thread - #34/INFO]: [Not Secure] <Gabo399993> onta
+[07:29:56] [Server thread/WARN]: Reinhard_VA moved too quickly! 6.521235536426616,7.0,-5.36775047055778
+[07:30:34] [Server thread/INFO]: Reinhard_VA has completed the challenge [Hero of the Village]
+[07:30:34] [Server thread/INFO]: Gabo399993 has completed the challenge [Hero of the Village]
+[07:30:49] [Async Chat Thread - #35/INFO]: [Not Secure] <Reinhard_VA> oo si
+[07:30:53] [Async Chat Thread - #37/INFO]: [Not Secure] <Gabo399993> yea
+[07:31:35] [Async Chat Thread - #35/INFO]: [Not Secure] <Gabo399993> replanta el trigo
+[07:31:59] [Async Chat Thread - #37/INFO]: [Not Secure] <Reinhard_VA> el aldeano nos da descuento por salvarlo despues vijate
+[07:32:05] [Server thread/INFO]: Reinhard_VA has made the advancement [A Seedy Place]
+[07:32:30] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
+[07:32:30] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
+[07:32:32] [Async Chat Thread - #35/INFO]: [Not Secure] <Gabo399993> 1 esmeralda por 1 arco
+[07:32:49] [Async Chat Thread - #37/INFO]: [Not Secure] <Reinhard_VA> super descuentos
+[07:32:50] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
+[07:32:50] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
+[07:35:11] [Server thread/INFO]: Reinhard_VA issued server command: /xp set Reinhard_VA 70 levels
+[07:35:11] [Server thread/INFO]: [Reinhard_VA: Set 70 experience levels on Reinhard_VA]
+[07:35:20] [Server thread/INFO]: Reinhard_VA issued server command: /xp set Reinhard_VA 124 levels
+[07:35:20] [Server thread/INFO]: [Reinhard_VA: Set 124 experience levels on Reinhard_VA]
+[07:36:22] [Server thread/INFO]: Reinhard_VA has made the advancement [What a Deal!]
