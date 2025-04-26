@@ -509,3 +509,45 @@ java.lang.NoSuchMethodError: 'com.viaversion.viaversion.api.minecraft.entities.E
 [07:43:45] [Async Chat Thread - #44/INFO]: [Not Secure] <Gabo399993> a la casa van los importante
 [07:44:11] [Async Chat Thread - #42/INFO]: [Not Secure] <Reinhard_VA> las elytras son un f-22 xdd
 [07:44:35] [Server thread/WARN]: Reinhard_VA moved wrongly!
+[07:49:19] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
+[07:49:19] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
+[07:49:27] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
+[07:49:27] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
+[07:49:27] [Async Chat Thread - #45/INFO]: [Not Secure] <Gabo399993> cmo va
+[07:50:05] [Async Chat Thread - #46/INFO]: [Not Secure] <Reinhard_VA> los perdi en el camino
+[07:50:17] [Async Chat Thread - #47/INFO]: [Not Secure] <Gabo399993> quesignificael
+[07:50:49] [Server thread/INFO]: Reinhard_VA fell from a high place
+[07:50:58] [Async Chat Thread - #47/INFO]: [Not Secure] <Reinhard_VA> tuve una pesadilla
+[07:51:13] [Async Chat Thread - #46/INFO]: [Not Secure] <Gabo399993> mira
+[07:51:23] [Async Chat Thread - #46/INFO]: [Not Secure] <Reinhard_VA> soñe que volava a toda velocidad y me estrellaba y moria
+[07:51:39] [Async Chat Thread - #47/INFO]: [Not Secure] <Gabo399993> camas
+[07:51:47] [Async Chat Thread - #46/INFO]: [Not Secure] <Reinhard_VA> traelas
+[07:52:00] [Async Chat Thread - #46/INFO]: [Not Secure] <Reinhard_VA> te presto una parte de mi armadura eleji cual
+[07:52:17] [Async Chat Thread - #47/INFO]: [Not Secure] <Gabo399993> el peto
+[07:52:38] [Async Chat Thread - #48/INFO]: [Not Secure] <Reinhard_VA> toma
+[07:54:14] [Server thread/INFO]: Villager EntityVillager['Villager'/29224, uuid='1a17fc5d-2f80-4581-afb4-ae673e4b9c13', l='ServerLevel[world]', x=-1029.30, y=62.55, z=-291.19, cpos=[-65, -19], tl=991, v=true] died, message: 'Villager was slain by Reinhard_VA'
+[07:54:26] [Server thread/INFO]: Villager EntityVillager['Villager'/29235, uuid='5c454cd4-32b1-4db4-a3fe-00a399fea7a4', l='ServerLevel[world]', x=-1076.04, y=64.00, z=-317.50, cpos=[-68, -20], tl=1189, v=true] died, message: 'Villager was slain by Reinhard_VA'
+[07:54:45] [Async Chat Thread - #49/INFO]: [Not Secure] <Gabo399993> y los aldeanos
+[07:55:00] [Async Chat Thread - #50/INFO]: [Not Secure] <Reinhard_VA> weon no puedo poner las soga al barco
+[07:55:05] [Async Chat Thread - #50/INFO]: [Not Secure] <Gabo399993> xdd
+[07:55:07] [Async Chat Thread - #50/INFO]: [Not Secure] <Reinhard_VA> desaparese la soga
+[07:55:27] [Async Chat Thread - #51/INFO]: [Not Secure] <Gabo399993> papu
+[07:55:31] [Async Chat Thread - #51/INFO]: [Not Secure] <Gabo399993> seguimo mañana
+[07:55:34] [Async Chat Thread - #51/INFO]: [Not Secure] <Gabo399993> q no tengo bate
+[07:55:36] [Async Chat Thread - #51/INFO]: [Not Secure] <Gabo399993> xd
+[07:55:39] [Async Chat Thread - #50/INFO]: [Not Secure] <Reinhard_VA> jajaj
+[07:55:45] [Async Chat Thread - #51/INFO]: [Not Secure] <Reinhard_VA> weno papu
+[07:55:47] [Async Chat Thread - #50/INFO]: [Not Secure] <Gabo399993> descansa papu:v
+[07:55:54] [Async Chat Thread - #51/INFO]: [Not Secure] <Gabo399993> buen comienzo xdd
+[07:56:31] [Async Chat Thread - #52/INFO]: [Not Secure] <Gabo399993> wena noshe
+[07:56:38] [Async Chat Thread - #51/INFO]: [Not Secure] <Reinhard_VA> wenas noche
+[07:56:39] [Async Chat Thread - #51/INFO]: [Not Secure] <Reinhard_VA> papu
+[07:56:49] [Async Chat Thread - #50/INFO]: [Not Secure] <Gabo399993> q
+[07:56:53] [Async Chat Thread - #50/INFO]: [Not Secure] <Reinhard_VA> nada
+[07:56:56] [Async Chat Thread - #50/INFO]: [Not Secure] <Gabo399993> a
+[07:56:58] [Async Chat Thread - #51/INFO]: [Not Secure] <Gabo399993> adio
+[07:57:00] [Server thread/INFO]: Gabo399993 lost connection: Disconnected
+[07:57:00] [Server thread/INFO]: Gabo399993 left the game
+[07:57:02] [Async Chat Thread - #51/INFO]: [Not Secure] <Reinhard_VA> adio
+[07:57:09] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
+[07:57:09] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
