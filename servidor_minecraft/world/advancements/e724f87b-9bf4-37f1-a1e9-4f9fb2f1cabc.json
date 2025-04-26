@@ -40,7 +40,9 @@
       "minecraft:zombified_piglin": "2025-04-26 05:53:15 +0000",
       "minecraft:wither_skeleton": "2025-04-26 05:36:48 +0000",
       "minecraft:ender_dragon": "2025-04-26 06:50:13 +0000",
+      "minecraft:shulker": "2025-04-26 06:53:57 +0000",
       "minecraft:piglin": "2025-04-26 05:52:56 +0000",
+      "minecraft:enderman": "2025-04-26 06:52:02 +0000",
       "minecraft:silverfish": "2025-04-26 06:39:57 +0000",
       "minecraft:zombie": "2025-04-18 06:15:13 +0000",
       "minecraft:zombie_villager": "2025-04-26 04:27:29 +0000"
@@ -225,6 +227,7 @@
     "criteria": {
       "cooked_mutton": "2025-04-26 04:53:51 +0000",
       "cooked_beef": "2025-04-26 04:29:02 +0000",
+      "chorus_fruit": "2025-04-26 07:00:10 +0000",
       "mutton": "2025-04-26 05:03:23 +0000",
       "bread": "2025-04-26 04:18:07 +0000",
       "golden_carrot": "2025-04-26 06:39:09 +0000",
@@ -1862,6 +1865,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-04-26 06:52:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-04-26 06:21:49 +0000"
@@ -2060,6 +2069,18 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-04-26 06:53:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-04-26 06:58:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_bricks": {
     "criteria": {
       "has_end_stone": "2025-04-26 06:50:33 +0000"
@@ -2084,9 +2105,21 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-04-26 06:56:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-04-26 06:21:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-04-26 06:55:09 +0000"
     },
     "done": true
   },
@@ -2261,6 +2294,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-04-26 06:27:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-04-26 06:53:57 +0000"
     },
     "done": true
   },
