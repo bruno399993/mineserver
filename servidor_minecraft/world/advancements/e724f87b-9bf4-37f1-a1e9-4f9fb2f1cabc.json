@@ -27,6 +27,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-26 04:30:23 +0000",
+      "minecraft:ghast": "2025-04-26 05:03:33 +0000",
       "minecraft:spider": "2025-04-26 04:48:33 +0000",
       "minecraft:creeper": "2025-04-26 04:30:04 +0000",
       "minecraft:zombie": "2025-04-18 06:15:13 +0000",
@@ -316,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2025-04-26 05:02:01 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_shovel": "2025-04-26 04:30:49 +0000"
@@ -343,6 +350,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-04-26 04:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-26 05:02:00 +0000"
     },
     "done": true
   },
@@ -505,6 +518,12 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-04-26 04:41:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-26 05:02:00 +0000"
     },
     "done": true
   },
@@ -986,6 +1005,7 @@
     "criteria": {
       "cooked_mutton": "2025-04-26 04:53:51 +0000",
       "cooked_beef": "2025-04-26 04:29:02 +0000",
+      "mutton": "2025-04-26 05:03:23 +0000",
       "bread": "2025-04-26 04:18:07 +0000",
       "carrot": "2025-04-26 04:50:51 +0000"
     },
@@ -1114,6 +1134,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-04-26 04:31:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-04-26 05:04:47 +0000"
     },
     "done": true
   },
