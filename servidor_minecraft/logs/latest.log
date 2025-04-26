@@ -131,3 +131,108 @@ java.lang.NoSuchMethodError: 'com.viaversion.viaversion.api.minecraft.entities.E
 [04:19:11] [Server thread/INFO]: Reinhard_VA has made the advancement [Getting an Upgrade]
 [04:21:26] [Server thread/INFO]: GasparL08 has made the advancement [Not Today, Thank You]
 [04:21:55] [Server thread/INFO]: Reinhard_VA has made the advancement [Acquire Hardware]
+[04:25:25] [Server thread/INFO]: Reinhard_VA issued server command: /difficulty hard
+[04:25:25] [Server thread/INFO]: [Reinhard_VA: The difficulty has been set to Hard]
+[04:26:44] [Server thread/INFO]: Villager EntityVillager['Leatherworker'/85, uuid='fc5b56ea-6ab0-4130-b596-30d8dce66164', l='ServerLevel[world]', x=235.30, y=66.41, z=215.46, cpos=[14, 13], tl=222963, v=true] died, message: 'Leatherworker was slain by Zombie'
+[04:26:48] [Server thread/INFO]: Reinhard_VA has made the advancement [Isn't It Iron Pick]
+[04:29:23] [Server thread/INFO]: Reinhard_VA issued server command: /vanish
+[04:29:38] [Server thread/INFO]: Reinhard_VA issued server command: /tp Reinhard_VA GasparL08
+[04:29:38] [Server thread/INFO]: [Reinhard_VA: Teleported Reinhard_VA to GasparL08]
+[04:29:47] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
+[04:29:47] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
+[04:30:48] [Server thread/INFO]: Reinhard_VA has made the advancement [Ice Bucket Challenge]
+[04:31:57] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
+[04:31:57] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
+[04:32:01] [Server thread/INFO]: Reinhard_VA issued server command: /vanish
+[04:32:37] [Async Chat Thread - #2/INFO]: [Not Secure] <Reinhard_VA> wenas
+[04:32:41] [Async Chat Thread - #3/INFO]: [Not Secure] <Reinhard_VA> atras
+[04:32:55] [Async Chat Thread - #2/INFO]: [Not Secure] <GasparL08> Hola
+[04:33:17] [Async Chat Thread - #3/INFO]: [Not Secure] <GasparL08> Anduve obeseando un ratito nomás
+[04:33:29] [Async Chat Thread - #2/INFO]: [Not Secure] <Reinhard_VA> ta bonita la casa
+[04:33:36] [Async Chat Thread - #3/INFO]: [Not Secure] <GasparL08> Tres stack de hierro pude conseguir nomás perdón
+[04:33:48] [Async Chat Thread - #2/INFO]: [Not Secure] <Reinhard_VA> amigo es una banda eso
+[04:34:01] [Async Chat Thread - #3/INFO]: [Not Secure] <GasparL08> Jajajajaja
+[04:34:30] [Async Chat Thread - #2/INFO]: [Not Secure] <Reinhard_VA> tomare prestado algo de hierro
+[04:34:36] [Async Chat Thread - #3/INFO]: [Not Secure] <GasparL08> Servite
+[04:34:42] [Server thread/INFO]: Reinhard_VA has made the advancement [Suit Up]
+[04:35:42] [Async Chat Thread - #4/INFO]: [Not Secure] <Reinhard_VA> voy al baño
+[04:37:34] [Async Chat Thread - #6/INFO]: [Not Secure] <GasparL08> Agarraste las escaleras que estaban en el piso?
+[04:37:41] [Async Chat Thread - #7/INFO]: [Not Secure] <Reinhard_VA> si
+[04:37:45] [Async Chat Thread - #6/INFO]: [Not Secure] <GasparL08> Las saqué para reacomodarlas
+[04:37:48] [Async Chat Thread - #7/INFO]: [Not Secure] <Reinhard_VA> las deje en el cofre
+[04:38:23] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
+[04:38:23] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
+[04:38:44] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
+[04:38:44] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
+[04:38:56] [Server thread/INFO]: Reinhard_VA has made the advancement [Take Aim]
+[04:39:43] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
+[04:39:43] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
+[04:39:46] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode spectator
+[04:39:46] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Spectator Mode]
+[04:39:49] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
+[04:39:49] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
+[04:40:05] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
+[04:40:05] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
+[04:42:01] [Server thread/INFO]: Reinhard_VA has made the advancement [Sweet Dreams]
+[04:42:56] [User Authenticator #2/INFO]: UUID of player Gabo399993 is e5d2c659-7ff0-35a0-9d18-4e93dd405c1a
+[04:42:56] [Server thread/INFO]: Gabo399993 joined the game
+[04:42:56] [Server thread/INFO]: Gabo399993[/[0:0:0:0:0:0:0:1%0]:56846] logged in with entity id 7700 at ([world]110.5, 74.0, 113.5)
+[04:43:08] [Async Chat Thread - #8/INFO]: [Not Secure] <Reinhard_VA> angell
+[04:43:39] [Async Chat Thread - #9/INFO]: [Not Secure] <GasparL08> Angel anda a
+[04:43:49] [Async Chat Thread - #8/INFO]: [Not Secure] <GasparL08> -700 -270
+[04:44:06] [Server thread/INFO]: Reinhard_VA issued server command: /tp Gabo399993 GasparL08
+[04:44:06] [Server thread/INFO]: [Reinhard_VA: Teleported Gabo399993 to GasparL08]
+[04:44:07] [Server thread/INFO]: Reinhard_VA has made the advancement [Diamonds!]
+[04:44:16] [Async Chat Thread - #9/INFO]: [Not Secure] <Gabo399993> foto
+[04:44:21] [Server thread/INFO]: Reinhard_VA was blown up by Creeper
+[04:44:30] [Server thread/INFO]: Reinhard_VA issued server command: /tp Reinhard_VA GasparL08
+[04:44:30] [Server thread/INFO]: [Reinhard_VA: Teleported Reinhard_VA to GasparL08]
+[04:44:43] [Server thread/INFO]: Reinhard_VA issued server command: /gamerule keepInventory true
+[04:44:43] [Server thread/INFO]: [Reinhard_VA: Gamerule keepInventory is now set to: true]
+[04:44:47] [Async Chat Thread - #8/INFO]: [Not Secure] <Gabo399993> bld ayufa
+[04:44:51] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
+[04:44:51] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
+[04:44:57] [Async Chat Thread - #9/INFO]: [Not Secure] <Reinhard_VA> con que?
+[04:45:01] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
+[04:45:01] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
+[04:45:13] [Async Chat Thread - #8/INFO]: [Not Secure] <Gabo399993> me dan terribles tirones de fps
+[04:45:31] [Async Chat Thread - #9/INFO]: [Not Secure] <Gabo399993> help men
+[04:45:32] [Async Chat Thread - #8/INFO]: [Not Secure] <Reinhard_VA> xd
+[04:45:37] [Async Chat Thread - #9/INFO]: [Not Secure] <GasparL08> Va tener forma de pija la casa pero bueno
+[04:45:38] [Async Chat Thread - #8/INFO]: [Not Secure] <Reinhard_VA> pera se estabilisa
+[04:45:40] [Async Chat Thread - #9/INFO]: [Not Secure] <GasparL08> Escencia
+[04:45:54] [Async Chat Thread - #8/INFO]: [Not Secure] <Gabo399993> no no,es el pc
+[04:45:55] [Async Chat Thread - #9/INFO]: [Not Secure] <Reinhard_VA> bro bunny hop en maincra
+[04:45:59] [Async Chat Thread - #8/INFO]: [Not Secure] <Reinhard_VA> miren
+[04:46:10] [Async Chat Thread - #9/INFO]: [Not Secure] <Gabo399993> en uni igual va mal
+[04:46:27] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode spectator
+[04:46:27] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Spectator Mode]
+[04:46:49] [Async Chat Thread - #8/INFO]: [Not Secure] <Gabo399993> BRUNO AYUDA
+[04:46:49] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
+[04:46:49] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
+[04:47:10] [Async Chat Thread - #9/INFO]: [Not Secure] <Reinhard_VA> fijate la configuracion grafica
+[04:47:21] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode spectator
+[04:47:21] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Spectator Mode]
+[04:47:22] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
+[04:47:22] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
+[04:47:26] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
+[04:47:26] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
+[04:48:00] [Async Chat Thread - #8/INFO]: [Not Secure] <Gabo399993> nse q es bld
+[04:48:02] [Async Chat Thread - #9/INFO]: [Not Secure] <Gabo399993> va mal
+[04:49:00] [Server thread/INFO]: Gabo399993 has made the advancement [Stone Age]
+[04:49:01] [Server thread/INFO]: Reinhard_VA issued server command: /tp Reinhard_VA GasparL08
+[04:49:01] [Server thread/INFO]: [Reinhard_VA: Teleported Reinhard_VA to GasparL08]
+[04:49:28] [Async Chat Thread - #10/INFO]: [Not Secure] <Reinhard_VA> mejoro?
+[04:49:43] [Async Chat Thread - #11/INFO]: [Not Secure] <Gabo399993> no
+[04:49:50] [Async Chat Thread - #10/INFO]: [Not Secure] <Gabo399993> igual dan tirones
+[04:49:54] [Async Chat Thread - #11/INFO]: [Not Secure] <Reinhard_VA> sali y volve a entrar al server
+[04:50:03] [Async Chat Thread - #10/INFO]: [Not Secure] <Gabo399993> NO ES EL SERVER
+[04:50:13] [Server thread/INFO]: Gabo399993 has made the advancement [Getting an Upgrade]
+[04:51:07] [Async Chat Thread - #12/INFO]: [Not Secure] <Reinhard_VA> los chunks
+[04:51:10] [Async Chat Thread - #13/INFO]: [Not Secure] <Reinhard_VA> fijate
+[04:51:12] [Async Chat Thread - #12/INFO]: [Not Secure] <Gabo399993> 5
+[04:51:15] [Async Chat Thread - #13/INFO]: [Not Secure] <Reinhard_VA> mm
+[04:51:33] [Async Chat Thread - #12/INFO]: [Not Secure] <Gabo399993> pasa tus mods
+[04:51:51] [Async Chat Thread - #13/INFO]: [Not Secure] <Reinhard_VA> estoy en la 1.21 yo y vos en la 1.20
+[04:52:14] [Server thread/INFO]: Gabo399993 has made the advancement [Monster Hunter]
+[04:52:15] [Server thread/INFO]: Reinhard_VA has made the advancement [Cover Me with Diamonds]
