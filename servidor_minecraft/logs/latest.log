@@ -340,3 +340,36 @@ java.lang.NoSuchMethodError: 'com.viaversion.viaversion.api.minecraft.entities.E
 [05:11:54] [Async Chat Thread - #30/INFO]: [Not Secure] <Reinhard_VA> me voy a buscar netherita
 [05:12:44] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
 [05:12:44] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
+[05:12:50] [Async Chat Thread - #28/INFO]: [Not Secure] <Gabo399993> osi a mi lado
+[05:12:54] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
+[05:12:54] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
+[05:13:02] [Async Chat Thread - #30/INFO]: [Not Secure] <Reinhard_VA> xd
+[05:13:09] [Async Chat Thread - #28/INFO]: [Not Secure] <Gabo399993> mechero?
+[05:13:16] [Async Chat Thread - #31/INFO]: [Not Secure] <Reinhard_VA> si
+[05:13:24] [Async Chat Thread - #28/INFO]: [Not Secure] <Reinhard_VA> tambien tenglo obsidiana
+[05:14:08] [Server thread/INFO]: Reinhard_VA tried to swim in lava
+[05:14:33] [Server thread/INFO]: Reinhard_VA issued server command: /gamerule doImmediateRespawn true
+[05:14:33] [Server thread/INFO]: [Reinhard_VA: Gamerule doImmediateRespawn is now set to: true]
+[05:14:45] [Async Chat Thread - #32/INFO]: [Not Secure] <Gabo399993> MI COMIDA
+[05:14:48] [Async Chat Thread - #33/INFO]: [Not Secure] <Gabo399993> csm
+[05:14:48] [Server thread/INFO]: Reinhard_VA fell from a high place
+[05:14:59] [Async Chat Thread - #32/INFO]: [Not Secure] <GasparL08> Yo no fui
+[05:15:01] [Async Chat Thread - #33/INFO]: [Not Secure] <Reinhard_VA> voy a buscar lapis lasuli
+[05:15:23] [Async Chat Thread - #32/INFO]: [Not Secure] <Gabo399993> madera teni po?
+[05:15:29] [Async Chat Thread - #33/INFO]: [Not Secure] <Reinhard_VA> yo no
+[05:15:36] [Async Chat Thread - #32/INFO]: [Not Secure] <GasparL08> La estoy usando
+[05:15:48] [Async Chat Thread - #33/INFO]: [Not Secure] <Gabo399993> mira
+[05:16:13] [Async Chat Thread - #32/INFO]: [Not Secure] <Gabo399993> le da mas volumen a la casa
+[05:16:17] [Async Chat Thread - #33/INFO]: [Not Secure] <Gabo399993> y no se ve plana
+[05:18:08] [Async Chat Thread - #34/INFO]: [Not Secure] <Gabo399993> mira
+[05:18:50] [Async Chat Thread - #35/INFO]: [Not Secure] <Gabo399993> godd
+[05:20:47] [Server thread/INFO]: Reinhard_VA tried to swim in lava
+[05:21:14] [Async Chat Thread - #36/INFO]: [Not Secure] <Gabo399993> me tp?
+[05:21:25] [Server thread/INFO]: Reinhard_VA issued server command: /tp Gabo399993 Reinhard_VA
+[05:21:25] [Server thread/INFO]: [Reinhard_VA: Teleported Gabo399993 to Reinhard_VA]
+[05:21:29] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
+[05:21:29] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
+[05:21:39] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
+[05:21:39] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
+[05:21:45] [Server thread/INFO]: Reinhard_VA has made the advancement [Enchanter]
+[05:22:05] [Async Chat Thread - #37/INFO]: [Not Secure] <Gabo399993> me aiudas
