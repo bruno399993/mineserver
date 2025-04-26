@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:pig": "2025-04-26 05:42:00 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-04-26 04:49:00 +0000"
@@ -425,6 +431,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-04-26 05:37:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-26 05:21:35 +0000"
@@ -515,6 +527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-04-26 05:38:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-04-26 04:59:06 +0000"
@@ -565,6 +583,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-04-26 05:37:13 +0000",
       "minecraft:creeper": "2025-04-26 04:57:45 +0000",
       "minecraft:zombie": "2025-04-26 04:52:14 +0000"
     },
@@ -925,6 +944,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-04-26 04:57:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-04-26 05:42:00 +0000"
     },
     "done": true
   },
