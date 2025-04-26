@@ -218,3 +218,43 @@ java.lang.NoSuchMethodError: 'com.viaversion.viaversion.api.minecraft.entities.E
 [06:35:44] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
 [06:35:51] [Async Chat Thread - #9/INFO]: [Not Secure] <Reinhard_VA> aldea
 [06:35:55] [Async Chat Thread - #8/INFO]: [Not Secure] <Reinhard_VA> serca de casa
+[06:36:16] [Server thread/INFO]: Gabo399993 was slain by Spider
+[06:36:43] [Async Chat Thread - #9/INFO]: [Not Secure] <Reinhard_VA> cord de la aldea -1207 -368
+[06:36:56] [Server thread/INFO]: Reinhard_VA has reached the goal [Zombie Doctor]
+[06:37:19] [Async Chat Thread - #8/INFO]: [Not Secure] <Gabo399993> pedernal
+[06:37:39] [Async Chat Thread - #9/INFO]: [Not Secure] <Gabo399993> banca
+[06:38:01] [Async Chat Thread - #11/INFO]: [Not Secure] <Gabo399993> NO BOLUDO
+[06:38:26] [Async Chat Thread - #9/INFO]: [Not Secure] <Gabo399993> deja
+[06:39:49] [Server thread/INFO]: Reinhard_VA has made the advancement [Eye Spy]
+[06:40:16] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
+[06:40:16] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
+[06:40:19] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
+[06:40:19] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
+[06:40:34] [Async Chat Thread - #12/INFO]: [Not Secure] <Gabo399993> ESPERAAA
+[06:41:38] [Async Chat Thread - #14/INFO]: [Not Secure] <Gabo399993> gg
+[06:41:56] [Async Chat Thread - #14/INFO]: [Not Secure] <Gabo399993> banca
+[06:42:04] [Async Chat Thread - #15/INFO]: [Not Secure] <Gabo399993> q quede asi
+[06:42:43] [Async Chat Thread - #14/INFO]: [Not Secure] <Gabo399993> tenes pedernal
+[06:42:49] [Async Chat Thread - #15/INFO]: [Not Secure] <Gabo399993> busca
+[06:43:09] [Async Chat Thread - #14/INFO]: [Not Secure] <Gabo399993> flechero
+[06:43:26] [Async Chat Thread - #15/INFO]: [Not Secure] <Gabo399993> NO CAGUES EL ALDEANO
+[06:43:43] [Async Chat Thread - #14/INFO]: [Not Secure] <Gabo399993> es una cagada eso
+[06:43:48] [Async Chat Thread - #15/INFO]: [Not Secure] <Gabo399993> mejor flechero
+[06:43:48] [Server thread/INFO]: Reinhard_VA issued server command: /gamerule keepInventory true
+[06:43:48] [Server thread/INFO]: [Reinhard_VA: Gamerule keepInventory is now set to: true]
+[06:43:50] [Server thread/INFO]: Reinhard_VA has made the advancement [The End?]
+[06:43:51] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[06:43:51] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[06:43:53] [Server thread/INFO]: Reinhard_VA issued server command: /gamerule keepInventory true
+[06:43:53] [Server thread/INFO]: [Reinhard_VA: Gamerule keepInventory is now set to: true]
+[06:44:13] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
+[06:44:13] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
+[06:44:17] [Async Chat Thread - #14/INFO]: [Not Secure] <Gabo399993> otro mas
+[06:44:20] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
+[06:44:20] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
+[06:45:33] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
+[06:45:33] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
+[06:45:49] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
+[06:45:49] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
+[06:46:04] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
+[06:46:04] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
