@@ -7,9 +7,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-04-27 03:09:32 +0000",
+      "minecraft:beach": "2025-04-27 03:09:11 +0000",
+      "minecraft:dark_forest": "2025-04-27 03:09:35 +0000",
       "minecraft:river": "2025-04-27 02:33:27 +0000",
       "minecraft:stony_shore": "2025-04-27 02:32:59 +0000",
+      "minecraft:cold_ocean": "2025-04-27 03:10:00 +0000",
       "minecraft:forest": "2025-04-27 02:29:57 +0000",
+      "minecraft:lush_caves": "2025-04-27 03:10:13 +0000",
+      "minecraft:ocean": "2025-04-27 03:09:53 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-27 03:09:25 +0000",
       "minecraft:savanna": "2025-04-27 02:26:09 +0000",
       "minecraft:plains": "2025-04-27 02:33:39 +0000"
     },
@@ -401,6 +408,7 @@
       "minecraft:creeper": "2025-04-27 02:39:26 +0000",
       "minecraft:wither": "2025-04-27 02:57:38 +0000",
       "minecraft:wither_skeleton": "2025-04-27 02:47:53 +0000",
+      "minecraft:ender_dragon": "2025-04-27 03:15:39 +0000",
       "minecraft:piglin": "2025-04-27 02:57:39 +0000",
       "minecraft:enderman": "2025-04-27 02:48:34 +0000",
       "minecraft:zombie": "2025-04-27 02:33:01 +0000"
@@ -419,6 +427,7 @@
       "cooked_mutton": "2025-04-27 02:35:30 +0000",
       "porkchop": "2025-04-27 02:45:15 +0000",
       "mutton": "2025-04-27 02:33:49 +0000",
+      "golden_carrot": "2025-04-27 03:07:08 +0000",
       "enchanted_golden_apple": "2025-04-27 02:47:07 +0000"
     },
     "done": false
@@ -1187,12 +1196,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-27 03:10:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
     "criteria": {
       "armor_trimmed_minecraft:rib_armor_trim_smithing_template_smithing_trim": "2025-04-27 02:59:37 +0000",
       "armor_trimmed_minecraft:snout_armor_trim_smithing_template_smithing_trim": "2025-04-27 02:59:08 +0000"
     },
     "done": false
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-04-27 03:15:39 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
@@ -1209,6 +1230,12 @@
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-04-27 03:00:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-04-27 03:15:53 +0000"
     },
     "done": true
   },
@@ -1233,6 +1260,12 @@
   "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
     "criteria": {
       "has_snout_armor_trim_smithing_template": "2025-04-27 02:53:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-04-27 03:16:32 +0000"
     },
     "done": true
   },
@@ -1272,6 +1305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-04-27 03:10:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_boots": "2025-04-27 02:53:35 +0000"
@@ -1290,9 +1329,27 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-27 03:14:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-04-27 02:53:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-04-27 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-04-27 03:16:32 +0000"
     },
     "done": true
   },
@@ -1341,6 +1398,18 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-04-27 03:02:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-04-27 03:10:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-04-27 03:11:24 +0000"
     },
     "done": true
   },
@@ -1422,9 +1491,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-04-27 03:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-04-27 03:16:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-04-27 02:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-04-27 03:11:24 +0000"
     },
     "done": true
   },

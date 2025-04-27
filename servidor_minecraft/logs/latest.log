@@ -322,3 +322,26 @@ java.lang.NoSuchMethodError: 'com.viaversion.viaversion.api.minecraft.entities.E
 [03:09:28] [Server thread/INFO]: gonzalo was shot by Skeleton
 [03:10:19] [Server thread/INFO]: Reinhard_VA has made the advancement [Eye Spy]
 [03:10:27] [Server thread/INFO]: Gabo399993 has made the advancement [A Seedy Place]
+[03:11:24] [Server thread/INFO]: Reinhard_VA has made the advancement [The End?]
+[03:11:25] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[03:11:25] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[03:12:24] [Async Chat Thread - #31/INFO]: [Not Secure] <Gabo399993> duerman
+[03:12:25] [Async Chat Thread - #32/INFO]: [Not Secure] <gonzalo> aganse tp y traigan sus cosas
+[03:12:29] [Async Chat Thread - #31/INFO]: [Not Secure] <Gabo399993> no
+[03:12:33] [Async Chat Thread - #32/INFO]: [Not Secure] <Gabo399993> yo no quiero
+[03:12:40] [Server thread/INFO]: Reinhard_VA issued server command: /gamerule keepInventory true
+[03:12:40] [Server thread/INFO]: [Reinhard_VA: Gamerule keepInventory is now set to: true]
+[03:12:54] [Async Chat Thread - #32/INFO]: [Not Secure] <Gabo399993> DUERMAN
+[03:13:06] [Server thread/INFO]: gonzalo has made the advancement [Sweet Dreams]
+[03:13:11] [Async Chat Thread - #31/INFO]: [Not Secure] <gonzalo> aldea
+[03:14:45] [Server thread/INFO]: Reinhard_VA has made the advancement [Take Aim]
+[03:15:39] [Server thread/INFO]: Reinhard_VA has made the advancement [Free the End]
+[03:15:53] [Server thread/INFO]: Reinhard_VA has reached the goal [The Next Generation]
+[03:17:58] [Server thread/INFO]: Reinhard_VA issued server command: /locate structure minecraft:end_city
+[03:17:58] [Server thread/INFO]: Locating element minecraft:end_city took 3 ms
+[03:18:01] [Server thread/INFO]: Reinhard_VA issued server command: /tp @s 1360 ~ 32
+[03:18:01] [Server thread/INFO]: [Reinhard_VA: Teleported Reinhard_VA to 1360.500000, 66.621277, 32.500000]
+[03:18:02] [Server thread/INFO]: Reinhard_VA has made the advancement [The City at the End of the Game]
+[03:18:31] [Server thread/INFO]: Reinhard_VA has made the advancement [Cover Me with Diamonds]
+[03:19:58] [Server thread/WARN]: gonzalo moved too quickly! 11.080406203506328,0.84766481314945,-3.9255842361226314
+[03:20:52] [Server thread/INFO]: Reinhard_VA has reached the goal [Sky's the Limit]
