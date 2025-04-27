@@ -285,3 +285,40 @@ java.lang.NoSuchMethodError: 'com.viaversion.viaversion.api.minecraft.entities.E
 [03:00:05] [Server thread/INFO]: gonzalo has made the advancement [Ice Bucket Challenge]
 [03:00:32] [Server thread/INFO]: gonzalo was slain by Hoglin
 [03:00:34] [Server thread/INFO]: Reinhard_VA was slain by Piglin
+[03:01:29] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
+[03:01:29] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
+[03:01:35] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
+[03:01:35] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
+[03:01:57] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
+[03:01:57] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
+[03:02:04] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
+[03:02:04] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
+[03:02:08] [Server thread/INFO]: Reinhard_VA has made the advancement [Enchanter]
+[03:03:45] [Async Chat Thread - #24/INFO]: [Not Secure] <gonzalo> PRESTAME EL HIERRO
+[03:03:52] [Async Chat Thread - #25/INFO]: [Not Secure] <Reinhard_VA> si
+[03:03:53] [Server thread/INFO]: gonzalo has made the advancement [Acquire Hardware]
+[03:03:58] [Server thread/INFO]: gonzalo has made the advancement [Suit Up]
+[03:04:54] [Server thread/INFO]: Reinhard_VA issued server command: /vanish
+[03:05:05] [Server thread/INFO]: Reinhard_VA issued server command: /tp Reinhard_VA Gabo399993
+[03:05:05] [Server thread/INFO]: [Reinhard_VA: Teleported Reinhard_VA to Gabo399993]
+[03:05:05] [Async Chat Thread - #26/INFO]: [Not Secure] <gonzalo> BASE SI O NO
+[03:05:20] [Server thread/INFO]: Reinhard_VA issued server command: /tp Reinhard_VA gonzalo
+[03:05:20] [Server thread/INFO]: [Reinhard_VA: Teleported Reinhard_VA to gonzalo]
+[03:05:25] [Server thread/INFO]: Reinhard_VA issued server command: /vanish
+[03:05:27] [Async Chat Thread - #27/INFO]: [Not Secure] <Reinhard_VA> no
+[03:05:55] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
+[03:05:55] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
+[03:06:05] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
+[03:06:05] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
+[03:06:10] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
+[03:06:10] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
+[03:06:15] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
+[03:06:15] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
+[03:07:05] [Async Chat Thread - #28/INFO]: [Not Secure] <Reinhard_VA> la mitad de mi inventario son camas xdd
+[03:07:46] [Async Chat Thread - #29/INFO]: [Not Secure] <gonzalo> yo diamantes
+[03:07:55] [Async Chat Thread - #30/INFO]: [Not Secure] <gonzalo> Busco
+[03:08:08] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
+[03:08:08] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
+[03:09:28] [Server thread/INFO]: gonzalo was shot by Skeleton
+[03:10:19] [Server thread/INFO]: Reinhard_VA has made the advancement [Eye Spy]
+[03:10:27] [Server thread/INFO]: Gabo399993 has made the advancement [A Seedy Place]
