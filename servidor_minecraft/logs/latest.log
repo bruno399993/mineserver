@@ -1,28 +1,29 @@
-[06:16:13] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[06:16:14] [ServerMain/INFO]: Loaded 7 recipes
-[06:16:15] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[06:16:15] [Server thread/INFO]: Loading properties
-[06:16:15] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[06:16:16] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[06:16:16] [Server thread/INFO]: Using 4 threads for Netty based IO
-[06:16:16] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[02:20:30] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:20:30] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[02:20:33] [ServerMain/INFO]: Loaded 7 recipes
+[02:20:33] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[02:20:33] [Server thread/INFO]: Loading properties
+[02:20:34] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[02:20:34] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:20:34] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:20:34] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[06:16:16] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[06:16:16] [Server thread/INFO]: Default game type: SURVIVAL
-[06:16:16] [Server thread/INFO]: Generating keypair
-[06:16:16] [Server thread/INFO]: Starting Minecraft server on *:25565
-[06:16:16] [Server thread/INFO]: Using epoll channel type
-[06:16:16] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[06:16:16] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[06:16:17] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.3.2
-[06:16:17] [Server thread/INFO]: [ViaVersion] ViaVersion 5.3.2 is now loaded. Registering protocol transformers and injecting...
-[06:16:17] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[06:16:17] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[06:16:18] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[06:16:18] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[06:16:18] [Server thread/INFO]: [ViaRewind] Registering protocols...
-[06:16:18] [Server thread/ERROR]: [ViaVersion] Error initializing plugin 'ViaVersion-5.3.2.jar' in folder 'plugins' (Is it up to date?)
+[02:20:34] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[02:20:35] [Server thread/INFO]: Default game type: SURVIVAL
+[02:20:35] [Server thread/INFO]: Generating keypair
+[02:20:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:20:35] [Server thread/INFO]: Using epoll channel type
+[02:20:35] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:20:35] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[02:20:35] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.3.2
+[02:20:35] [Server thread/INFO]: [ViaVersion] ViaVersion 5.3.2 is now loaded. Registering protocol transformers and injecting...
+[02:20:36] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[02:20:36] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[02:20:36] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[02:20:36] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[02:20:37] [Server thread/INFO]: [ViaRewind] Registering protocols...
+[02:20:37] [Server thread/ERROR]: [ViaVersion] Error initializing plugin 'ViaVersion-5.3.2.jar' in folder 'plugins' (Is it up to date?)
 java.lang.NoSuchMethodError: 'com.viaversion.viaversion.api.minecraft.entities.EntityTypes1_8$ObjectType com.viaversion.viaversion.api.minecraft.entities.EntityTypes1_8$ObjectType.findById(int)'
 	at com.viaversion.viarewind.protocol.v1_8to1_7_6_10.rewriter.EntityPacketRewriter1_8$3.register(EntityPacketRewriter1_8.java:144) ~[ViaRewind-4.0.4.jar:?]
 	at com.viaversion.viaversion.api.protocol.remapper.PacketHandlers.<init>(PacketHandlers.java:38) ~[ViaVersion-5.3.2.jar:?]
@@ -46,508 +47,101 @@ java.lang.NoSuchMethodError: 'com.viaversion.viaversion.api.minecraft.entities.E
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1100) ~[paper-1.20.1.jar:git-Paper-196]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:317) ~[paper-1.20.1.jar:git-Paper-196]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[06:16:18] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.3.2
-[06:16:18] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
-[06:16:19] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[06:16:19] [Server thread/INFO]: [floodgate] Took 610ms to boot Floodgate
-[06:16:19] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.4
-[06:16:19] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.2
-[06:16:19] [Server thread/INFO]: [Vanish] Loading server plugin Vanish v0.1
-[06:16:19] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.7.0-SNAPSHOT
-[06:16:19] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[06:16:19] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[06:16:19] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[06:16:19] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.4
-[06:16:19] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.2
-[06:16:20] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[06:16:20] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
-[06:16:20] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
-[06:16:20] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[06:16:20] [Server thread/WARN]: [SkinsRestorer] Please update your Java runtime to at least Java 21 (your version is 17).
-[06:16:20] [Server thread/WARN]: [SkinsRestorer] At some point in the future, SkinsRestorer will no longer be compatible with this version of Java.
-[06:16:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[06:16:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[06:16:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[06:16:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[06:16:20] [Server thread/INFO]: Preparing level "world"
-[06:16:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[06:16:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[06:16:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[06:16:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[06:16:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[06:16:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[06:16:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[06:16:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.2
-[06:16:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 7bda5de
-[06:16:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[06:16:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[06:16:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[06:16:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[06:16:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[06:16:21] [Server thread/INFO]: Time elapsed: 234 ms
-[06:16:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[06:16:21] [Server thread/INFO]: Time elapsed: 78 ms
-[06:16:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[06:16:21] [Server thread/INFO]: Time elapsed: 61 ms
-[06:16:21] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.3.2
-[06:16:21] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20-1.20.1 (763)
-[06:16:21] [Server thread/WARN]: [ViaVersion] Please update your Java runtime to at least Java 21 (your version is 17.0.14).
-[06:16:21] [Server thread/WARN]: [ViaVersion] At some point in the future, ViaVersion will no longer be compatible with this version of Java.
-[06:16:21] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.3.2
-[06:16:21] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
-[06:16:22] [Server thread/INFO]: [Vanish] Enabling Vanish v0.1
-[06:16:22] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.7.0-SNAPSHOT
-[06:16:22] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[06:16:22] [Server thread/INFO]: [Geyser-Spigot] 
-[06:16:22] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.7.0-b812 (git-master-efd4dcc)
-[06:16:22] [Server thread/INFO]: [Geyser-Spigot] 
-[06:16:22] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[06:16:29] [Server thread/INFO]: [Geyser-Spigot] Started Geyser on UDP port 12059
-[06:16:29] [Server thread/INFO]: [Geyser-Spigot] Done (6.811s)! Run /geyser help for help!
-[06:16:29] [Server thread/INFO]: Running delayed init tasks
-[06:16:29] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[06:16:29] [Server thread/INFO]: Done (14.344s)! For help, type "help"
-[06:16:29] [Server thread/INFO]: Timings Reset
-[06:16:56] [User Authenticator #0/INFO]: UUID of player Reinhard_VA is e724f87b-9bf4-37f1-a1e9-4f9fb2f1cabc
-[06:16:56] [Server thread/INFO]: Reinhard_VA joined the game
-[06:16:56] [Server thread/INFO]: Reinhard_VA[/[0:0:0:0:0:0:0:1%0]:35880] logged in with entity id 116 at ([world]-710.2306009869992, 89.0, -320.1079990951131)
-[06:17:20] [Server thread/INFO]: Reinhard_VA has made the advancement [Bring Home the Beacon]
-[06:17:20] [Server thread/INFO]: Reinhard_VA has reached the goal [Beaconator]
-[06:18:08] [User Authenticator #1/INFO]: UUID of player Gabo399993 is e5d2c659-7ff0-35a0-9d18-4e93dd405c1a
-[06:18:08] [Server thread/INFO]: Gabo399993 joined the game
-[06:18:08] [Server thread/INFO]: Gabo399993[/[0:0:0:0:0:0:0:1%0]:60244] logged in with entity id 417 at ([world]-705.4614542059587, 90.0, -286.8682957906209)
-[06:18:15] [Async Chat Thread - #1/INFO]: [Not Secure] <Reinhard_VA> bro
-[06:18:20] [Async Chat Thread - #1/INFO]: [Not Secure] <Gabo399993> watafak
-[06:18:21] [Async Chat Thread - #0/INFO]: [Not Secure] <Reinhard_VA> tenemos un problema
-[06:18:26] [Async Chat Thread - #1/INFO]: [Not Secure] <Gabo399993> me dieron los bloqes
-[06:18:28] [Async Chat Thread - #0/INFO]: [Not Secure] <Gabo399993> XD
-[06:18:35] [Async Chat Thread - #1/INFO]: [Not Secure] <Reinhard_VA> se duplico
-[06:18:37] [Async Chat Thread - #0/INFO]: [Not Secure] <Reinhard_VA> todo
-[06:18:43] [Async Chat Thread - #1/INFO]: [Not Secure] <Reinhard_VA> por cerrase de golpe
-[06:18:45] [Async Chat Thread - #0/INFO]: [Not Secure] <Gabo399993> aprovecha el bug
-[06:18:50] [User Authenticator #1/INFO]: UUID of player GasparL08 is 2ee415be-1225-336c-8146-42879e14c37f
-[06:18:50] [Server thread/INFO]: GasparL08 joined the game
-[06:18:50] [Server thread/INFO]: GasparL08[/[0:0:0:0:0:0:0:1%0]:36364] logged in with entity id 485 at ([world]-733.0578611153196, 79.0, -286.51536436159944)
-[06:18:52] [Async Chat Thread - #1/INFO]: [Not Secure] <Reinhard_VA> ahora tengo para hacer otro faro
-[06:18:59] [Async Chat Thread - #0/INFO]: [Not Secure] <Gabo399993> OOOOO 117 FPS
-[06:19:03] [Async Chat Thread - #1/INFO]: [Not Secure] <GasparL08> Necesitamos vacas
-[06:19:36] [Async Chat Thread - #0/INFO]: [Not Secure] <Reinhard_VA> tengo infinidad asi que con una flecha me vasta xd
-[06:19:48] [Server thread/INFO]: GasparL08 was slain by Reinhard_VA
-[06:19:52] [Async Chat Thread - #1/INFO]: [Not Secure] <Reinhard_VA> jajaja
-[06:20:20] [Async Chat Thread - #0/INFO]: [Not Secure] <Reinhard_VA> pvp
-[06:20:26] [Async Chat Thread - #1/INFO]: [Not Secure] <Reinhard_VA> ahora quien
-[06:20:31] [Async Chat Thread - #0/INFO]: [Not Secure] <GasparL08> Nah re desbalanceado
-[06:20:36] [Async Chat Thread - #1/INFO]: [Not Secure] <Reinhard_VA> jajajajaj
-[06:20:42] [Async Chat Thread - #0/INFO]: [Not Secure] <Reinhard_VA> me saco todo
-[06:20:48] [Async Chat Thread - #1/INFO]: [Not Secure] <Reinhard_VA> a puño
-[06:20:50] [Async Chat Thread - #0/INFO]: [Not Secure] <GasparL08> Hay que buscar aldeanos
-[06:20:54] [Async Chat Thread - #1/INFO]: [Not Secure] <GasparL08> Ponerlos a cojer
-[06:20:58] [Async Chat Thread - #0/INFO]: [Not Secure] <Reinhard_VA> ol
-[06:21:00] [Async Chat Thread - #1/INFO]: [Not Secure] <Gabo399993> si
-[06:21:02] [Async Chat Thread - #0/INFO]: [Not Secure] <GasparL08> Y esclavizar toda la especie
-[06:21:04] [Async Chat Thread - #1/INFO]: [Not Secure] <Reinhard_VA> xdd
-[06:21:09] [Async Chat Thread - #0/INFO]: [Not Secure] <GasparL08> Lo mismo con las vacas
-[06:21:16] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
-[06:21:16] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
-[06:21:21] [Server thread/INFO]: Reinhard_VA has completed the challenge [Cover Me in Debris]
-[06:21:34] [Async Chat Thread - #1/INFO]: [Not Secure] <Reinhard_VA> ora si
-[06:21:38] [Async Chat Thread - #0/INFO]: [Not Secure] <Reinhard_VA> completo estoy
-[06:21:58] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
-[06:21:58] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
-[06:22:45] [Server thread/INFO]: GasparL08 was slain by Reinhard_VA
-[06:23:00] [Async Chat Thread - #2/INFO]: [Not Secure] <Gabo399993> bata eu
-[06:23:35] [Async Chat Thread - #3/INFO]: [Not Secure] <Gabo399993> busquen piedra
-[06:23:48] [Async Chat Thread - #2/INFO]: [Not Secure] <GasparL08> Hagan un generador
-[06:23:57] [Server thread/INFO]: GasparL08 has made the advancement [Diamonds!]
-[06:25:11] [Async Chat Thread - #4/INFO]: [Not Secure] <GasparL08> Tienen slime?
-[06:25:25] [Async Chat Thread - #5/INFO]: [Not Secure] <Reinhard_VA> nop pero en la cueva de abajo spawnean
-[06:25:28] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
-[06:25:28] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
-[06:25:49] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
-[06:25:49] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
-[06:26:15] [Async Chat Thread - #4/INFO]: [Not Secure] <Reinhard_VA> voy a la cueva
-[06:26:20] [Server thread/INFO]: GasparL08 was shot by Skeleton
-[06:26:31] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
-[06:26:31] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
-[06:26:47] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
-[06:26:47] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
-[06:26:49] [Async Chat Thread - #4/INFO]: [Not Secure] <Gabo399993> trae piedra
-[06:26:56] [Async Chat Thread - #5/INFO]: [Not Secure] <Reinhard_VA> voy a culiar a la cueva
-[06:28:22] [Async Chat Thread - #6/INFO]: [Not Secure] <Gabo399993> y carbon
-[06:29:01] [Async Chat Thread - #7/INFO]: [Not Secure] <Reinhard_VA> termine de culiarme al wither xd
-[06:29:40] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
-[06:29:40] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
-[06:29:52] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
-[06:29:52] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
-[06:30:01] [Async Chat Thread - #6/INFO]: [Not Secure] <Gabo399993> trae piedra
-[06:30:02] [Async Chat Thread - #7/INFO]: [Not Secure] <Gabo399993> trae piedra
-[06:30:04] [Async Chat Thread - #6/INFO]: [Not Secure] <Gabo399993> y carbon
-[06:30:04] [Async Chat Thread - #7/INFO]: [Not Secure] <Gabo399993> y carbon
-[06:30:05] [Async Chat Thread - #6/INFO]: [Not Secure] <Gabo399993> y carbon
-[06:30:05] [Async Chat Thread - #7/INFO]: [Not Secure] <Gabo399993> y carbont
-[06:30:07] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
-[06:30:07] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
-[06:30:07] [Async Chat Thread - #6/INFO]: [Not Secure] <Gabo399993> y carbon
-[06:30:42] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
-[06:30:42] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
-[06:31:14] [Async Chat Thread - #8/INFO]: [Not Secure] <Gabo399993> no lo mates
-[06:32:12] [Async Chat Thread - #9/INFO]: [Not Secure] <Gabo399993> hace posion
-[06:32:18] [Async Chat Thread - #8/INFO]: [Not Secure] <Reinhard_VA> ok
-[06:32:32] [Async Chat Thread - #9/INFO]: [Not Secure] <Gabo399993> GASPARRR
-[06:32:32] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
-[06:32:32] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
-[06:32:40] [Async Chat Thread - #8/INFO]: [Not Secure] <Gabo399993> atrape a un esclavo
-[06:32:48] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
-[06:32:48] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
-[06:32:59] [Async Chat Thread - #9/INFO]: [Not Secure] <GasparL08> Bien
-[06:33:09] [Async Chat Thread - #9/INFO]: [Not Secure] <Reinhard_VA> ya tenia la posion xdd
-[06:33:21] [Async Chat Thread - #8/INFO]: [Not Secure] <Gabo399993> q lo hacemos
-[06:33:25] [Async Chat Thread - #9/INFO]: [Not Secure] <Gabo399993> armero
-[06:33:28] [Async Chat Thread - #8/INFO]: [Not Secure] <Gabo399993> q da armadura
-[06:33:33] [Async Chat Thread - #9/INFO]: [Not Secure] <GasparL08> Flechero
-[06:33:41] [Async Chat Thread - #8/INFO]: [Not Secure] <Gabo399993> dale
-[06:33:58] [Async Chat Thread - #9/INFO]: [Not Secure] <Gabo399993> busca pedernal
-[06:34:47] [Server thread/INFO]: GasparL08 was shot by Skeleton
-[06:34:53] [Async Chat Thread - #8/INFO]: [Not Secure] <GasparL08> Qué carajos
-[06:34:59] [Async Chat Thread - #9/INFO]: [Not Secure] <Gabo399993> qq
-[06:34:59] [Async Chat Thread - #10/INFO]: [Not Secure] <GasparL08> El escudo no para nada
-[06:35:01] [Async Chat Thread - #8/INFO]: [Not Secure] <Gabo399993> busca pedernal
-[06:35:32] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
-[06:35:32] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
-[06:35:44] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
-[06:35:44] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
-[06:35:51] [Async Chat Thread - #9/INFO]: [Not Secure] <Reinhard_VA> aldea
-[06:35:55] [Async Chat Thread - #8/INFO]: [Not Secure] <Reinhard_VA> serca de casa
-[06:36:16] [Server thread/INFO]: Gabo399993 was slain by Spider
-[06:36:43] [Async Chat Thread - #9/INFO]: [Not Secure] <Reinhard_VA> cord de la aldea -1207 -368
-[06:36:56] [Server thread/INFO]: Reinhard_VA has reached the goal [Zombie Doctor]
-[06:37:19] [Async Chat Thread - #8/INFO]: [Not Secure] <Gabo399993> pedernal
-[06:37:39] [Async Chat Thread - #9/INFO]: [Not Secure] <Gabo399993> banca
-[06:38:01] [Async Chat Thread - #11/INFO]: [Not Secure] <Gabo399993> NO BOLUDO
-[06:38:26] [Async Chat Thread - #9/INFO]: [Not Secure] <Gabo399993> deja
-[06:39:49] [Server thread/INFO]: Reinhard_VA has made the advancement [Eye Spy]
-[06:40:16] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
-[06:40:16] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
-[06:40:19] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
-[06:40:19] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
-[06:40:34] [Async Chat Thread - #12/INFO]: [Not Secure] <Gabo399993> ESPERAAA
-[06:41:38] [Async Chat Thread - #14/INFO]: [Not Secure] <Gabo399993> gg
-[06:41:56] [Async Chat Thread - #14/INFO]: [Not Secure] <Gabo399993> banca
-[06:42:04] [Async Chat Thread - #15/INFO]: [Not Secure] <Gabo399993> q quede asi
-[06:42:43] [Async Chat Thread - #14/INFO]: [Not Secure] <Gabo399993> tenes pedernal
-[06:42:49] [Async Chat Thread - #15/INFO]: [Not Secure] <Gabo399993> busca
-[06:43:09] [Async Chat Thread - #14/INFO]: [Not Secure] <Gabo399993> flechero
-[06:43:26] [Async Chat Thread - #15/INFO]: [Not Secure] <Gabo399993> NO CAGUES EL ALDEANO
-[06:43:43] [Async Chat Thread - #14/INFO]: [Not Secure] <Gabo399993> es una cagada eso
-[06:43:48] [Async Chat Thread - #15/INFO]: [Not Secure] <Gabo399993> mejor flechero
-[06:43:48] [Server thread/INFO]: Reinhard_VA issued server command: /gamerule keepInventory true
-[06:43:48] [Server thread/INFO]: [Reinhard_VA: Gamerule keepInventory is now set to: true]
-[06:43:50] [Server thread/INFO]: Reinhard_VA has made the advancement [The End?]
-[06:43:51] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[06:43:51] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
-[06:43:53] [Server thread/INFO]: Reinhard_VA issued server command: /gamerule keepInventory true
-[06:43:53] [Server thread/INFO]: [Reinhard_VA: Gamerule keepInventory is now set to: true]
-[06:44:13] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
-[06:44:13] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
-[06:44:17] [Async Chat Thread - #14/INFO]: [Not Secure] <Gabo399993> otro mas
-[06:44:20] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
-[06:44:20] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
-[06:45:33] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
-[06:45:33] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
-[06:45:49] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
-[06:45:49] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
-[06:46:04] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
-[06:46:04] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
-[06:47:13] [Async Chat Thread - #16/INFO]: [Not Secure] <Gabo399993> GG
-[06:47:26] [Async Chat Thread - #17/INFO]: [Not Secure] <GasparL08> Necesitamos zombi
-[06:47:30] [Server thread/INFO]: GasparL08 has made the advancement [What a Deal!]
-[06:47:37] [Server thread/INFO]: GasparL08 has made the advancement [Take Aim]
-[06:47:37] [Server thread/WARN]: Reinhard_VA moved too quickly! -3.2811275068635837,0.0,-21.778247021682816
-[06:47:43] [Async Chat Thread - #16/INFO]: [Not Secure] <Gabo399993> otro mas
-[06:47:46] [Async Chat Thread - #17/INFO]: [Not Secure] <Gabo399993> asi procrean
-[06:48:28] [Async Chat Thread - #16/INFO]: [Not Secure] <Gabo399993> arena
-[06:48:30] [Async Chat Thread - #17/INFO]: [Not Secure] <Gabo399993> veni
-[06:49:16] [Async Chat Thread - #16/INFO]: [Not Secure] <Gabo399993> veni
-[06:49:17] [Async Chat Thread - #17/INFO]: [Not Secure] <Gabo399993> veni
-[06:49:18] [Async Chat Thread - #16/INFO]: [Not Secure] <Gabo399993> veni
-[06:49:18] [Async Chat Thread - #17/INFO]: [Not Secure] <Gabo399993> veni
-[06:49:19] [Async Chat Thread - #16/INFO]: [Not Secure] <Gabo399993> veni
-[06:49:30] [Server thread/INFO]: GasparL08 has made the advancement [Enchanter]
-[06:50:13] [Server thread/INFO]: Reinhard_VA has made the advancement [Free the End]
-[06:50:18] [Async Chat Thread - #17/INFO]: [Not Secure] <Gabo399993> alm
-[06:50:24] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
-[06:50:24] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
-[06:50:31] [Async Chat Thread - #16/INFO]: [Not Secure] <GasparL08> GG
-[06:51:16] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
-[06:51:16] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
-[06:51:26] [Async Chat Thread - #17/INFO]: [Not Secure] <Gabo399993> q queres
-[06:51:27] [Server thread/INFO]: Reinhard_VA has reached the goal [The Next Generation]
-[06:51:30] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
-[06:51:30] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
-[06:51:30] [Async Chat Thread - #16/INFO]: [Not Secure] <Gabo399993> a
-[06:51:33] [Server thread/INFO]: Gabo399993 has made the advancement [What a Deal!]
-[06:51:35] [Async Chat Thread - #17/INFO]: [Not Secure] <GasparL08> Arcos
-[06:52:08] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
-[06:52:08] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
-[06:53:22] [Server thread/INFO]: Reinhard_VA issued server command: /locate structure minecraft:end_city
-[06:53:22] [Server thread/INFO]: Locating element minecraft:end_city took 19 ms
-[06:53:25] [Server thread/INFO]: Reinhard_VA issued server command: /tp @s -1584 ~ -896
-[06:53:25] [Server thread/INFO]: [Reinhard_VA: Teleported Reinhard_VA to -1583.500000, 78.620393, -895.500000]
-[06:53:41] [Server thread/INFO]: Reinhard_VA has made the advancement [The City at the End of the Game]
-[06:55:03] [Server thread/INFO]: GasparL08 issued server command: /gamemode 1
-[06:55:14] [Async Chat Thread - #18/INFO]: [Not Secure] <Gabo399993> como la ves
-[06:55:26] [Async Chat Thread - #18/INFO]: [Not Secure] <GasparL08> Good
-[06:55:48] [Async Chat Thread - #19/INFO]: [Not Secure] <Gabo399993> cuantos faltan
-[06:56:57] [Server thread/INFO]: Reinhard_VA has reached the goal [Sky's the Limit]
-[06:57:12] [Async Chat Thread - #20/INFO]: [Not Secure] <Gabo399993> DEJA DE DISPARA AJSDHJAS
-[06:57:24] [Async Chat Thread - #21/INFO]: [Not Secure] <GasparL08> Mira
-[06:57:31] [Async Chat Thread - #20/INFO]: [Not Secure] <Gabo399993> XD
-[06:58:31] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
-[06:58:31] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
-[06:58:35] [Server thread/INFO]: Reinhard_VA has made the advancement [Remote Getaway]
-[06:59:31] [Async Chat Thread - #22/INFO]: [Not Secure] <Gabo399993> SIUUU
-[06:59:34] [Server thread/INFO]: GasparL08 fell from a high place
-[06:59:37] [Server thread/INFO]: GasparL08 lost connection: Disconnected
-[06:59:37] [Server thread/INFO]: GasparL08 left the game
-[06:59:59] [Async Chat Thread - #23/INFO]: [Not Secure] <Gabo399993> qlepaso
-[07:00:16] [Async Chat Thread - #22/INFO]: [Not Secure] <Reinhard_VA> no se
-[07:00:20] [Async Chat Thread - #23/INFO]: [Not Secure] <Reinhard_VA> pero....
-[07:00:23] [Async Chat Thread - #22/INFO]: [Not Secure] <Reinhard_VA> yo...
-[07:00:33] [Async Chat Thread - #23/INFO]: [Not Secure] <Reinhard_VA> termine
-[07:00:46] [Async Chat Thread - #22/INFO]: [Not Secure] <Gabo399993> te gusta la casa
-[07:00:47] [Async Chat Thread - #23/INFO]: [Not Secure] <Gabo399993> xd
-[07:00:52] [Async Chat Thread - #22/INFO]: [Not Secure] <Reinhard_VA> so
-[07:00:56] [Async Chat Thread - #23/INFO]: [Not Secure] <Reinhard_VA> si
-[07:00:59] [Async Chat Thread - #24/INFO]: [Not Secure] <Reinhard_VA> toma
-[07:01:20] [Async Chat Thread - #23/INFO]: [Not Secure] <Reinhard_VA> te traje esto
-[07:01:30] [Async Chat Thread - #24/INFO]: [Not Secure] <Gabo399993> dou
-[07:01:34] [Server thread/INFO]: Gabo399993 has made the advancement [Cover Me with Diamonds]
-[07:02:12] [Async Chat Thread - #23/INFO]: [Not Secure] <Reinhard_VA> toma el huevo
-[07:02:20] [Server thread/INFO]: Gabo399993 has reached the goal [The Next Generation]
-[07:02:29] [Async Chat Thread - #24/INFO]: [Not Secure] <Gabo399993> gracia
-[07:02:35] [Async Chat Thread - #23/INFO]: [Not Secure] <Gabo399993> veni
-[07:02:36] [Server thread/INFO]: Gabo399993 has reached the goal [Sky's the Limit]
-[07:03:19] [Async Chat Thread - #24/INFO]: [Not Secure] <Reinhard_VA> uff
-[07:03:22] [Async Chat Thread - #23/INFO]: [Not Secure] <Gabo399993> foto
-[07:03:28] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode spectator
-[07:03:28] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Spectator Mode]
-[07:03:35] [Async Chat Thread - #24/INFO]: [Not Secure] <Gabo399993> XD?
-[07:03:35] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
-[07:03:35] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
-[07:03:59] [Async Chat Thread - #23/INFO]: [Not Secure] <Reinhard_VA> pasala al grupo
-[07:04:03] [Async Chat Thread - #24/INFO]: [Not Secure] <Gabo399993> oka
-[07:04:04] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode spectator
-[07:04:04] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Spectator Mode]
-[07:04:06] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
-[07:04:06] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
-[07:04:17] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode spectator
-[07:04:17] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Spectator Mode]
-[07:04:19] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
-[07:04:19] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
-[07:04:23] [Async Chat Thread - #23/INFO]: [Not Secure] <Gabo399993> ahora mas chill
-[07:04:29] [Async Chat Thread - #24/INFO]: [Not Secure] <Gabo399993> a decorar la casa
-[07:04:50] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
-[07:04:50] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
-[07:04:58] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
-[07:04:58] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
-[07:05:28] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
-[07:05:28] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
-[07:05:33] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
-[07:05:33] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
-[07:07:17] [Server thread/INFO]: Gabo399993 has made the advancement [Diamonds!]
-[07:07:46] [Async Chat Thread - #26/INFO]: [Not Secure] <Reinhard_VA> y ahora que?
-[07:08:05] [Async Chat Thread - #25/INFO]: [Not Secure] <Gabo399993> decorar
-[07:08:09] [Async Chat Thread - #26/INFO]: [Not Secure] <Reinhard_VA> ok
-[07:08:10] [Async Chat Thread - #25/INFO]: [Not Secure] <Gabo399993> construir
-[07:08:11] [Async Chat Thread - #26/INFO]: [Not Secure] <Gabo399993> xd
-[07:09:08] [Async Chat Thread - #25/INFO]: [Not Secure] <Reinhard_VA> voy a buscar decoraciones en pinterest
-[07:09:14] [Async Chat Thread - #26/INFO]: [Not Secure] <Gabo399993> dale
-[07:09:22] [Async Chat Thread - #26/INFO]: [Not Secure] <Gabo399993> y gaspar?escribio algo?
-[07:09:31] [Async Chat Thread - #25/INFO]: [Not Secure] <Reinhard_VA> si no juega mas dise
-[07:09:38] [Async Chat Thread - #26/INFO]: [Not Secure] <Gabo399993> diablo
-[07:09:42] [Async Chat Thread - #25/INFO]: [Not Secure] <Gabo399993> seguimos oq?
-[07:09:50] [Async Chat Thread - #26/INFO]: [Not Secure] <Reinhard_VA> como quieras bro
-[07:09:56] [Async Chat Thread - #25/INFO]: [Not Secure] <Gabo399993> comoqras
-[07:10:04] [Async Chat Thread - #26/INFO]: [Not Secure] <Reinhard_VA> saca todo
-[07:10:28] [Async Chat Thread - #25/INFO]: [Not Secure] <Reinhard_VA> veni
-[07:10:43] [Async Chat Thread - #26/INFO]: [Not Secure] <Reinhard_VA> tenes la arna de alma
-[07:10:48] [Async Chat Thread - #25/INFO]: [Not Secure] <Reinhard_VA> ??
-[07:10:54] [Async Chat Thread - #26/INFO]: [Not Secure] <Reinhard_VA> ven
-[07:11:42] [Async Chat Thread - #25/INFO]: [Not Secure] <Reinhard_VA> ven
-[07:11:58] [Async Chat Thread - #26/INFO]: [Not Secure] <Gabo399993> nooo
-[07:12:01] [Server thread/INFO]: Gabo399993 has made the advancement [Withering Heights]
-[07:12:21] [Server thread/INFO]: Gabo399993 was shot by a skull from Wither
-[07:12:24] [Async Chat Thread - #26/INFO]: [Not Secure] <Gabo399993> XD
-[07:14:12] [Server thread/INFO]: Gabo399993 withered away whilst fighting Wither
-[07:15:11] [Async Chat Thread - #27/INFO]: [Not Secure] <Reinhard_VA> toma
-[07:15:43] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
-[07:15:43] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
-[07:15:46] [Async Chat Thread - #28/INFO]: [Not Secure] <Gabo399993> mikecrack?XDD
-[07:15:50] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
-[07:15:50] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
-[07:15:57] [Async Chat Thread - #27/INFO]: [Not Secure] <Reinhard_VA> que?
-[07:16:06] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
-[07:16:06] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
-[07:16:09] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
-[07:16:09] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
-[07:16:37] [Async Chat Thread - #27/INFO]: [Not Secure] <Reinhard_VA> granja de totems
-[07:16:45] [Async Chat Thread - #27/INFO]: [Not Secure] <Gabo399993> te mobs
-[07:16:49] [Async Chat Thread - #28/INFO]: [Not Secure] <Gabo399993> de hierro
-[07:16:50] [Async Chat Thread - #27/INFO]: [Not Secure] <Gabo399993> de
-[07:16:52] [Async Chat Thread - #28/INFO]: [Not Secure] <Gabo399993> dea
-[07:17:11] [Server thread/INFO]: Reinhard_VA issued server command: /summon minecraft:villager
-[07:17:11] [Server thread/INFO]: [Reinhard_VA: Summoned new Villager]
-[07:17:25] [Server thread/INFO]: Villager EntityVillager['Villager'/18367, uuid='3e0d3a51-ce60-4477-80a5-4143db32eb64', l='ServerLevel[world]', x=-669.47, y=86.00, z=-353.14, cpos=[-42, -23], tl=265, v=true] died, message: 'Villager was slain by Reinhard_VA'
-[07:17:42] [Server thread/INFO]: Reinhard_VA issued server command: /effect give Reinhard_VA minecraft:bad_omen
-[07:17:42] [Server thread/INFO]: [Reinhard_VA: Applied effect Bad Omen to Reinhard_VA]
-[07:17:45] [Async Chat Thread - #27/INFO]: [Not Secure] <Gabo399993> aa iba a hacer algo
-[07:18:01] [Async Chat Thread - #28/INFO]: [Not Secure] <Reinhard_VA> corree
-[07:18:14] [Async Chat Thread - #27/INFO]: [Not Secure] <Gabo399993> QUE
-[07:18:16] [Async Chat Thread - #28/INFO]: [Not Secure] <Reinhard_VA> nu pude traer el vindicator
-[07:18:23] [Async Chat Thread - #27/INFO]: [Not Secure] <Reinhard_VA> y tuve que matarlo
-[07:18:41] [Server thread/INFO]: Reinhard_VA has made the advancement [Voluntary Exile]
-[07:19:42] [Server thread/INFO]: Gabo399993 has made the advancement [Voluntary Exile]
-[07:19:43] [Server thread/INFO]: Gabo399993 was shot by Pillager
-[07:20:11] [Async Chat Thread - #29/INFO]: [Not Secure] <Gabo399993> tenes la bandera?
-[07:20:15] [Async Chat Thread - #30/INFO]: [Not Secure] <Reinhard_VA> si
-[07:20:21] [Async Chat Thread - #29/INFO]: [Not Secure] <Reinhard_VA> la meti en un cofre
-[07:21:01] [Async Chat Thread - #29/INFO]: [Not Secure] <Reinhard_VA> nah id win
-[07:21:16] [Async Chat Thread - #30/INFO]: [Not Secure] <Reinhard_VA> de este lado
-[07:22:00] [Async Chat Thread - #29/INFO]: [Not Secure] <Reinhard_VA> good
-[07:22:08] [Async Chat Thread - #30/INFO]: [Not Secure] <Reinhard_VA> de este lado
-[07:22:31] [Server thread/INFO]: Gabo399993 was slain by Vindicator
-[07:23:13] [Server thread/INFO]: Gabo399993 was slain by Vex
-[07:23:26] [Server thread/INFO]: Gabo399993 was slain by Vindicator
-[07:23:35] [Server thread/INFO]: Gabo399993 was slain by Vindicator
-[07:23:40] [Server thread/INFO]: Gabo399993 was slain by Vindicator
-[07:23:43] [Server thread/INFO]: Gabo399993 was slain by Vindicator
-[07:23:47] [Server thread/INFO]: Gabo399993 was slain by Vindicator
-[07:24:32] [Async Chat Thread - #31/INFO]: [Not Secure] <Gabo399993> deq sirve el totem
-[07:24:40] [Server thread/INFO]: Gabo399993 was slain by Vex
-[07:24:44] [Async Chat Thread - #32/INFO]: [Not Secure] <Reinhard_VA> inmortalidad
-[07:24:54] [Async Chat Thread - #31/INFO]: [Not Secure] <Gabo399993> pero si no perdemos las cosas
-[07:24:55] [Async Chat Thread - #31/INFO]: [Not Secure] <Gabo399993> xd
-[07:25:09] [Async Chat Thread - #32/INFO]: [Not Secure] <Reinhard_VA> yo si lo quiero xd
-[07:25:34] [Server thread/INFO]: Gabo399993 was slain by Ravager
-[07:26:05] [Server thread/INFO]: Gabo399993 was slain by Vindicator
-[07:26:08] [Server thread/INFO]: Gabo399993 has made the advancement [Take Aim]
-[07:26:11] [Server thread/INFO]: Gabo399993 was slain by Vindicator
-[07:26:16] [Server thread/INFO]: Gabo399993 was slain by Vex
-[07:26:28] [Server thread/INFO]: Reinhard_VA has reached the goal [Postmortal]
-[07:26:32] [Server thread/INFO]: Gabo399993 was slain by Vex
-[07:26:37] [Server thread/INFO]: Reinhard_VA was slain by Vex
-[07:28:16] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
-[07:28:16] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
-[07:28:24] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
-[07:28:24] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
-[07:28:39] [Async Chat Thread - #33/INFO]: [Not Secure] <Gabo399993> bandera tene
-[07:28:48] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
-[07:28:48] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
-[07:29:22] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
-[07:29:22] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
-[07:29:34] [Async Chat Thread - #34/INFO]: [Not Secure] <Gabo399993> onta
-[07:29:56] [Server thread/WARN]: Reinhard_VA moved too quickly! 6.521235536426616,7.0,-5.36775047055778
-[07:30:34] [Server thread/INFO]: Reinhard_VA has completed the challenge [Hero of the Village]
-[07:30:34] [Server thread/INFO]: Gabo399993 has completed the challenge [Hero of the Village]
-[07:30:49] [Async Chat Thread - #35/INFO]: [Not Secure] <Reinhard_VA> oo si
-[07:30:53] [Async Chat Thread - #37/INFO]: [Not Secure] <Gabo399993> yea
-[07:31:35] [Async Chat Thread - #35/INFO]: [Not Secure] <Gabo399993> replanta el trigo
-[07:31:59] [Async Chat Thread - #37/INFO]: [Not Secure] <Reinhard_VA> el aldeano nos da descuento por salvarlo despues vijate
-[07:32:05] [Server thread/INFO]: Reinhard_VA has made the advancement [A Seedy Place]
-[07:32:30] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
-[07:32:30] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
-[07:32:32] [Async Chat Thread - #35/INFO]: [Not Secure] <Gabo399993> 1 esmeralda por 1 arco
-[07:32:49] [Async Chat Thread - #37/INFO]: [Not Secure] <Reinhard_VA> super descuentos
-[07:32:50] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
-[07:32:50] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
-[07:35:11] [Server thread/INFO]: Reinhard_VA issued server command: /xp set Reinhard_VA 70 levels
-[07:35:11] [Server thread/INFO]: [Reinhard_VA: Set 70 experience levels on Reinhard_VA]
-[07:35:20] [Server thread/INFO]: Reinhard_VA issued server command: /xp set Reinhard_VA 124 levels
-[07:35:20] [Server thread/INFO]: [Reinhard_VA: Set 124 experience levels on Reinhard_VA]
-[07:36:22] [Server thread/INFO]: Reinhard_VA has made the advancement [What a Deal!]
-[07:37:35] [Async Chat Thread - #38/INFO]: [Not Secure] <Gabo399993> camas
-[07:37:39] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
-[07:37:39] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
-[07:37:43] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
-[07:37:43] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
-[07:37:59] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
-[07:37:59] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
-[07:38:04] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
-[07:38:04] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
-[07:38:23] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
-[07:38:23] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
-[07:38:31] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
-[07:38:31] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
-[07:39:10] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
-[07:39:10] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
-[07:39:16] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
-[07:39:16] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
-[07:39:57] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
-[07:39:57] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
-[07:40:04] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
-[07:40:04] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
-[07:40:35] [Async Chat Thread - #40/INFO]: [Not Secure] <Reinhard_VA> bro el aldeano ya es un experto
-[07:40:52] [Async Chat Thread - #41/INFO]: [Not Secure] <Gabo399993> fua
-[07:40:59] [Async Chat Thread - #40/INFO]: [Not Secure] <Reinhard_VA> le compre todo
-[07:41:00] [Async Chat Thread - #41/INFO]: [Not Secure] <Reinhard_VA> xd
-[07:42:08] [Async Chat Thread - #42/INFO]: [Not Secure] <Gabo399993> xd
-[07:42:08] [Async Chat Thread - #43/INFO]: [Not Secure] <Reinhard_VA> presta elitras
-[07:42:12] [Async Chat Thread - #44/INFO]: [Not Secure] <Reinhard_VA> y un barco
-[07:42:20] [Async Chat Thread - #43/INFO]: [Not Secure] <Reinhard_VA> se donde hay una aldea
-[07:42:26] [Async Chat Thread - #42/INFO]: [Not Secure] <Gabo399993> oka
-[07:42:34] [Async Chat Thread - #44/INFO]: [Not Secure] <Reinhard_VA> los voy a traer
-[07:42:41] [Async Chat Thread - #42/INFO]: [Not Secure] <Gabo399993> con dos
-[07:42:45] [Async Chat Thread - #44/INFO]: [Not Secure] <Gabo399993> hacemos q cojan
-[07:42:50] [Async Chat Thread - #42/INFO]: [Not Secure] <Reinhard_VA> dale
-[07:42:52] [Async Chat Thread - #44/INFO]: [Not Secure] <Gabo399993> me das mi caja?xd
-[07:43:10] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
-[07:43:10] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
-[07:43:17] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
-[07:43:17] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
-[07:43:27] [Async Chat Thread - #44/INFO]: [Not Secure] <Gabo399993> preparo el campo de concentracion
-[07:43:32] [Async Chat Thread - #42/INFO]: [Not Secure] <Reinhard_VA> dale
-[07:43:45] [Async Chat Thread - #44/INFO]: [Not Secure] <Gabo399993> a la casa van los importante
-[07:44:11] [Async Chat Thread - #42/INFO]: [Not Secure] <Reinhard_VA> las elytras son un f-22 xdd
-[07:44:35] [Server thread/WARN]: Reinhard_VA moved wrongly!
-[07:49:19] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
-[07:49:19] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
-[07:49:27] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
-[07:49:27] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
-[07:49:27] [Async Chat Thread - #45/INFO]: [Not Secure] <Gabo399993> cmo va
-[07:50:05] [Async Chat Thread - #46/INFO]: [Not Secure] <Reinhard_VA> los perdi en el camino
-[07:50:17] [Async Chat Thread - #47/INFO]: [Not Secure] <Gabo399993> quesignificael
-[07:50:49] [Server thread/INFO]: Reinhard_VA fell from a high place
-[07:50:58] [Async Chat Thread - #47/INFO]: [Not Secure] <Reinhard_VA> tuve una pesadilla
-[07:51:13] [Async Chat Thread - #46/INFO]: [Not Secure] <Gabo399993> mira
-[07:51:23] [Async Chat Thread - #46/INFO]: [Not Secure] <Reinhard_VA> soñe que volava a toda velocidad y me estrellaba y moria
-[07:51:39] [Async Chat Thread - #47/INFO]: [Not Secure] <Gabo399993> camas
-[07:51:47] [Async Chat Thread - #46/INFO]: [Not Secure] <Reinhard_VA> traelas
-[07:52:00] [Async Chat Thread - #46/INFO]: [Not Secure] <Reinhard_VA> te presto una parte de mi armadura eleji cual
-[07:52:17] [Async Chat Thread - #47/INFO]: [Not Secure] <Gabo399993> el peto
-[07:52:38] [Async Chat Thread - #48/INFO]: [Not Secure] <Reinhard_VA> toma
-[07:54:14] [Server thread/INFO]: Villager EntityVillager['Villager'/29224, uuid='1a17fc5d-2f80-4581-afb4-ae673e4b9c13', l='ServerLevel[world]', x=-1029.30, y=62.55, z=-291.19, cpos=[-65, -19], tl=991, v=true] died, message: 'Villager was slain by Reinhard_VA'
-[07:54:26] [Server thread/INFO]: Villager EntityVillager['Villager'/29235, uuid='5c454cd4-32b1-4db4-a3fe-00a399fea7a4', l='ServerLevel[world]', x=-1076.04, y=64.00, z=-317.50, cpos=[-68, -20], tl=1189, v=true] died, message: 'Villager was slain by Reinhard_VA'
-[07:54:45] [Async Chat Thread - #49/INFO]: [Not Secure] <Gabo399993> y los aldeanos
-[07:55:00] [Async Chat Thread - #50/INFO]: [Not Secure] <Reinhard_VA> weon no puedo poner las soga al barco
-[07:55:05] [Async Chat Thread - #50/INFO]: [Not Secure] <Gabo399993> xdd
-[07:55:07] [Async Chat Thread - #50/INFO]: [Not Secure] <Reinhard_VA> desaparese la soga
-[07:55:27] [Async Chat Thread - #51/INFO]: [Not Secure] <Gabo399993> papu
-[07:55:31] [Async Chat Thread - #51/INFO]: [Not Secure] <Gabo399993> seguimo mañana
-[07:55:34] [Async Chat Thread - #51/INFO]: [Not Secure] <Gabo399993> q no tengo bate
-[07:55:36] [Async Chat Thread - #51/INFO]: [Not Secure] <Gabo399993> xd
-[07:55:39] [Async Chat Thread - #50/INFO]: [Not Secure] <Reinhard_VA> jajaj
-[07:55:45] [Async Chat Thread - #51/INFO]: [Not Secure] <Reinhard_VA> weno papu
-[07:55:47] [Async Chat Thread - #50/INFO]: [Not Secure] <Gabo399993> descansa papu:v
-[07:55:54] [Async Chat Thread - #51/INFO]: [Not Secure] <Gabo399993> buen comienzo xdd
-[07:56:31] [Async Chat Thread - #52/INFO]: [Not Secure] <Gabo399993> wena noshe
-[07:56:38] [Async Chat Thread - #51/INFO]: [Not Secure] <Reinhard_VA> wenas noche
-[07:56:39] [Async Chat Thread - #51/INFO]: [Not Secure] <Reinhard_VA> papu
-[07:56:49] [Async Chat Thread - #50/INFO]: [Not Secure] <Gabo399993> q
-[07:56:53] [Async Chat Thread - #50/INFO]: [Not Secure] <Reinhard_VA> nada
-[07:56:56] [Async Chat Thread - #50/INFO]: [Not Secure] <Gabo399993> a
-[07:56:58] [Async Chat Thread - #51/INFO]: [Not Secure] <Gabo399993> adio
-[07:57:00] [Server thread/INFO]: Gabo399993 lost connection: Disconnected
-[07:57:00] [Server thread/INFO]: Gabo399993 left the game
-[07:57:02] [Async Chat Thread - #51/INFO]: [Not Secure] <Reinhard_VA> adio
-[07:57:09] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
-[07:57:09] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
+[02:20:37] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.3.2
+[02:20:37] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[02:20:38] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[02:20:38] [Server thread/INFO]: [floodgate] Took 656ms to boot Floodgate
+[02:20:38] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.4
+[02:20:38] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.2
+[02:20:38] [Server thread/INFO]: [Vanish] Loading server plugin Vanish v0.1
+[02:20:38] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.7.0-SNAPSHOT
+[02:20:38] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[02:20:38] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[02:20:38] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:20:38] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.4
+[02:20:38] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.2
+[02:20:39] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[02:20:39] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
+[02:20:39] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[02:20:39] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[02:20:39] [Server thread/WARN]: [SkinsRestorer] Please update your Java runtime to at least Java 21 (your version is 17).
+[02:20:39] [Server thread/WARN]: [SkinsRestorer] At some point in the future, SkinsRestorer will no longer be compatible with this version of Java.
+[02:20:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:20:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:20:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:20:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:20:39] [Server thread/INFO]: Preparing level "world"
+[02:20:40] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:20:40] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[02:20:40] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[02:20:40] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[02:20:40] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[02:20:40] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[02:20:40] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:20:40] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.2
+[02:20:40] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 7bda5de
+[02:20:40] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[02:20:40] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:20:40] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[02:20:40] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[02:20:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:20:49] [Server thread/INFO]: Time elapsed: 147 ms
+[02:20:49] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:20:49] [Server thread/INFO]: Time elapsed: 104 ms
+[02:20:49] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:20:49] [Server thread/INFO]: Time elapsed: 94 ms
+[02:20:49] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.3.2
+[02:20:50] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20-1.20.1 (763)
+[02:20:50] [Server thread/WARN]: [ViaVersion] Please update your Java runtime to at least Java 21 (your version is 17.0.14).
+[02:20:50] [Server thread/WARN]: [ViaVersion] At some point in the future, ViaVersion will no longer be compatible with this version of Java.
+[02:20:50] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.3.2
+[02:20:50] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[02:20:50] [Server thread/INFO]: [Vanish] Enabling Vanish v0.1
+[02:20:50] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.7.0-SNAPSHOT
+[02:20:50] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[02:20:50] [Server thread/INFO]: [Geyser-Spigot] 
+[02:20:50] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.7.0-b812 (git-master-efd4dcc)
+[02:20:50] [Server thread/INFO]: [Geyser-Spigot] 
+[02:20:50] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[02:20:55] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 12059
+[02:20:55] [Server thread/INFO]: [Geyser-Spigot] Done (4.36s)! Run /geyser help for help!
+[02:20:55] [Server thread/INFO]: Running delayed init tasks
+[02:20:55] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[02:20:55] [Server thread/INFO]: Done (21.382s)! For help, type "help"
+[02:20:55] [Server thread/INFO]: Timings Reset
+[02:22:48] [User Authenticator #0/INFO]: UUID of player Gabo399993 is e5d2c659-7ff0-35a0-9d18-4e93dd405c1a
+[02:22:48] [Server thread/INFO]: Gabo399993 joined the game
+[02:22:48] [Server thread/INFO]: Gabo399993[/[0:0:0:0:0:0:0:1%0]:60934] logged in with entity id 524 at ([world]10.5, 66.0, -10.5)
+[02:22:57] [Server thread/INFO]: [Not Secure] [Server] holaaa
+[02:23:16] [Server thread/INFO]: [Not Secure] [Server] respondele a tu dios concha tu madre
+[02:23:22] [Async Chat Thread - #1/INFO]: [Not Secure] <Gabo399993> ola dios
+[02:23:31] [Server thread/INFO]: [Not Secure] [Server] hola hijo mio
+[02:23:44] [Server thread/INFO]: Gabo399993 has made the advancement [Stone Age]
+[02:23:57] [Server thread/INFO]: [Not Secure] [Server] ya conseguiste piedra
+[02:24:00] [Server thread/INFO]: [Not Secure] [Server] waos
+[02:24:30] [Server thread/INFO]: Gabo399993 has made the advancement [Getting an Upgrade]
+[02:25:35] [Server thread/INFO]: Made list a server operator
+[02:26:08] [User Authenticator #1/INFO]: UUID of player Reinhard_VA is e724f87b-9bf4-37f1-a1e9-4f9fb2f1cabc
+[02:26:08] [Server thread/INFO]: Reinhard_VA joined the game
+[02:26:08] [Server thread/INFO]: Reinhard_VA[/[0:0:0:0:0:0:0:1%0]:57468] logged in with entity id 1131 at ([world]22.5, 70.0, -9.5)
+[02:26:16] [User Authenticator #1/INFO]: UUID of player gonzalo is 2a9fec94-fab5-38f3-899c-f2ebc9025a46
+[02:26:16] [Server thread/INFO]: gonzalo joined the game
+[02:26:16] [Server thread/INFO]: gonzalo[/[0:0:0:0:0:0:0:1%0]:40594] logged in with entity id 1137 at ([world]25.5, 71.0, -23.5)
+[02:26:23] [Async Chat Thread - #2/INFO]: [Not Secure] <Gabo399993> pone keep
+[02:26:33] [Async Chat Thread - #3/INFO]: [Not Secure] <Reinhard_VA> oka
+[02:26:35] [Async Chat Thread - #2/INFO]: [Not Secure] <Reinhard_VA> holaa
+[02:26:51] [Server thread/INFO]: Reinhard_VA issued server command: /gamerule keepInventory true
+[02:26:51] [Server thread/INFO]: [Reinhard_VA: Gamerule keepInventory is now set to: true]
+[02:27:01] [Server thread/INFO]: Reinhard_VA issued server command: /gamerule doImmediateRespawn true
+[02:27:01] [Server thread/INFO]: [Reinhard_VA: Gamerule doImmediateRespawn is now set to: true]
+[02:27:05] [Async Chat Thread - #3/INFO]: [Not Secure] <Reinhard_VA> listp
+[02:27:14] [Async Chat Thread - #2/INFO]: [Not Secure] <gonzalo> bruno
+[02:27:19] [Async Chat Thread - #3/INFO]: [Not Secure] <Reinhard_VA> que paso
+[02:27:36] [Async Chat Thread - #2/INFO]: [Not Secure] <Reinhard_VA> yo soy bruno
+[02:27:41] [Async Chat Thread - #3/INFO]: [Not Secure] <Reinhard_VA> y gabo es angel
+[02:27:42] [Async Chat Thread - #2/INFO]: [Not Secure] <gonzalo> te puedo contar algo
+[02:27:48] [Async Chat Thread - #3/INFO]: [Not Secure] <Reinhard_VA> dale
+[02:28:03] [Async Chat Thread - #2/INFO]: [Not Secure] <gonzalo> por whasaap
+[02:28:06] [Async Chat Thread - #3/INFO]: [Not Secure] <Reinhard_VA> oka
+[02:28:43] [Server thread/INFO]: Reinhard_VA has made the advancement [Stone Age]
+[02:28:52] [Server thread/INFO]: Reinhard_VA has made the advancement [Getting an Upgrade]
