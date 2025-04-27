@@ -178,3 +178,73 @@ java.lang.NoSuchMethodError: 'com.viaversion.viaversion.api.minecraft.entities.E
 [02:39:35] [Server thread/INFO]: Gabo399993 has made the advancement [Hot Stuff]
 [02:39:39] [Server thread/INFO]: gonzalo was shot by Skeleton
 [02:39:52] [Server thread/INFO]: Reinhard_VA was slain by Zombie Villager
+[02:40:51] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
+[02:40:51] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
+[02:41:06] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
+[02:41:06] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
+[02:41:08] [Server thread/INFO]: Gabo399993 has made the advancement [We Need to Go Deeper]
+[02:41:23] [Server thread/INFO]: Reinhard_VA has made the advancement [Isn't It Iron Pick]
+[02:41:30] [Server thread/INFO]: Reinhard_VA has made the advancement [We Need to Go Deeper]
+[02:41:34] [Async Chat Thread - #10/INFO]: [Not Secure] <gonzalo> que hacemos el dragon
+[02:41:37] [Server thread/INFO]: Reinhard_VA issued server command: /gamerule doImmediateRespawn true
+[02:41:37] [Server thread/INFO]: [Reinhard_VA: Gamerule doImmediateRespawn is now set to: true]
+[02:41:40] [Server thread/INFO]: gonzalo has made the advancement [We Need to Go Deeper]
+[02:41:43] [Server thread/INFO]: Reinhard_VA issued server command: /gamerule keepInventory true
+[02:41:43] [Server thread/INFO]: [Reinhard_VA: Gamerule keepInventory is now set to: true]
+[02:42:10] [Async Chat Thread - #12/INFO]: [Not Secure] <Gabo399993> entra al nether y pone keep
+[02:42:13] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
+[02:42:13] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
+[02:42:20] [Async Chat Thread - #10/INFO]: [Not Secure] <Reinhard_VA> ya esta
+[02:42:29] [Server thread/INFO]: Reinhard_VA has made the advancement [A Terrible Fortress]
+[02:42:29] [Async Chat Thread - #12/INFO]: [Not Secure] <gonzalo> keep
+[02:42:56] [Async Chat Thread - #10/INFO]: [Not Secure] <Gabo399993> buscas varas y yo perlas
+[02:43:03] [Server thread/INFO]: Reinhard_VA has made the advancement [Into Fire]
+[02:43:14] [Async Chat Thread - #12/INFO]: [Not Secure] <Gabo399993> buscas varas y yo perlas
+[02:43:24] [Async Chat Thread - #10/INFO]: [Not Secure] <Reinhard_VA> ya estoy
+[02:43:34] [Async Chat Thread - #12/INFO]: [Not Secure] <Gabo399993> ?
+[02:43:38] [Async Chat Thread - #10/INFO]: [Not Secure] <Reinhard_VA> en un bosque inverso y en donde spawnean los blaze
+[02:44:12] [Server thread/INFO]: Reinhard_VA has made the advancement [Diamonds!]
+[02:44:16] [Server thread/INFO]: gonzalo was slain by Hoglin
+[02:44:25] [Server thread/INFO]: Gabo399993 has made the advancement [A Terrible Fortress]
+[02:44:30] [Server thread/INFO]: Gabo399993 has made the advancement [Not Today, Thank You]
+[02:44:41] [Server thread/INFO]: Gabo399993 burned to death
+[02:44:42] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
+[02:44:42] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
+[02:44:47] [Async Chat Thread - #13/INFO]: [Not Secure] <Gabo399993> puta
+[02:44:54] [Async Chat Thread - #14/INFO]: [Not Secure] <Reinhard_VA> amigo te vi
+[02:45:02] [Server thread/INFO]: Reinhard_VA issued server command: /tp Gabo399993 Reinhard_VA
+[02:45:02] [Server thread/INFO]: [Reinhard_VA: Teleported Gabo399993 to Reinhard_VA]
+[02:45:19] [Server thread/INFO]: gonzalo was doomed to fall by Hoglin
+[02:45:30] [Server thread/INFO]: Reinhard_VA was slain by Wither Skeleton
+[02:45:46] [Server thread/INFO]: Reinhard_VA has made the advancement [Suit Up]
+[02:45:56] [Async Chat Thread - #16/INFO]: [Not Secure] <gonzalo> YO CONSIGO LAS PERLAS
+[02:46:07] [Async Chat Thread - #15/INFO]: [Not Secure] <Reinhard_VA> ok
+[02:46:11] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
+[02:46:11] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
+[02:46:14] [Server thread/INFO]: Gabo399993 was burnt to a crisp whilst fighting Blaze
+[02:46:18] [Async Chat Thread - #16/INFO]: [Not Secure] <Gabo399993> tamare
+[02:46:20] [Async Chat Thread - #16/INFO]: [Not Secure] <Gabo399993> son muchos
+[02:46:33] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
+[02:46:33] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
+[02:46:35] [Server thread/INFO]: Reinhard_VA issued server command: /tp Gabo399993 Reinhard_VA
+[02:46:35] [Server thread/INFO]: [Reinhard_VA: Teleported Gabo399993 to Reinhard_VA]
+[02:46:38] [Async Chat Thread - #15/INFO]: [Not Secure] <Reinhard_VA> ohh si
+[02:46:42] [Async Chat Thread - #16/INFO]: [Not Secure] <Reinhard_VA> nah id win
+[02:46:46] [Async Chat Thread - #15/INFO]: [Not Secure] <Gabo399993> no vale pacifico:v
+[02:47:01] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
+[02:47:01] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
+[02:47:05] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
+[02:47:05] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
+[02:47:07] [Server thread/INFO]: Gabo399993 has made the advancement [Into Fire]
+[02:47:25] [Server thread/INFO]: Gabo399993 was fireballed by Blaze
+[02:48:34] [Server thread/INFO]: gonzalo was slain by Piglin
+[02:48:48] [Async Chat Thread - #17/INFO]: [Not Secure] <Gabo399993> no me hagas tp a mi
+[02:48:57] [Async Chat Thread - #18/INFO]: [Not Secure] <Reinhard_VA> ok
+[02:49:01] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
+[02:49:01] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
+[02:49:21] [Async Chat Thread - #17/INFO]: [Not Secure] <gonzalo> E POR DONDE CONSIGO ORO
+[02:49:37] [Async Chat Thread - #18/INFO]: [Not Secure] <Reinhard_VA> las pepitas
+[02:49:48] [Async Chat Thread - #17/INFO]: [Not Secure] <Reinhard_VA> en la mesa de crafteo podes craftear lingotes
+[02:49:59] [Async Chat Thread - #18/INFO]: [Not Secure] <Reinhard_VA> tengo perlas y baritas
+[02:49:59] [Async Chat Thread - #17/INFO]: [Not Secure] <gonzalo> QUE BIOMA
+[02:50:11] [Async Chat Thread - #18/INFO]: [Not Secure] <Reinhard_VA> en cualquier bioma
