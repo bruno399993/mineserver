@@ -248,3 +248,40 @@ java.lang.NoSuchMethodError: 'com.viaversion.viaversion.api.minecraft.entities.E
 [02:49:59] [Async Chat Thread - #18/INFO]: [Not Secure] <Reinhard_VA> tengo perlas y baritas
 [02:49:59] [Async Chat Thread - #17/INFO]: [Not Secure] <gonzalo> QUE BIOMA
 [02:50:11] [Async Chat Thread - #18/INFO]: [Not Secure] <Reinhard_VA> en cualquier bioma
+[02:51:09] [Server thread/WARN]: gonzalo moved too quickly! -10.285585546173934,1.4129092804170114,-5.094019888942327
+[02:51:53] [Server thread/INFO]: Reinhard_VA lost connection: Disconnected
+[02:51:53] [Server thread/INFO]: Reinhard_VA left the game
+[02:52:03] [User Authenticator #2/INFO]: UUID of player Reinhard_VA is e724f87b-9bf4-37f1-a1e9-4f9fb2f1cabc
+[02:52:03] [Server thread/INFO]: Reinhard_VA joined the game
+[02:52:03] [Server thread/INFO]: Reinhard_VA[/[0:0:0:0:0:0:0:1%0]:41620] logged in with entity id 10040 at ([world_nether]-497.69999998807907, 118.08240710983456, -285.30000001192093)
+[02:52:52] [Server thread/INFO]: Reinhard_VA has made the advancement [Those Were the Days]
+[02:53:02] [Server thread/INFO]: Reinhard_VA has made the advancement [War Pigs]
+[02:53:04] [Server thread/INFO]: Reinhard_VA has made the advancement [Hidden in the Depths]
+[02:53:08] [Server thread/INFO]: Reinhard_VA has made the advancement [Who is Cutting Onions?]
+[02:54:40] [Server thread/INFO]: Reinhard_VA has made the advancement [Ice Bucket Challenge]
+[02:55:04] [Server thread/INFO]: gonzalo has made the advancement [A Terrible Fortress]
+[02:55:11] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
+[02:55:11] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
+[02:55:17] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
+[02:55:17] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
+[02:55:50] [Async Chat Thread - #19/INFO]: [Not Secure] <Reinhard_VA> ohhh sii
+[02:56:10] [Server thread/INFO]: Reinhard_VA has made the advancement [Spooky Scary Skeleton]
+[02:56:13] [Server thread/INFO]: gonzalo was slain by Wither Skeleton
+[02:56:25] [Async Chat Thread - #20/INFO]: [Not Secure] <gonzalo> TP
+[02:56:48] [Async Chat Thread - #19/INFO]: [Not Secure] <Reinhard_VA> nah i'd win
+[02:56:50] [Server thread/INFO]: Reinhard_VA has made the advancement [Withering Heights]
+[02:58:04] [Async Chat Thread - #21/INFO]: [Not Secure] <Gabo399993> tamare
+[02:58:05] [Async Chat Thread - #22/INFO]: [Not Secure] <Gabo399993> me perdi
+[02:58:08] [Async Chat Thread - #21/INFO]: [Not Secure] <Gabo399993> qpaja
+[02:58:15] [Async Chat Thread - #22/INFO]: [Not Secure] <Gabo399993> es irreal como avanzas de rapido man
+[02:58:21] [Async Chat Thread - #21/INFO]: [Not Secure] <Gabo399993> full iron de golpe
+[02:58:25] [Async Chat Thread - #22/INFO]: [Not Secure] <Gabo399993> imposible
+[02:58:29] [Async Chat Thread - #23/INFO]: [Not Secure] <Reinhard_VA> speedrun
+[02:58:39] [Async Chat Thread - #22/INFO]: [Not Secure] <Gabo399993> ya fue xd
+[02:58:40] [Server thread/INFO]: Gabo399993 tried to swim in lava
+[02:59:08] [Server thread/INFO]: Reinhard_VA has made the advancement [Crafting a New Look]
+[02:59:57] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
+[02:59:57] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
+[03:00:05] [Server thread/INFO]: gonzalo has made the advancement [Ice Bucket Challenge]
+[03:00:32] [Server thread/INFO]: gonzalo was slain by Hoglin
+[03:00:34] [Server thread/INFO]: Reinhard_VA was slain by Piglin
