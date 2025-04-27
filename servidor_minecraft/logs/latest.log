@@ -545,3 +545,51 @@ java.lang.NoSuchMethodError: 'com.viaversion.viaversion.api.minecraft.entities.E
 [03:59:49] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
 [04:00:44] [Server thread/INFO]: PaperBeet has made the advancement [Not Today, Thank You]
 [04:00:51] [Server thread/INFO]: gonzalo has made the advancement [What a Deal!]
+[04:02:09] [Server thread/INFO]: PaperBeet was doomed to fall by Zombie
+[04:02:51] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[04:03:06] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
+[04:03:06] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
+[04:03:26] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
+[04:03:26] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
+[04:03:53] [Server thread/INFO]: PGTXD has made the advancement [Isn't It Iron Pick]
+[04:05:16] [Server thread/INFO]: PGTXD has made the advancement [Diamonds!]
+[04:06:29] [Server thread/INFO]: PGTXD has made the advancement [Cover Me with Diamonds]
+[04:06:35] [Server thread/INFO]: PaperBeet hit the ground too hard
+[04:06:56] [Server thread/INFO]: PaperBeet issued server command: /g
+[04:06:59] [Server thread/INFO]: Reinhard_VA issued server command: /gamerule keepInventory false
+[04:06:59] [Server thread/INFO]: [Reinhard_VA: Gamerule keepInventory is now set to: false]
+[04:07:51] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
+[04:07:51] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
+[04:08:06] [Server thread/INFO]: gonzalo has made the advancement [Take Aim]
+[04:08:33] [Server thread/INFO]: PGTXD issued server command: /team
+[04:08:35] [Server thread/INFO]: PGTXD issued server command: /teammsg
+[04:08:40] [Server thread/INFO]: gonzalo has made the advancement [Best Friends Forever]
+[04:08:41] [Server thread/INFO]: Reinhard_VA issued server command: /tp Reinhard_VA PaperBeet
+[04:08:41] [Server thread/INFO]: [Reinhard_VA: Teleported Reinhard_VA to PaperBeet]
+[04:09:08] [Server thread/INFO]: Reinhard_VA issued server command: /tp Reinhard_VA PGTXD
+[04:09:08] [Server thread/INFO]: [Reinhard_VA: Teleported Reinhard_VA to PGTXD]
+[04:09:09] [Server thread/INFO]: gonzalo has made the advancement [The Parrots and the Bats]
+[04:09:46] [Async Chat Thread - #52/INFO]: [Not Secure] <PGTXD> particulas
+[04:09:49] [Async Chat Thread - #54/INFO]: [Not Secure] <PGTXD> JAJAJJAJAJ
+[04:09:58] [Async Chat Thread - #52/INFO]: [Not Secure] <Reinhard_VA> que on con esos xray
+[04:10:06] [Async Chat Thread - #54/INFO]: [Not Secure] <PGTXD> vos usas creativo
+[04:10:27] [Async Chat Thread - #54/INFO]: [Not Secure] <Reinhard_VA> si porque me llego la alerta de xray
+[04:10:28] [Async Chat Thread - #52/INFO]: [Not Secure] <gonzalo> ¨P porfa
+[04:10:35] [Async Chat Thread - #52/INFO]: [Not Secure] <PGTXD> xd
+[04:10:53] [Server thread/INFO]: Reinhard_VA issued server command: /ban PGTXD uso de X-RAY
+[04:10:53] [Server thread/INFO]: [Reinhard_VA: Banned PGTXD: uso de X-RAY]
+[04:10:53] [Server thread/INFO]: PGTXD lost connection: You are banned from this server
+[04:10:53] [Server thread/INFO]: PGTXD left the game
+[04:11:16] [Async Chat Thread - #52/INFO]: [Not Secure] <gonzalo> bruno me hces tp
+[04:11:23] [Async Chat Thread - #54/INFO]: [Not Secure] <Reinhard_VA> juegen bien o los baneo
+[04:11:35] [Async Chat Thread - #54/INFO]: [Not Secure] <Reinhard_VA> si usan xray tambien
+[04:11:36] [User Authenticator #6/INFO]: UUID of player PGTXD is b916a944-c3c9-3f32-913d-526c5d9ef80f
+[04:11:36] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@9ba0f89[id=b916a944-c3c9-3f32-913d-526c5d9ef80f,name=PGTXD,properties={textures=[com.mojang.authlib.properties.Property@79accc61]},legacy=false] (/[0:0:0:0:0:0:0:1%0]:38798): You are banned from this server.
+Reason: uso de X-RAY
+[04:11:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@9ba0f89[id=b916a944-c3c9-3f32-913d-526c5d9ef80f,name=PGTXD,properties={textures=[com.mojang.authlib.properties.Property@79accc61]},legacy=false] (/[0:0:0:0:0:0:0:1%0]:38798) lost connection: You are banned from this server.
+Reason: uso de X-RAY
+[04:11:39] [User Authenticator #6/INFO]: UUID of player PGTXD is b916a944-c3c9-3f32-913d-526c5d9ef80f
+[04:11:39] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@1c8cbe90[id=b916a944-c3c9-3f32-913d-526c5d9ef80f,name=PGTXD,properties={textures=[com.mojang.authlib.properties.Property@6a94099b]},legacy=false] (/[0:0:0:0:0:0:0:1%0]:38820): You are banned from this server.
+Reason: uso de X-RAY
+[04:11:40] [Server thread/INFO]: com.mojang.authlib.GameProfile@1c8cbe90[id=b916a944-c3c9-3f32-913d-526c5d9ef80f,name=PGTXD,properties={textures=[com.mojang.authlib.properties.Property@6a94099b]},legacy=false] (/[0:0:0:0:0:0:0:1%0]:38820) lost connection: You are banned from this server.
+Reason: uso de X-RAY
