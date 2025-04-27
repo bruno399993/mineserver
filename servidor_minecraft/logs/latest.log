@@ -449,3 +449,99 @@ java.lang.NoSuchMethodError: 'com.viaversion.viaversion.api.minecraft.entities.E
 [03:41:06] [Server thread/INFO]: PGTXD has made the advancement [Ice Bucket Challenge]
 [03:41:08] [Server thread/INFO]: PGTXD has made the advancement [Stone Age]
 [03:41:09] [Server thread/INFO]: PGTXD has made the advancement [Who is Cutting Onions?]
+[03:42:06] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
+[03:42:06] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
+[03:42:13] [Server thread/INFO]: PaperBeet has made the advancement [Monster Hunter]
+[03:42:20] [Server thread/INFO]: Reinhard_VA issued server command: /vanish
+[03:42:33] [Server thread/INFO]: PGTXD has made the advancement [Sweet Dreams]
+[03:42:47] [Server thread/INFO]: Reinhard_VA issued server command: /tp Reinhard_VA PGTXD
+[03:42:47] [Server thread/INFO]: [Reinhard_VA: Teleported Reinhard_VA to PGTXD]
+[03:42:57] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
+[03:42:57] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
+[03:43:05] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
+[03:43:05] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
+[03:43:09] [Server thread/INFO]: Reinhard_VA issued server command: /vanish
+[03:43:12] [Server thread/INFO]: PGTXD lost connection: Disconnected
+[03:43:12] [Server thread/INFO]: PGTXD left the game
+[03:43:38] [Server thread/INFO]: gonzalo was slain by Spider
+[03:43:49] [Server thread/INFO]: Reinhard_VA issued server command: /tp Reinhard_VA gonzalo
+[03:43:49] [Server thread/INFO]: [Reinhard_VA: Teleported Reinhard_VA to gonzalo]
+[03:43:53] [Async Chat Thread - #42/INFO]: [Not Secure] <gonzalo> bruno me haces tp
+[03:43:54] [User Authenticator #5/INFO]: UUID of player PGTXD is b916a944-c3c9-3f32-913d-526c5d9ef80f
+[03:43:54] [Server thread/INFO]: PGTXD joined the game
+[03:43:54] [Server thread/INFO]: PGTXD[/[0:0:0:0:0:0:0:1%0]:51524] logged in with entity id 40940 at ([world]-249.30399602469566, 71.0587968405392, -350.7843328794329)
+[03:44:07] [Async Chat Thread - #42/INFO]: [Not Secure] <Reinhard_VA> a donde?
+[03:44:27] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
+[03:44:27] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
+[03:44:27] [Async Chat Thread - #43/INFO]: [Not Secure] <gonzalo> ya habia entrado de queria robar las cosas
+[03:44:31] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
+[03:44:31] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
+[03:44:32] [Server thread/INFO]: PaperBeet has made the advancement [Sweet Dreams]
+[03:44:46] [Async Chat Thread - #42/INFO]: [Not Secure] <gonzalo> beni ami base
+[03:44:50] [Async Chat Thread - #43/INFO]: [Not Secure] <Reinhard_VA> ok
+[03:46:49] [Server thread/INFO]: PaperBeet has made the advancement [Getting an Upgrade]
+[03:47:12] [Server thread/INFO]: PaperBeet has made the advancement [Acquire Hardware]
+[03:48:19] [Server thread/INFO]: Villager EntityVillager['Villager'/38827, uuid='38cac7f3-9e25-476a-878b-c480e04cde97', l='ServerLevel[world]', x=-253.84, y=72.00, z=-368.06, cpos=[-16, -24], tl=27681, v=true] died, message: 'Villager was burnt to a crisp whilst fighting Reinhard_VA'
+[03:48:20] [Async Chat Thread - #44/INFO]: [Not Secure] <gonzalo> juntemos los aldeanos
+[03:48:39] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
+[03:48:39] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
+[03:48:45] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
+[03:48:45] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
+[03:50:44] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
+[03:50:44] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
+[03:50:51] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
+[03:50:51] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
+[03:50:58] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
+[03:50:58] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
+[03:51:03] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
+[03:51:03] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
+[03:51:23] [Async Chat Thread - #46/INFO]: [Not Secure] <gonzalo> tenes nederite
+[03:51:30] [Server thread/INFO]: PGTXD has made the advancement [Monster Hunter]
+[03:51:34] [Async Chat Thread - #47/INFO]: [Not Secure] <PGTXD> yo la tengo
+[03:51:36] [Async Chat Thread - #46/INFO]: [Not Secure] <PGTXD> si tejngo
+[03:51:38] [Async Chat Thread - #46/INFO]: [Not Secure] <PaperBeet> tengo una pija la queres igual?
+[03:51:39] [Async Chat Thread - #47/INFO]: [Not Secure] <PGTXD> si tengo
+[03:51:51] [Server thread/INFO]: PGTXD has made the advancement [Getting an Upgrade]
+[03:52:11] [Server thread/INFO]: Reinhard_VA issued server command: /vanish
+[03:52:20] [Server thread/INFO]: Reinhard_VA issued server command: /tp Reinhard_VA PaperBeet
+[03:52:20] [Server thread/INFO]: [Reinhard_VA: Teleported Reinhard_VA to PaperBeet]
+[03:52:39] [Server thread/INFO]: Reinhard_VA issued server command: /vanish
+[03:53:22] [Server thread/INFO]: Reinhard_VA was slain by PGTXD
+[03:53:32] [Server thread/INFO]: Reinhard_VA issued server command: /vanish
+[03:53:36] [Server thread/INFO]: Reinhard_VA issued server command: /tp Reinhard_VA PaperBeet
+[03:53:36] [Server thread/INFO]: [Reinhard_VA: Teleported Reinhard_VA to PaperBeet]
+[03:53:45] [Server thread/INFO]: Reinhard_VA issued server command: /vanish
+[03:53:49] [Server thread/INFO]: PGTXD has made the advancement [Acquire Hardware]
+[03:54:04] [Server thread/INFO]: PaperBeet was burnt to a crisp whilst fighting Reinhard_VA
+[03:54:12] [Server thread/WARN]: Reinhard_VA moved wrongly!
+[03:54:51] [Server thread/INFO]: PGTXD was slain by Reinhard_VA
+[03:55:01] [Async Chat Thread - #48/INFO]: [Not Secure] <PGTXD> creativo?
+[03:55:19] [Async Chat Thread - #49/INFO]: [Not Secure] <Reinhard_VA> no speedruner
+[03:55:45] [Async Chat Thread - #48/INFO]: [Not Secure] <gonzalo> CREATIVO QUE COSA
+[03:55:47] [Async Chat Thread - #49/INFO]: [Not Secure] <PGTXD> mira vos
+[03:56:03] [Async Chat Thread - #48/INFO]: [Not Secure] <gonzalo> QUIEN
+[03:56:15] [Async Chat Thread - #49/INFO]: [Not Secure] <gonzalo> REINART
+[03:56:30] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
+[03:56:30] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
+[03:56:40] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
+[03:56:40] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
+[03:56:47] [Server thread/INFO]: PaperBeet has made the advancement [What a Deal!]
+[03:57:12] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
+[03:57:12] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
+[03:57:17] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
+[03:57:17] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
+[03:58:01] [Server thread/INFO]: Reinhard_VA issued server command: /vanish
+[03:58:10] [Server thread/INFO]: Reinhard_VA issued server command: /vanish
+[03:58:15] [Async Chat Thread - #50/INFO]: [Not Secure] <PGTXD> ese /vanish
+[03:58:25] [Async Chat Thread - #51/INFO]: [Not Secure] <PGTXD> boludo no soy
+[03:58:47] [Async Chat Thread - #50/INFO]: [Not Secure] <Reinhard_VA> jaaj
+[03:59:07] [Async Chat Thread - #51/INFO]: [Not Secure] <Reinhard_VA> boludo no devil si xd
+[03:59:16] [Async Chat Thread - #50/INFO]: [Not Secure] <PGTXD> devil
+[03:59:24] [Async Chat Thread - #51/INFO]: [Not Secure] <PGTXD> aprende a escribir, despues bardea
+[03:59:38] [Async Chat Thread - #51/INFO]: [Not Secure] <Reinhard_VA> jajaaj enserio te arde lo que te dije
+[03:59:43] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode creative
+[03:59:43] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Creative Mode]
+[03:59:49] [Server thread/INFO]: Reinhard_VA issued server command: /gamemode survival
+[03:59:49] [Server thread/INFO]: [Reinhard_VA: Set own game mode to Survival Mode]
+[04:00:44] [Server thread/INFO]: PaperBeet has made the advancement [Not Today, Thank You]
+[04:00:51] [Server thread/INFO]: gonzalo has made the advancement [What a Deal!]
