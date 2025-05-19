@@ -680,3 +680,295 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19May2025 05:37:13.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabo399993> hay un texto
 [19May2025 05:37:18.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabo399993> q cada q sale da alg
 [19May2025 05:37:20.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabo399993> lag
+[19May2025 05:37:37.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabo399993 has made the advancement [Getting an Upgrade]
+[19May2025 05:37:40.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reinhard_VA has made the advancement [Getting an Upgrade]
+[19May2025 05:37:58.034] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=40, y=79, z=26}
+[19May2025 05:38:01.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reinhard_VA> no ami no me sale
+[19May2025 05:38:05.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabo399993> mrd
+[19May2025 05:38:08.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reinhard_VA> q
+[19May2025 05:38:12.587] [Server thread/INFO] [boomcow.minezero.checkpoint.CheckpointManager/]: Setting checkpoint...
+[19May2025 05:38:12.591] [Server thread/INFO] [boomcow.minezero.checkpoint.CheckpointManager/]: Player XP: 0
+[19May2025 05:38:12.593] [Server thread/INFO] [boomcow.minezero.checkpoint.CheckpointManager/]: Player XP: 0
+[19May2025 05:38:12.603] [Server thread/INFO] [boomcow.minezero.checkpoint.CheckpointManager/]: Checkpoint set
+[19May2025 05:38:48.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabo399993> bunker?
+[19May2025 05:38:52.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reinhard_VA> dale
+[19May2025 05:39:16.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabo399993> AAAAAAAAAAAAAAAAAA
+[19May2025 05:39:18.433] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=54, y=72, z=19}
+[19May2025 05:39:19.185] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=54, y=71, z=19}
+[19May2025 05:39:19.888] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=54, y=73, z=18}
+[19May2025 05:39:20.146] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=55, y=73, z=18}
+[19May2025 05:39:21.178] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=54, y=73, z=17}
+[19May2025 05:39:21.380] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=55, y=73, z=17}
+[19May2025 05:39:22.379] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=54, y=73, z=16}
+[19May2025 05:39:22.674] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=55, y=73, z=16}
+[19May2025 05:39:23.024] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=54, y=73, z=15}
+[19May2025 05:39:23.276] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=55, y=73, z=15}
+[19May2025 05:39:33.073] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Reinhard_VA lost connection: Timed out
+[19May2025 05:39:33.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reinhard_VA left the game
+[19May2025 05:39:45.134] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=54, y=72, z=14}
+[19May2025 05:39:46.033] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=54, y=73, z=14}
+[19May2025 05:39:46.677] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=54, y=71, z=14}
+[19May2025 05:39:53.109] [Server thread/WARN] [boomcow.minezero.event.CheckpointTicker/]: Anchor player not found for UUID: e724f87b-9bf4-37f1-a1e9-4f9fb2f1cabc
+[19May2025 05:39:58.922] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=55, y=72, z=19}
+[19May2025 05:39:59.174] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=55, y=71, z=19}
+[19May2025 05:40:00.478] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=55, y=72, z=14}
+[19May2025 05:40:00.741] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=55, y=71, z=14}
+[19May2025 05:40:05.923] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=53, y=70, z=20}
+[19May2025 05:40:16.632] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=55, y=70, z=15}
+[19May2025 05:40:16.824] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=55, y=71, z=15}
+[19May2025 05:40:17.762] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=55, y=72, z=15}
+[19May2025 05:40:17.972] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=55, y=72, z=16}
+[19May2025 05:40:18.735] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=55, y=72, z=17}
+[19May2025 05:40:19.584] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=55, y=72, z=18}
+[19May2025 05:40:19.776] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=54, y=72, z=18}
+[19May2025 05:40:20.872] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=55, y=70, z=18}
+[19May2025 05:40:21.063] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=55, y=71, z=18}
+[19May2025 05:40:21.872] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=55, y=70, z=17}
+[19May2025 05:40:22.078] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=55, y=71, z=17}
+[19May2025 05:40:28.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabo399993> BRO?
+[19May2025 05:41:00.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabo399993> ayuda
+[19May2025 05:41:42.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] pera se me salio el maincra
+[19May2025 05:41:52.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabo399993 has made the advancement [Acquire Hardware]
+[19May2025 05:42:10.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] que logro conseguiste??
+[19May2025 05:42:16.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabo399993> ninguno
+[19May2025 05:42:19.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabo399993> tengo miedo
+[19May2025 05:42:28.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] peraa
+[19May2025 05:42:45.377] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=147, y=74, z=138}
+[19May2025 05:42:45.577] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=148, y=74, z=138}
+[19May2025 05:42:46.133] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=149, y=74, z=138}
+[19May2025 05:42:57.628] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=147, y=72, z=145}
+[19May2025 05:42:59.730] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=149, y=72, z=145}
+[19May2025 05:42:59.913] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=148, y=72, z=145}
+[19May2025 05:43:14.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabo399993> D:
+[19May2025 05:43:18.875] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=150, y=73, z=143}
+[19May2025 05:43:32.345] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Reinhard_VA[/[::1]:47530] logged in with entity id 3053 at (50.6279883050777, 70.0, 16.865252105896314)
+[19May2025 05:43:33.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reinhard_VA joined the game
+[19May2025 05:43:39.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabo399993> VOY
+[19May2025 05:43:54.504] [Server thread/INFO] [boomcow.minezero.checkpoint.CheckpointManager/]: Setting checkpoint...
+[19May2025 05:43:54.508] [Server thread/INFO] [boomcow.minezero.checkpoint.CheckpointManager/]: Player XP: 0
+[19May2025 05:43:54.511] [Server thread/INFO] [boomcow.minezero.checkpoint.CheckpointManager/]: Player XP: 0
+[19May2025 05:43:54.527] [Server thread/INFO] [boomcow.minezero.checkpoint.CheckpointManager/]: Checkpoint set
+[19May2025 05:44:02.426] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Reinhard_VA lost connection: Timed out
+[19May2025 05:44:02.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reinhard_VA left the game
+[19May2025 05:44:38.630] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=97, y=73, z=22}
+[19May2025 05:44:38.961] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=97, y=73, z=23}
+[19May2025 05:44:40.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] puta madre me volvio a cerrar el minecraft
+[19May2025 05:44:50.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] voy a apagar el radminvñn
+[19May2025 05:45:11.315] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_aberration:stalking but it was marked as removed already
+[19May2025 05:45:12.989] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=71, y=71, z=19}
+[19May2025 05:45:13.577] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=71, y=72, z=19}
+[19May2025 05:45:13.975] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=71, y=73, z=19}
+[19May2025 05:45:14.475] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=71, y=74, z=19}
+[19May2025 05:45:14.963] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=71, y=75, z=19}
+[19May2025 05:45:15.441] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=71, y=76, z=19}
+[19May2025 05:45:15.953] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=71, y=77, z=19}
+[19May2025 05:45:16.442] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=71, y=78, z=19}
+[19May2025 05:45:18.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabo399993 has made the advancement [Monster Hunter]
+[19May2025 05:45:26.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] viste que pedaso de cielo
+[19May2025 05:45:31.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabo399993> AYUDA
+[19May2025 05:45:38.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabo399993 died
+[19May2025 05:45:40.829] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_aberration:stalking but it was marked as removed already
+[19May2025 05:46:03.714] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_aberration:stalking but it was marked as removed already
+[19May2025 05:46:06.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] que te mato?
+[19May2025 05:46:11.568] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[19May2025 05:46:11.571] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[19May2025 05:46:11.571] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[19May2025 05:46:11.572] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[19May2025 05:46:11.959] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[19May2025 05:46:11.959] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[19May2025 05:46:11.960] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[19May2025 05:46:11.960] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[19May2025 05:46:12.017] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[19May2025 05:46:12.018] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[19May2025 05:46:12.018] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[19May2025 05:46:12.018] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[19May2025 05:46:41.164] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_aberration:stalking but it was marked as removed already
+[19May2025 05:46:58.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hay voyyy
+[19May2025 05:47:33.564] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_aberration:stalking but it was marked as removed already
+[19May2025 05:47:38.071] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[19May2025 05:47:38.071] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[19May2025 05:47:38.072] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[19May2025 05:47:38.072] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[19May2025 05:48:11.638] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Reinhard_VA[/[::1]:57054] logged in with entity id 4848 at (57.77156523450885, 70.0, 17.894392044625423)
+[19May2025 05:48:12.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reinhard_VA joined the game
+[19May2025 05:48:25.054] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Egg'/5995, l='ServerLevel[world]', x=101.17, y=74.00, z=21.26]
+[19May2025 05:48:25.056] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Egg'/5996, l='ServerLevel[world]', x=46.65, y=70.00, z=-130.79]
+[19May2025 05:48:25.057] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Egg'/5997, l='ServerLevel[world]', x=33.55, y=69.00, z=-38.36]
+[19May2025 05:48:25.058] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Cobblestone'/5998, l='ServerLevel[world]', x=46.54, y=71.00, z=17.13]
+[19May2025 05:48:25.059] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Egg'/5999, l='ServerLevel[world]', x=208.09, y=67.00, z=50.45]
+[19May2025 05:48:25.060] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Egg'/6000, l='ServerLevel[world]', x=-49.70, y=65.00, z=-53.11]
+[19May2025 05:48:25.061] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Egg'/6001, l='ServerLevel[world]', x=33.35, y=69.00, z=-36.64]
+[19May2025 05:48:25.062] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Egg'/6002, l='ServerLevel[world]', x=206.80, y=64.00, z=-44.22]
+[19May2025 05:48:25.064] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Egg'/6003, l='ServerLevel[world]', x=87.76, y=74.00, z=49.98]
+[19May2025 05:48:25.067] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Egg'/6004, l='ServerLevel[world]', x=48.53, y=70.00, z=-31.33]
+[19May2025 05:48:25.068] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Egg'/6005, l='ServerLevel[world]', x=120.01, y=71.00, z=-45.73]
+[19May2025 05:48:25.071] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Egg'/6006, l='ServerLevel[world]', x=81.07, y=71.00, z=-28.43]
+[19May2025 05:48:25.072] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Egg'/6007, l='ServerLevel[world]', x=188.67, y=67.00, z=44.44]
+[19May2025 05:48:25.073] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Cobblestone'/6008, l='ServerLevel[world]', x=48.35, y=71.00, z=19.76]
+[19May2025 05:48:25.074] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Egg'/6009, l='ServerLevel[world]', x=176.25, y=68.00, z=48.82]
+[19May2025 05:48:25.075] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Egg'/6010, l='ServerLevel[world]', x=45.62, y=70.00, z=-130.27]
+[19May2025 05:48:25.077] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Redstone Torch'/6011, l='ServerLevel[world]', x=33.88, y=2.00, z=275.88]
+[19May2025 05:48:25.079] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Redstone Torch'/6012, l='ServerLevel[world]', x=177.34, y=19.75, z=276.32]
+[19May2025 05:48:25.080] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Egg'/6013, l='ServerLevel[world]', x=204.35, y=68.00, z=54.12]
+[19May2025 05:48:25.081] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Egg'/6014, l='ServerLevel[world]', x=202.69, y=68.00, z=53.57]
+[19May2025 05:48:25.082] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Apple'/6015, l='ServerLevel[world]', x=157.99, y=69.00, z=124.35]
+[19May2025 05:48:25.083] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Egg'/6016, l='ServerLevel[world]', x=181.72, y=68.00, z=45.43]
+[19May2025 05:48:25.085] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Oak Sapling'/6017, l='ServerLevel[world]', x=159.35, y=68.00, z=128.26]
+[19May2025 05:48:25.087] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Oak Sapling'/6018, l='ServerLevel[world]', x=157.39, y=68.00, z=126.02]
+[19May2025 05:48:25.088] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Egg'/6019, l='ServerLevel[world]', x=54.88, y=69.00, z=-123.56]
+[19May2025 05:48:25.088] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Egg'/6020, l='ServerLevel[world]', x=1.26, y=72.00, z=-52.62]
+[19May2025 05:48:25.089] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Egg'/6021, l='ServerLevel[world]', x=-1.99, y=71.00, z=-29.11]
+[19May2025 05:48:25.089] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Egg'/6022, l='ServerLevel[world]', x=43.93, y=70.00, z=-39.50]
+[19May2025 05:48:25.090] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Egg'/6023, l='ServerLevel[world]', x=42.97, y=70.00, z=-131.50]
+[19May2025 05:48:25.090] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Egg'/6024, l='ServerLevel[world]', x=-33.26, y=65.00, z=-60.19]
+[19May2025 05:48:25.093] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['White Wool'/6025, l='ServerLevel[world]', x=106.76, y=81.00, z=179.86]
+[19May2025 05:48:25.093] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Raw Mutton'/6026, l='ServerLevel[world]', x=106.51, y=81.00, z=178.60]
+[19May2025 05:48:25.094] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Egg'/6027, l='ServerLevel[world]', x=210.83, y=67.00, z=49.22]
+[19May2025 05:48:25.094] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Egg'/6028, l='ServerLevel[world]', x=143.48, y=68.00, z=-61.29]
+[19May2025 05:48:25.096] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Egg'/6029, l='ServerLevel[world]', x=114.01, y=71.00, z=-45.32]
+[19May2025 05:48:25.096] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Egg'/6030, l='ServerLevel[world]', x=200.54, y=64.00, z=-52.79]
+[19May2025 05:48:25.098] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Egg'/6031, l='ServerLevel[world]', x=-41.35, y=65.00, z=-55.06]
+[19May2025 05:48:25.847] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Villager['Villager'/6032, l='ServerLevel[world]', x=265.59, y=64.56, z=247.50]
+[19May2025 05:48:25.933] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Villager['Villager'/6033, l='ServerLevel[world]', x=246.48, y=66.56, z=246.71]
+[19May2025 05:48:25.934] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Cat['Cat'/6034, l='ServerLevel[world]', x=246.69, y=64.00, z=250.70]
+[19May2025 05:48:25.935] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Villager['Villager'/6035, l='ServerLevel[world]', x=263.69, y=64.56, z=224.50]
+[19May2025 05:48:25.936] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Sheep['Sheep'/6036, l='ServerLevel[world]', x=156.98, y=68.00, z=224.36]
+[19May2025 05:48:25.936] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Sheep['Sheep'/6037, l='ServerLevel[world]', x=155.45, y=68.00, z=226.55]
+[19May2025 05:48:25.937] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Sheep['Sheep'/6038, l='ServerLevel[world]', x=155.58, y=68.00, z=224.54]
+[19May2025 05:48:25.937] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Sheep['Sheep'/6039, l='ServerLevel[world]', x=154.59, y=69.00, z=225.45]
+[19May2025 05:48:25.938] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Villager['Villager'/6040, l='ServerLevel[world]', x=258.50, y=64.56, z=209.50]
+[19May2025 05:48:25.938] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: IronGolem['Iron Golem'/6041, l='ServerLevel[world]', x=246.85, y=63.00, z=224.00]
+[19May2025 05:48:25.939] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Villager['Villager'/6042, l='ServerLevel[world]', x=248.16, y=65.56, z=238.05]
+[19May2025 05:48:25.940] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Villager['Villager'/6043, l='ServerLevel[world]', x=248.64, y=65.56, z=238.46]
+[19May2025 05:48:25.940] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Pig['Pig'/6044, l='ServerLevel[world]', x=259.56, y=63.00, z=180.63]
+[19May2025 05:48:26.029] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Pig['Pig'/6045, l='ServerLevel[world]', x=271.61, y=63.00, z=171.64]
+[19May2025 05:48:26.029] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Pig['Pig'/6046, l='ServerLevel[world]', x=257.36, y=63.00, z=166.26]
+[19May2025 05:48:26.030] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Pig['Pig'/6047, l='ServerLevel[world]', x=263.22, y=63.00, z=172.24]
+[19May2025 05:48:26.230] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Chicken['Chicken'/6048, l='ServerLevel[world]', x=-18.00, y=63.00, z=231.00]
+[19May2025 05:48:26.295] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Pig['Pig'/6049, l='ServerLevel[world]', x=275.00, y=63.00, z=156.00]
+[19May2025 05:48:26.295] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Pig['Pig'/6050, l='ServerLevel[world]', x=272.90, y=63.00, z=154.00]
+[19May2025 05:48:26.296] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Pig['Pig'/6051, l='ServerLevel[world]', x=273.00, y=63.00, z=151.00]
+[19May2025 05:48:26.296] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Pig['Pig'/6052, l='ServerLevel[world]', x=272.18, y=63.00, z=148.94]
+[19May2025 05:48:26.419] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Cow['Cow'/6054, l='ServerLevel[world]', x=290.63, y=64.00, z=149.60]
+[19May2025 05:48:26.420] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Sheep['Sheep'/6059, l='ServerLevel[world]', x=225.00, y=63.00, z=238.00]
+[19May2025 05:48:26.420] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Sheep['Sheep'/6060, l='ServerLevel[world]', x=224.90, y=63.00, z=239.00]
+[19May2025 05:48:26.421] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Sheep['Sheep'/6061, l='ServerLevel[world]', x=224.90, y=63.00, z=237.00]
+[19May2025 05:48:26.421] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: DisguisepigEntity['pig'/6062, l='ServerLevel[world]', x=220.00, y=63.00, z=231.00]
+[19May2025 05:48:26.719] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Chicken['Chicken'/6067, l='ServerLevel[world]', x=37.31, y=67.00, z=251.29]
+[19May2025 05:48:26.719] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Sheep['Sheep'/6068, l='ServerLevel[world]', x=226.55, y=63.00, z=242.72]
+[19May2025 05:48:26.720] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Cat['Cat'/6069, l='ServerLevel[world]', x=238.47, y=64.00, z=248.54]
+[19May2025 05:48:27.797] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: DisguisepigEntity['pig'/6074, l='ServerLevel[world]', x=200.88, y=63.00, z=257.16]
+[19May2025 05:48:27.798] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Pig['Pig'/6075, l='ServerLevel[world]', x=330.00, y=65.00, z=145.00]
+[19May2025 05:48:27.798] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Pig['Pig'/6076, l='ServerLevel[world]', x=333.00, y=65.00, z=145.00]
+[19May2025 05:48:27.799] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Pig['Pig'/6077, l='ServerLevel[world]', x=334.00, y=65.00, z=145.00]
+[19May2025 05:48:27.906] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Pig['Pig'/6078, l='ServerLevel[world]', x=332.00, y=62.00, z=183.00]
+[19May2025 05:48:27.907] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Pig['Pig'/6079, l='ServerLevel[world]', x=334.00, y=65.00, z=184.00]
+[19May2025 05:48:27.907] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Pig['Pig'/6080, l='ServerLevel[world]', x=335.00, y=66.00, z=187.00]
+[19May2025 05:48:27.907] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Pig['Pig'/6081, l='ServerLevel[world]', x=332.00, y=65.00, z=185.00]
+[19May2025 05:48:27.908] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Pig['Pig'/6082, l='ServerLevel[world]', x=52.25, y=70.00, z=256.97]
+[19May2025 05:48:27.908] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Pig['Pig'/6083, l='ServerLevel[world]', x=59.00, y=70.00, z=258.00]
+[19May2025 05:48:27.908] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Pig['Pig'/6084, l='ServerLevel[world]', x=55.66, y=70.00, z=258.94]
+[19May2025 05:48:27.908] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Pig['Pig'/6085, l='ServerLevel[world]', x=53.62, y=70.00, z=265.55]
+[19May2025 05:48:27.909] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Chicken['Chicken'/6086, l='ServerLevel[world]', x=39.70, y=67.00, z=263.31]
+[19May2025 05:48:28.097] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Chicken['Chicken'/6087, l='ServerLevel[world]', x=-42.00, y=63.00, z=248.00]
+[19May2025 05:48:28.098] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Chicken['Chicken'/6088, l='ServerLevel[world]', x=-41.00, y=63.00, z=249.00]
+[19May2025 05:48:28.098] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Chicken['Chicken'/6089, l='ServerLevel[world]', x=-40.00, y=63.00, z=246.00]
+[19May2025 05:48:28.099] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Villager['Villager'/6090, l='ServerLevel[world]', x=337.28, y=65.00, z=-83.63]
+[19May2025 05:48:28.188] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Redstone Torch'/6091, l='ServerLevel[world]', x=177.34, y=19.75, z=276.32]
+[19May2025 05:48:28.359] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: DisguisepigEntity['pig'/6092, l='ServerLevel[world]', x=-38.00, y=64.00, z=282.00]
+[19May2025 05:48:28.407] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Pig['Pig'/6093, l='ServerLevel[world]', x=29.21, y=66.00, z=273.98]
+[19May2025 05:48:28.412] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Redstone Torch'/6094, l='ServerLevel[world]', x=33.88, y=2.00, z=275.88]
+[19May2025 05:48:28.412] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Pig['Pig'/6095, l='ServerLevel[world]', x=42.68, y=69.00, z=286.62]
+[19May2025 05:48:28.413] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Pig['Pig'/6096, l='ServerLevel[world]', x=38.00, y=68.00, z=275.00]
+[19May2025 05:48:28.413] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Pig['Pig'/6097, l='ServerLevel[world]', x=32.10, y=66.00, z=275.55]
+[19May2025 05:48:34.500] [Server thread/INFO] [boomcow.minezero.checkpoint.CheckpointManager/]: Setting checkpoint...
+[19May2025 05:48:34.506] [Server thread/INFO] [boomcow.minezero.checkpoint.CheckpointManager/]: Player XP: 0
+[19May2025 05:48:34.508] [Server thread/INFO] [boomcow.minezero.checkpoint.CheckpointManager/]: Player XP: 0
+[19May2025 05:48:34.522] [Server thread/INFO] [boomcow.minezero.checkpoint.CheckpointManager/]: Checkpoint set
+[19May2025 05:48:40.091] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Chicken['Chicken'/6119, l='ServerLevel[world]', x=-60.80, y=64.00, z=224.00]
+[19May2025 05:48:45.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reinhard_VA> corre
+[19May2025 05:49:04.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reinhard_VA> yo tambien te veo pto :)
+[19May2025 05:49:12.277] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=55, y=71, z=16}
+[19May2025 05:49:18.081] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=54, y=70, z=18}
+[19May2025 05:49:40.242] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=58, y=70, z=17}
+[19May2025 05:49:40.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reinhard_VA> uufff
+[19May2025 05:49:47.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reinhard_VA> el cielo
+[19May2025 05:49:57.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabo399993 was slain by Rotting Stalker
+[19May2025 05:50:02.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reinhard_VA> wtf peas con mi novia
+[19May2025 05:50:09.459] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=55, y=71, z=16}
+[19May2025 05:50:16.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reinhard_VA: Gamerule keepInventory is now set to: true]
+[19May2025 05:50:21.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reinhard_VA> puese keep
+[19May2025 05:50:27.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabo399993> Nop
+[19May2025 05:50:29.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reinhard_VA has made the advancement [Monster Hunter]
+[19May2025 05:50:48.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reinhard_VA: Teleported Gabo399993 to Reinhard_VA]
+[19May2025 05:51:00.114] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_aberration:stalking but it was marked as removed already
+[19May2025 05:51:00.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reinhard_VA: Executed 30 command(s) from function 'fromthefog:admin/config']
+[19May2025 05:51:03.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reinhard_VA: Executed 11 command(s) from function 'watching:config/pages/6']
+[19May2025 05:51:04.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reinhard_VA: Executed 64 command(s) from function 'watching:config/autoconfig/enable']
+[19May2025 05:51:26.490] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=55, y=71, z=16}
+[19May2025 05:51:35.179] [Server thread/INFO] [boomcow.minezero.checkpoint.CheckpointManager/]: Setting checkpoint...
+[19May2025 05:51:35.181] [Server thread/INFO] [boomcow.minezero.checkpoint.CheckpointManager/]: Player XP: 12
+[19May2025 05:51:35.183] [Server thread/INFO] [boomcow.minezero.checkpoint.CheckpointManager/]: Player XP: 2
+[19May2025 05:51:35.191] [Server thread/INFO] [boomcow.minezero.checkpoint.CheckpointManager/]: Checkpoint set
+[19May2025 05:51:50.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabo399993> mader
+[19May2025 05:51:55.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabo399993> seguime
+[19May2025 05:52:01.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reinhard_VA> mirraaa
+[19May2025 05:52:12.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabo399993> ya etuve ahi
+[19May2025 05:52:14.714] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_aberration:stalking but it was marked as removed already
+[19May2025 05:52:16.564] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_aberration:stalking but it was marked as removed already
+[19May2025 05:52:19.639] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_aberration:stalking but it was marked as removed already
+[19May2025 05:52:35.186] [Server thread/INFO] [boomcow.minezero.checkpoint.CheckpointManager/]: Setting checkpoint...
+[19May2025 05:52:35.189] [Server thread/INFO] [boomcow.minezero.checkpoint.CheckpointManager/]: Player XP: 12
+[19May2025 05:52:35.191] [Server thread/INFO] [boomcow.minezero.checkpoint.CheckpointManager/]: Player XP: 2
+[19May2025 05:52:35.198] [Server thread/INFO] [boomcow.minezero.checkpoint.CheckpointManager/]: Checkpoint set
+[19May2025 05:53:06.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reinhard_VA has made the advancement [Acquire Hardware]
+[19May2025 05:53:19.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reinhard_VA> armas
+[19May2025 05:53:30.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabo399993> dmde
+[19May2025 05:53:38.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reinhard_VA> en las bases
+[19May2025 05:53:41.590] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=147, y=72, z=148}
+[19May2025 05:53:58.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reinhard_VA> mesa de armas
+[19May2025 05:54:03.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabo399993> trae polfa
+[19May2025 05:54:07.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reinhard_VA> sisis
+[19May2025 05:54:23.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabo399993 has made the advancement [error.befall.you.are.not.alone]
+[19May2025 05:54:23.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reinhard_VA has made the advancement [error.befall.you.are.not.alone]
+[19May2025 05:54:25.880] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity befalltwo:be_happy but it was marked as removed already
+[19May2025 05:54:26.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabo399993> vos tmb tenes esos sumbidos?
+[19May2025 05:54:32.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reinhard_VA> aldea
+[19May2025 05:54:37.984] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity befalltwo:preacher but it was marked as removed already
+[19May2025 05:54:38.585] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity befalltwo:skavenzoexy but it was marked as removed already
+[19May2025 05:54:43.856] [Server thread/INFO] [boomcow.minezero.checkpoint.CheckpointManager/]: Setting checkpoint...
+[19May2025 05:54:43.875] [Server thread/INFO] [boomcow.minezero.checkpoint.CheckpointManager/]: Player XP: 17
+[19May2025 05:54:43.882] [Server thread/INFO] [boomcow.minezero.checkpoint.CheckpointManager/]: Player XP: 2
+[19May2025 05:54:43.908] [Server thread/INFO] [boomcow.minezero.checkpoint.CheckpointManager/]: Checkpoint set
+[19May2025 05:54:52.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabo399993> pero dndd ql
+[19May2025 05:54:53.879] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity befalltwo:skavenzoexy but it was marked as removed already
+[19May2025 05:55:10.581] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity befalltwo:be_happy but it was marked as removed already
+[19May2025 05:55:20.930] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity befalltwo:be_happy but it was marked as removed already
+[19May2025 05:55:25.928] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity befalltwo:be_happy but it was marked as removed already
+[19May2025 05:55:30.276] [Server thread/INFO] [boomcow.minezero.event.NonPlayerChangeHandler/]: Explosion at (157.41356792675938, 69.0, 147.40977446072398) | distance: 56.47 | seen: 0.00 | estimated dmg: NaN
+[19May2025 05:55:31.028] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity befalltwo:be_happy but it was marked as removed already
+[19May2025 05:55:34.378] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity befalltwo:skavenzoexy but it was marked as removed already
+[19May2025 05:55:39.227] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=160, y=65, z=210}
+[19May2025 05:55:43.980] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity befalltwo:skavenzoexy but it was marked as removed already
+[19May2025 05:55:45.427] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity befalltwo:preacher but it was marked as removed already
+[19May2025 05:55:47.127] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity befalltwo:be_happy but it was marked as removed already
+[19May2025 05:55:53.726] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity befalltwo:be_happy but it was marked as removed already
+[19May2025 05:56:19.997] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity befalltwo:skavenzoexy but it was marked as removed already
+[19May2025 05:56:25.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabo399993> me tieen las bolas llen as
+[19May2025 05:56:36.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reinhard_VA> quiem
+[19May2025 05:56:51.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabo399993> ayuda
+[19May2025 05:56:58.081] [Server thread/INFO] [boomcow.minezero.checkpoint.CheckpointManager/]: Setting checkpoint...
+[19May2025 05:56:58.083] [Server thread/INFO] [boomcow.minezero.checkpoint.CheckpointManager/]: Player XP: 17
+[19May2025 05:56:58.085] [Server thread/INFO] [boomcow.minezero.checkpoint.CheckpointManager/]: Player XP: 3
+[19May2025 05:56:58.092] [Server thread/INFO] [boomcow.minezero.checkpoint.CheckpointManager/]: Checkpoint set
+[19May2025 05:57:01.678] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity befalltwo:skavenzoexy but it was marked as removed already
+[19May2025 05:57:10.378] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity befalltwo:be_happy but it was marked as removed already
+[19May2025 05:57:10.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabo399993> AYUDA
+[19May2025 05:57:13.138] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity befalltwo:be_happy but it was marked as removed already
+[19May2025 05:57:19.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reinhard_VA> como
+[19May2025 05:57:23.129] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity befalltwo:skavenzoexy but it was marked as removed already
+[19May2025 05:57:31.081] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity befalltwo:skavenzoexy but it was marked as removed already
+[19May2025 05:57:48.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabo399993> q me ves
+[19May2025 05:57:49.379] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity befalltwo:be_happy but it was marked as removed already
+[19May2025 05:58:07.229] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity befalltwo:be_happy but it was marked as removed already
+[19May2025 05:58:08.531] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity befalltwo:be_happy but it was marked as removed already
