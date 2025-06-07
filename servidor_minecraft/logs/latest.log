@@ -746,3 +746,98 @@ io.netty.channel.StacklessClosedChannelException: null
 [07Jun2025 04:35:56.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reinhard_VA> mal wifi?
 [07Jun2025 04:36:05.136] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabo399993 lost connection: Timed out
 [07Jun2025 04:36:05.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabo399993 left the game
+[07Jun2025 04:36:27.213] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gabo399993[/[::1]:50462] logged in with entity id 1009 at (6.748072007034842, 76.00133597911214, 33.11507319355544)
+[07Jun2025 04:36:29.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabo399993 joined the game
+[07Jun2025 04:36:29.495] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2263ms or 45 ticks behind
+[07Jun2025 04:36:55.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabo399993> como hago magia
+[07Jun2025 04:37:41.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabo399993> como hago magia
+[07Jun2025 04:37:41.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabo399993> como hago magia
+[07Jun2025 04:37:42.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabo399993> como hago magia
+[07Jun2025 04:37:57.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reinhard_VA> mira el video de waza
+[07Jun2025 04:37:59.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reinhard_VA> mrd
+[07Jun2025 04:38:44.510] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=80, y=72, z=49}
+[07Jun2025 04:38:54.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reinhard_VA has made the advancement [Stone Age]
+[07Jun2025 04:39:06.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reinhard_VA has made the advancement [Getting an Upgrade]
+[07Jun2025 04:39:07.306] [Server thread/INFO] [boomcow.minezero.checkpoint.CheckpointManager/]: Setting checkpoint...
+[07Jun2025 04:39:07.309] [Server thread/INFO] [boomcow.minezero.checkpoint.CheckpointManager/]: Player XP: 0
+[07Jun2025 04:39:07.314] [Server thread/INFO] [boomcow.minezero.checkpoint.CheckpointManager/]: Player XP: 2
+[07Jun2025 04:39:07.323] [Server thread/INFO] [boomcow.minezero.checkpoint.CheckpointManager/]: Checkpoint set
+[07Jun2025 04:39:17.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reinhard_VA> ontas?
+[07Jun2025 04:39:47.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabo399993> spawb
+[07Jun2025 04:39:54.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reinhard_VA has made the advancement [Obtain Magic Stones]
+[07Jun2025 04:40:23.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reinhard_VA> uff el cielo
+[07Jun2025 04:40:27.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabo399993> como ganas puntos
+[07Jun2025 04:40:41.248] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=20, y=75, z=75}
+[07Jun2025 04:40:45.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reinhard_VA> matando mavestias
+[07Jun2025 04:40:54.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabo399993 has made the advancement [Monster Hunter]
+[07Jun2025 04:40:57.643] [Server thread/INFO] [boomcow.minezero.event.NonPlayerChangeHandler/]: Explosion at (31.494259873081628, 72.0, 65.49424086779759) | distance: 2.69 | seen: 1.00 | estimated dmg: NaN
+[07Jun2025 04:40:58.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reinhard_VA> sabras cuales son con solo verla
+[07Jun2025 04:41:01.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabo399993> asi?
+[07Jun2025 04:41:05.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reinhard_VA> si
+[07Jun2025 04:41:26.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabo399993 has made the advancement [Stone Age]
+[07Jun2025 04:41:26.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reinhard_VA> gracias adios tengo puntos en resistenci sino la explosion me mata
+[07Jun2025 04:41:30.369] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=28, y=73, z=77}
+[07Jun2025 04:41:41.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reinhard_VA has made the advancement [Monster Hunter]
+[07Jun2025 04:41:50.385] [Server thread/INFO] [boomcow.minezero.event.NonPlayerChangeHandler/]: Explosion at (26.935828891606523, 73.0, 73.49701409723849) | distance: 4.15 | seen: 1.00 | estimated dmg: NaN
+[07Jun2025 04:41:56.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reinhard_VA> mira el cielo
+[07Jun2025 04:42:20.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabo399993> y como se
+[07Jun2025 04:42:21.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabo399993 has made the advancement [Obtain Magic Stones]
+[07Jun2025 04:42:25.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabo399993> ejecuta la magia
+[07Jun2025 04:42:55.627] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=74, y=71, z=65}
+[07Jun2025 04:42:55.876] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=74, y=72, z=65}
+[07Jun2025 04:42:56.538] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=75, y=73, z=66}
+[07Jun2025 04:42:57.031] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=74, y=73, z=66}
+[07Jun2025 04:42:57.576] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=73, y=72, z=67}
+[07Jun2025 04:42:58.440] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=73, y=72, z=66}
+[07Jun2025 04:43:01.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabo399993 has made the advancement [Getting an Upgrade]
+[07Jun2025 04:43:46.051] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=38, y=73, z=73}
+[07Jun2025 04:43:52.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reinhard_VA> anda a configuracion de tecla y el apartado que dise re zero experiencie
+[07Jun2025 04:44:00.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabo399993 was slain by Zombie
+[07Jun2025 04:44:02.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabo399993 has made the advancement [You may need some help]
+[07Jun2025 04:44:03.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reinhard_VA> hay mira las teclas y ajustalas a tu gusto
+[07Jun2025 04:44:09.869] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=73, y=72, z=66}
+[07Jun2025 04:44:25.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reinhard_VA: Gamerule keepInventory is now set to: true]
+[07Jun2025 04:44:34.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reinhard_VA: The difficulty has been set to Peaceful]
+[07Jun2025 04:44:38.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reinhard_VA: The difficulty has been set to Hard]
+[07Jun2025 04:44:49.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabo399993 was slain by Reinhard_VA
+[07Jun2025 04:44:50.528] [Server thread/ERROR] [Portal/]: Tries to send player pos packet to a removed player
+[07Jun2025 04:44:51.656] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Glow Ink Sac'/3377, l='ServerWorld minecraft:overworld world', x=87.87, y=1.00, z=58.23]
+[07Jun2025 04:44:51.657] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Glow Ink Sac'/3378, l='ServerWorld minecraft:overworld world', x=83.30, y=0.00, z=55.57]
+[07Jun2025 04:44:51.658] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['String'/3379, l='ServerWorld minecraft:overworld world', x=201.44, y=-34.00, z=133.80]
+[07Jun2025 04:44:51.658] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['String'/3380, l='ServerWorld minecraft:overworld world', x=212.59, y=-35.00, z=131.89]
+[07Jun2025 04:44:51.659] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Bocco Fruit'/3381, l='ServerWorld minecraft:overworld world', x=9.38, y=75.00, z=40.06]
+[07Jun2025 04:44:51.660] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Torch'/3382, l='ServerWorld minecraft:overworld world', x=131.78, y=-30.00, z=44.49]
+[07Jun2025 04:44:51.660] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Torch'/3383, l='ServerWorld minecraft:overworld world', x=166.24, y=-32.00, z=41.87]
+[07Jun2025 04:44:51.661] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Egg'/3384, l='ServerWorld minecraft:overworld world', x=-137.20, y=70.00, z=89.79]
+[07Jun2025 04:44:51.662] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Egg'/3385, l='ServerWorld minecraft:overworld world', x=-133.04, y=70.00, z=89.24]
+[07Jun2025 04:44:51.662] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Oak Sapling'/3386, l='ServerWorld minecraft:overworld world', x=60.68, y=77.00, z=42.88]
+[07Jun2025 04:44:51.663] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Stick'/3387, l='ServerWorld minecraft:overworld world', x=59.16, y=77.00, z=40.60]
+[07Jun2025 04:44:51.664] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['String'/3388, l='ServerWorld minecraft:overworld world', x=249.97, y=-40.00, z=92.55]
+[07Jun2025 04:44:51.664] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['String'/3389, l='ServerWorld minecraft:overworld world', x=251.92, y=-41.34, z=88.13]
+[07Jun2025 04:44:51.664] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['String'/3390, l='ServerWorld minecraft:overworld world', x=252.52, y=-41.00, z=88.95]
+[07Jun2025 04:44:51.665] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Oak Sapling'/3391, l='ServerWorld minecraft:overworld world', x=58.88, y=77.00, z=43.88]
+[07Jun2025 04:44:51.665] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Stick'/3392, l='ServerWorld minecraft:overworld world', x=60.13, y=77.00, z=41.41]
+[07Jun2025 04:44:51.666] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Egg'/3393, l='ServerWorld minecraft:overworld world', x=143.30, y=66.00, z=-110.70]
+[07Jun2025 04:44:51.670] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Reinhard_VA moved too quickly! 40.032945117589996,-1.6002657328125451,-21.325988602364156
+[07Jun2025 04:44:52.907] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Cow['Cow'/3411, l='ServerWorld minecraft:overworld world', x=267.52, y=80.00, z=153.61]
+[07Jun2025 04:44:52.907] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Cow['Cow'/3412, l='ServerWorld minecraft:overworld world', x=261.83, y=80.00, z=154.41]
+[07Jun2025 04:44:53.590] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Cow['Cow'/3413, l='ServerWorld minecraft:overworld world', x=272.01, y=80.00, z=156.58]
+[07Jun2025 04:44:53.592] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Sheep['Sheep'/3414, l='ServerWorld minecraft:overworld world', x=272.06, y=84.00, z=174.74]
+[07Jun2025 04:44:53.593] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Cow['Cow'/3415, l='ServerWorld minecraft:overworld world', x=272.02, y=80.00, z=160.02]
+[07Jun2025 04:44:53.645] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Sheep['Sheep'/3416, l='ServerWorld minecraft:overworld world', x=272.07, y=86.00, z=177.93]
+[07Jun2025 04:44:53.646] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Sheep['Sheep'/3417, l='ServerWorld minecraft:overworld world', x=272.02, y=90.00, z=186.49]
+[07Jun2025 04:44:53.647] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Cow['Cow'/3418, l='ServerWorld minecraft:overworld world', x=276.00, y=95.00, z=211.00]
+[07Jun2025 04:45:17.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reinhard_VA> ese perro era una mavestia
+[07Jun2025 04:45:24.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reinhard_VA> ya puse el keep
+[07Jun2025 04:46:11.990] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: MinecartChest['Minecart with Chest'/4029, l='ServerWorld minecraft:overworld world', x=-190.50, y=-29.94, z=14.50]
+[07Jun2025 04:46:11.990] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Pig['Pig'/4030, l='ServerWorld minecraft:overworld world', x=-184.75, y=80.00, z=143.98]
+[07Jun2025 04:46:11.991] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Pig['Pig'/4031, l='ServerWorld minecraft:overworld world', x=-179.55, y=79.00, z=144.51]
+[07Jun2025 04:46:11.991] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Pig['Pig'/4032, l='ServerWorld minecraft:overworld world', x=-189.44, y=80.00, z=150.44]
+[07Jun2025 04:46:11.992] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Pig['Pig'/4033, l='ServerWorld minecraft:overworld world', x=-183.00, y=80.00, z=148.00]
+[07Jun2025 04:46:13.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabo399993> AYUDA
+[07Jun2025 04:46:13.939] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Horse['Horse'/4050, l='ServerWorld minecraft:overworld world', x=186.00, y=71.00, z=284.00]
+[07Jun2025 04:46:13.940] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Horse['Horse'/4051, l='ServerWorld minecraft:overworld world', x=187.00, y=71.00, z=286.60]
+[07Jun2025 04:46:13.940] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Horse['Horse'/4052, l='ServerWorld minecraft:overworld world', x=189.00, y=76.00, z=280.00]
+[07Jun2025 04:46:23.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reinhard_VA> dibde?
+[07Jun2025 04:46:24.151] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabo399993 lost connection: Timed out
+[07Jun2025 04:46:24.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabo399993 left the game
