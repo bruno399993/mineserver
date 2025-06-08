@@ -2453,9 +2453,34 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2025-06-08 06:34:24 +0000",
       "minecraft:basalt_deltas": "2025-06-08 06:22:58 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-06-08 06:37:21 +0000"
+    },
+    "done": true
+  },
+  "rezeromc:redo_your_affinities": {
+    "criteria": {
+      "redo_your_affinities_0": "2025-06-08 06:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-06-08 06:37:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-06-08 06:37:21 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
