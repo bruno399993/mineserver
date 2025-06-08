@@ -1373,3 +1373,90 @@ Caused by: java.io.IOException: Packet 0/0 (ServerboundAcceptTeleportationPacket
 [08Jun2025 06:11:30.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reinhard_VA: Set own game mode to Spectator Mode]
 [08Jun2025 06:11:53.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reinhard_VA: Set own game mode to Survival Mode]
 [08Jun2025 06:11:55.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reinhard_VA: Set own game mode to Spectator Mode]
+[08Jun2025 06:12:15.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reinhard_VA: Set own game mode to Survival Mode]
+[08Jun2025 06:12:19.666] [Server thread/INFO] [boomcow.minezero.checkpoint.CheckpointManager/]: Setting checkpoint...
+[08Jun2025 06:12:19.669] [Server thread/INFO] [boomcow.minezero.checkpoint.CheckpointManager/]: Player XP: 472
+[08Jun2025 06:12:19.678] [Server thread/INFO] [boomcow.minezero.checkpoint.CheckpointManager/]: Checkpoint set
+[08Jun2025 06:12:22.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reinhard_VA: Set own game mode to Spectator Mode]
+[08Jun2025 06:12:25.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reinhard_VA: Set own game mode to Creative Mode]
+[08Jun2025 06:12:31.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reinhard_VA: Set own game mode to Spectator Mode]
+[08Jun2025 06:12:33.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reinhard_VA: Set own game mode to Survival Mode]
+[08Jun2025 06:12:37.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reinhard_VA: Set own game mode to Spectator Mode]
+[08Jun2025 06:12:39.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reinhard_VA: Set own game mode to Creative Mode]
+[08Jun2025 06:13:27.357] [Server thread/INFO] [boomcow.minezero.checkpoint.CheckpointManager/]: Setting checkpoint...
+[08Jun2025 06:13:27.361] [Server thread/INFO] [boomcow.minezero.checkpoint.CheckpointManager/]: Player XP: 472
+[08Jun2025 06:13:27.371] [Server thread/INFO] [boomcow.minezero.checkpoint.CheckpointManager/]: Checkpoint set
+[08Jun2025 06:13:37.066] [Server thread/INFO] [boomcow.minezero.checkpoint.CheckpointManager/]: Setting checkpoint...
+[08Jun2025 06:13:37.067] [Server thread/INFO] [boomcow.minezero.checkpoint.CheckpointManager/]: Player XP: 472
+[08Jun2025 06:13:37.074] [Server thread/INFO] [boomcow.minezero.checkpoint.CheckpointManager/]: Checkpoint set
+[08Jun2025 06:14:58.457] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=67, y=73, z=-48}
+[08Jun2025 06:15:09.571] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=67, y=73, z=-48}
+[08Jun2025 06:15:16.433] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=68, y=73, z=-48}
+[08Jun2025 06:15:18.467] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=68, y=73, z=-48}
+[08Jun2025 06:15:20.579] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=68, y=73, z=-48}
+[08Jun2025 06:15:23.817] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=68, y=73, z=-48}
+[08Jun2025 06:15:24.716] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=68, y=73, z=-48}
+[08Jun2025 06:15:29.367] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=68, y=73, z=-48}
+[08Jun2025 06:16:03.367] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=68, y=73, z=-48}
+[08Jun2025 06:16:06.520] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=69, y=73, z=-48}
+[08Jun2025 06:16:18.368] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=68, y=73, z=-48}
+[08Jun2025 06:16:24.066] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=68, y=73, z=-48}
+[08Jun2025 06:16:24.276] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=68, y=73, z=-48}
+[08Jun2025 06:16:24.674] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=68, y=73, z=-48}
+[08Jun2025 06:16:25.567] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=68, y=73, z=-48}
+[08Jun2025 06:16:55.646] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=63, y=68, z=-44}
+[08Jun2025 06:16:55.890] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=63, y=69, z=-44}
+[08Jun2025 06:16:56.068] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=63, y=70, z=-44}
+[08Jun2025 06:16:56.293] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=63, y=71, z=-44}
+[08Jun2025 06:16:57.200] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=64, y=71, z=-44}
+[08Jun2025 06:17:00.141] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=63, y=71, z=-51}
+[08Jun2025 06:17:00.315] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=63, y=71, z=-50}
+[08Jun2025 06:17:00.576] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=63, y=71, z=-49}
+[08Jun2025 06:17:00.778] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=63, y=71, z=-48}
+[08Jun2025 06:17:01.018] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=63, y=71, z=-47}
+[08Jun2025 06:17:01.417] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=63, y=71, z=-46}
+[08Jun2025 06:17:01.721] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=62, y=71, z=-46}
+[08Jun2025 06:17:02.121] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=63, y=71, z=-45}
+[08Jun2025 06:17:04.568] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=69, y=71, z=-44}
+[08Jun2025 06:17:05.222] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=70, y=71, z=-44}
+[08Jun2025 06:17:05.425] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=69, y=71, z=-44}
+[08Jun2025 06:17:05.629] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=68, y=71, z=-44}
+[08Jun2025 06:17:05.820] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=67, y=71, z=-44}
+[08Jun2025 06:17:06.067] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=66, y=71, z=-44}
+[08Jun2025 06:17:06.471] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=65, y=71, z=-44}
+[08Jun2025 06:17:08.366] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=71, y=71, z=-44}
+[08Jun2025 06:17:09.617] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=71, y=71, z=-45}
+[08Jun2025 06:17:12.108] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=71, y=68, z=-44}
+[08Jun2025 06:17:12.316] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=71, y=69, z=-44}
+[08Jun2025 06:17:13.716] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=71, y=70, z=-44}
+[08Jun2025 06:17:16.973] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=71, y=71, z=-51}
+[08Jun2025 06:17:17.217] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=71, y=71, z=-50}
+[08Jun2025 06:17:17.467] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=71, y=71, z=-49}
+[08Jun2025 06:17:17.717] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=71, y=71, z=-48}
+[08Jun2025 06:17:17.866] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=71, y=71, z=-47}
+[08Jun2025 06:17:18.318] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=71, y=71, z=-46}
+[08Jun2025 06:17:21.571] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=71, y=68, z=-52}
+[08Jun2025 06:17:21.891] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=71, y=69, z=-52}
+[08Jun2025 06:17:22.117] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=71, y=70, z=-52}
+[08Jun2025 06:17:22.274] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=71, y=71, z=-52}
+[08Jun2025 06:17:26.024] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=70, y=71, z=-52}
+[08Jun2025 06:17:26.416] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=69, y=71, z=-52}
+[08Jun2025 06:17:26.779] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=69, y=70, z=-52}
+[08Jun2025 06:17:27.320] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=68, y=71, z=-52}
+[08Jun2025 06:17:29.480] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=67, y=71, z=-52}
+[08Jun2025 06:17:30.217] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=66, y=71, z=-52}
+[08Jun2025 06:17:30.773] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=65, y=71, z=-52}
+[08Jun2025 06:17:31.725] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=64, y=71, z=-52}
+[08Jun2025 06:17:34.017] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=63, y=71, z=-52}
+[08Jun2025 06:17:39.572] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=62, y=68, z=-52}
+[08Jun2025 06:17:40.329] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=63, y=68, z=-52}
+[08Jun2025 06:17:40.854] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=63, y=69, z=-52}
+[08Jun2025 06:17:41.617] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=63, y=70, z=-52}
+[08Jun2025 06:17:52.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reinhard_VA: Set own game mode to Spectator Mode]
+[08Jun2025 06:17:54.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reinhard_VA: Set own game mode to Survival Mode]
+[08Jun2025 06:20:13.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reinhard_VA: Set own game mode to Creative Mode]
+[08Jun2025 06:20:41.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reinhard_VA: Set own game mode to Survival Mode]
+[08Jun2025 06:20:57.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reinhard_VA: Set own game mode to Spectator Mode]
+[08Jun2025 06:21:07.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reinhard_VA: Set own game mode to Creative Mode]
+[08Jun2025 06:21:50.668] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=64, y=-64, z=-51}
+[08Jun2025 06:21:53.783] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=64, y=-63, z=-44}
