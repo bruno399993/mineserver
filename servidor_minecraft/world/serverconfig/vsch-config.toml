@@ -1,0 +1,32 @@
+
+[Thrusters]
+	#Thruster Mode Toggling
+	thruster_mode_toggle = true
+	#Default Thruster Mode
+	#Allowed Values: POSITION, GLOBAL
+	thruster_default_mode = "POSITION"
+	#Thruster max force. (Newtons)
+	thruster_strength = 120000
+	#Air thruster max force. (Newtons)
+	air_thruster_strength = 7500
+	#Powerful thruster max force. (Newtons)
+	powerful_thruster_strength = 450000
+
+[Misc]
+	#Max force the drag inducer can use to slow down
+	max_drag = 15000
+	#Limit speed thrusters can accelerate to. Recommended, as VS ships get funky at high speeds
+	limit_speed = true
+	#Max speed to limit to. Blocks/tick I think. Default is highly recommended
+	max_speed = 150
+	#Cancel multi-block assemblies when above world height. This is a temporary fix, but for now ships made above world height have issues with starlance.
+	cancel_assembly = true
+	#Distance (in blocks) at which magnet boots will pull you in
+	magnet_boot_distance = 6
+	#Max acceleration magnet boots will apply at close distances to move the player downwards.
+	magnet_boot_max_force = 0.09
+	#Distance (in blocks) at which gravity generator will pull you in
+	gravity_gen_distance = 6
+	#Max acceleration gravity generator will apply at close distances to move the player downwards.
+	gravity_gen_max_force = 0.09
+
