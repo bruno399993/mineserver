@@ -8585,3 +8585,330 @@ Caused by: java.io.IOException: Packet 0/0 (ServerboundAcceptTeleportationPacket
 [08Jun2025 07:02:47.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: %1$s was slain by %2$s
 [08Jun2025 07:02:50.466] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749366170466
 [08Jun2025 07:02:51.370] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=65, y=67, z=-49}
+[08Jun2025 07:02:52.687] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=65, y=67, z=-50}
+[08Jun2025 07:02:53.654] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=66, y=67, z=-50}
+[08Jun2025 07:02:54.330] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=66, y=67, z=-49}
+[08Jun2025 07:02:54.949] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=66, y=67, z=-48}
+[08Jun2025 07:02:56.629] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=65, y=67, z=-47}
+[08Jun2025 07:02:57.007] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=66, y=67, z=-47}
+[08Jun2025 07:02:58.598] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=65, y=67, z=-46}
+[08Jun2025 07:02:58.827] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=66, y=67, z=-46}
+[08Jun2025 07:02:59.930] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=67, y=67, z=-46}
+[08Jun2025 07:03:00.976] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=68, y=67, z=-46}
+[08Jun2025 07:03:01.776] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=69, y=67, z=-46}
+[08Jun2025 07:03:03.522] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=69, y=67, z=-47}
+[08Jun2025 07:03:04.342] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=69, y=67, z=-48}
+[08Jun2025 07:03:04.996] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=67, y=67, z=-47}
+[08Jun2025 07:03:05.272] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=68, y=67, z=-47}
+[08Jun2025 07:03:05.781] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=67, y=67, z=-48}
+[08Jun2025 07:03:06.136] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=68, y=67, z=-48}
+[08Jun2025 07:03:06.883] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=67, y=67, z=-50}
+[08Jun2025 07:03:07.120] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=67, y=67, z=-49}
+[08Jun2025 07:03:07.618] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=68, y=67, z=-50}
+[08Jun2025 07:03:07.871] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=68, y=67, z=-49}
+[08Jun2025 07:03:08.875] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=69, y=67, z=-50}
+[08Jun2025 07:03:09.187] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=69, y=67, z=-49}
+[08Jun2025 07:03:29.295] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jun2025 07:03:29.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jun2025 07:03:40.663] [Server thread/INFO] [boomcow.minezero.event.NonPlayerChangeHandler/]: Explosion at (52.4824555731271, 70.0, -161.5007651968426) | distance: 6.60 | seen: 0.98 | estimated dmg: NaN
+[08Jun2025 07:04:16.118] [Server thread/DEBUG] [boomcow.minezero.checkpoint.CheckpointManager/]: Restoring checkpoint...
+[08Jun2025 07:04:17.263] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Egg'/26064, l='ServerWorld minecraft:overworld world', x=153.22, y=70.00, z=-161.37]
+[08Jun2025 07:04:17.265] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Rail'/26065, l='ServerWorld minecraft:overworld world', x=199.57, y=-32.00, z=134.26]
+[08Jun2025 07:04:17.265] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Rail'/26066, l='ServerWorld minecraft:overworld world', x=198.76, y=-32.00, z=135.10]
+[08Jun2025 07:04:17.266] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Essence Of Earth'/26067, l='ServerWorld minecraft:overworld world', x=-19.50, y=70.00, z=-53.71]
+[08Jun2025 07:04:17.267] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Glow Ink Sac'/26068, l='ServerWorld minecraft:overworld world', x=-9.86, y=-37.00, z=-9.34]
+[08Jun2025 07:04:17.267] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Egg'/26069, l='ServerWorld minecraft:overworld world', x=155.86, y=70.00, z=-153.02]
+[08Jun2025 07:04:17.268] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Rotten Flesh'/26070, l='ServerWorld minecraft:overworld world', x=6.03, y=70.00, z=-53.13]
+[08Jun2025 07:04:17.269] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Gunpowder'/26071, l='ServerWorld minecraft:overworld world', x=21.86, y=69.00, z=-36.24]
+[08Jun2025 07:04:17.269] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Bow'/26072, l='ServerWorld minecraft:overworld world', x=-14.56, y=75.00, z=-95.23]
+[08Jun2025 07:04:17.270] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Egg'/26073, l='ServerWorld minecraft:overworld world', x=143.38, y=66.00, z=-110.78]
+[08Jun2025 07:04:17.271] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Egg'/26074, l='ServerWorld minecraft:overworld world', x=143.83, y=70.00, z=-159.79]
+[08Jun2025 07:04:17.271] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Mechanical Drill'/26075, l='ServerWorld minecraft:overworld world', x=64.55, y=-63.00, z=-50.13]
+[08Jun2025 07:04:17.272] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Mechanical Drill'/26076, l='ServerWorld minecraft:overworld world', x=70.69, y=68.00, z=-51.11]
+[08Jun2025 07:04:17.272] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Kelp'/26077, l='ServerWorld minecraft:overworld world', x=-219.94, y=62.41, z=-253.42]
+[08Jun2025 07:04:17.272] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Kelp'/26078, l='ServerWorld minecraft:overworld world', x=-221.22, y=62.40, z=-255.65]
+[08Jun2025 07:04:17.273] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Kelp'/26079, l='ServerWorld minecraft:overworld world', x=-221.30, y=62.72, z=-250.88]
+[08Jun2025 07:04:17.273] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Kelp'/26080, l='ServerWorld minecraft:overworld world', x=-219.18, y=51.02, z=-254.09]
+[08Jun2025 07:04:17.274] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Kelp'/26081, l='ServerWorld minecraft:overworld world', x=-224.06, y=62.68, z=-252.60]
+[08Jun2025 07:04:17.278] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Rotten Flesh'/26082, l='ServerWorld minecraft:overworld world', x=-238.76, y=79.00, z=-10.27]
+[08Jun2025 07:04:17.278] [Server thread/DEBUG] [boomcow.minezero.checkpoint.CheckpointManager/]: Restoring states took 1159 ms
+[08Jun2025 07:04:17.278] [Server thread/DEBUG] [boomcow.minezero.event.DeathEventHandler/]: Playing classic chime
+[08Jun2025 07:04:19.580] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Bee['Bee'/26085, l='ServerWorld minecraft:overworld world', x=-212.92, y=64.06, z=52.53]
+[08Jun2025 07:04:19.600] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Rail'/26086, l='ServerWorld minecraft:overworld world', x=199.57, y=-32.00, z=134.26]
+[08Jun2025 07:04:19.601] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Rail'/26087, l='ServerWorld minecraft:overworld world', x=198.76, y=-32.00, z=135.10]
+[08Jun2025 07:04:19.617] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Sheep['Sheep'/26088, l='ServerWorld minecraft:overworld world', x=242.44, y=75.00, z=141.50]
+[08Jun2025 07:04:19.618] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Kelp'/26089, l='ServerWorld minecraft:overworld world', x=-219.94, y=62.41, z=-253.42]
+[08Jun2025 07:04:19.618] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Kelp'/26090, l='ServerWorld minecraft:overworld world', x=-221.22, y=62.40, z=-255.65]
+[08Jun2025 07:04:19.621] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Kelp'/26091, l='ServerWorld minecraft:overworld world', x=-221.30, y=62.72, z=-250.88]
+[08Jun2025 07:04:19.621] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Kelp'/26092, l='ServerWorld minecraft:overworld world', x=-219.18, y=51.02, z=-254.09]
+[08Jun2025 07:04:19.621] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Kelp'/26093, l='ServerWorld minecraft:overworld world', x=-224.06, y=62.68, z=-252.60]
+[08Jun2025 07:04:19.622] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Rotten Flesh'/26094, l='ServerWorld minecraft:overworld world', x=-238.76, y=79.00, z=-10.27]
+[08Jun2025 07:04:27.371] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Sheep['Sheep'/26121, l='ServerWorld minecraft:overworld world', x=238.99, y=81.00, z=156.27]
+[08Jun2025 07:04:27.371] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Cow['Cow'/26122, l='ServerWorld minecraft:overworld world', x=239.24, y=83.00, z=159.50]
+[08Jun2025 07:04:32.147] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=64, y=67, z=-48}
+[08Jun2025 07:04:32.928] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=65, y=67, z=-48}
+[08Jun2025 07:04:34.075] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=66, y=67, z=-48}
+[08Jun2025 07:04:35.426] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=65, y=67, z=-47}
+[08Jun2025 07:04:35.778] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=66, y=67, z=-47}
+[08Jun2025 07:04:37.784] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=65, y=67, z=-46}
+[08Jun2025 07:04:37.991] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=66, y=67, z=-46}
+[08Jun2025 07:04:38.632] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=67, y=67, z=-46}
+[08Jun2025 07:04:39.433] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=68, y=67, z=-46}
+[08Jun2025 07:04:41.098] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=69, y=67, z=-46}
+[08Jun2025 07:04:41.746] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=69, y=67, z=-47}
+[08Jun2025 07:04:43.098] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=67, y=67, z=-47}
+[08Jun2025 07:04:43.339] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=68, y=67, z=-47}
+[08Jun2025 07:04:43.773] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=67, y=67, z=-48}
+[08Jun2025 07:04:43.970] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=68, y=67, z=-48}
+[08Jun2025 07:04:44.377] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=68, y=68, z=-48}
+[08Jun2025 07:04:44.748] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=69, y=67, z=-48}
+[08Jun2025 07:04:45.948] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=68, y=67, z=-49}
+[08Jun2025 07:04:46.441] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=69, y=67, z=-49}
+[08Jun2025 07:04:47.283] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=66, y=67, z=-49}
+[08Jun2025 07:04:47.688] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=67, y=67, z=-49}
+[08Jun2025 07:04:48.372] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=65, y=67, z=-49}
+[08Jun2025 07:04:49.176] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=65, y=67, z=-50}
+[08Jun2025 07:04:49.583] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=66, y=67, z=-50}
+[08Jun2025 07:04:49.886] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=66, y=68, z=-50}
+[08Jun2025 07:04:50.286] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=67, y=67, z=-50}
+[08Jun2025 07:04:50.648] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=68, y=67, z=-50}
+[08Jun2025 07:04:52.031] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=69, y=67, z=-50}
+[08Jun2025 07:04:56.832] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=65, y=68, z=-50}
+[08Jun2025 07:04:57.586] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=69, y=68, z=-50}
+[08Jun2025 07:04:58.480] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=69, y=68, z=-46}
+[08Jun2025 07:04:59.126] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=65, y=68, z=-46}
+[08Jun2025 07:05:08.923] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=66, y=68, z=-47}
+[08Jun2025 07:05:13.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabo399993 fell from a high place
+[08Jun2025 07:05:16.092] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749366316078
+[08Jun2025 07:05:26.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reinhard_VA: Set own game mode to Creative Mode]
+[08Jun2025 07:05:36.327] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=65, y=68, z=-47}
+[08Jun2025 07:05:41.886] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=65, y=68, z=-47}
+[08Jun2025 07:05:49.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reinhard_VA: Set own game mode to Survival Mode]
+[08Jun2025 07:06:06.430] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=63, y=68, z=-47}
+[08Jun2025 07:06:08.248] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=64, y=68, z=-47}
+[08Jun2025 07:06:30.097] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=65, y=68, z=-47}
+[08Jun2025 07:06:31.677] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=64, y=68, z=-47}
+[08Jun2025 07:06:40.737] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=65, y=68, z=-47}
+[08Jun2025 07:06:47.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reinhard_VA: Set own game mode to Creative Mode]
+[08Jun2025 07:07:11.294] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=63, y=-61, z=-45}
+[08Jun2025 07:07:11.538] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=63, y=-61, z=-46}
+[08Jun2025 07:07:11.973] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=63, y=-61, z=-48}
+[08Jun2025 07:07:12.174] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=64, y=-61, z=-48}
+[08Jun2025 07:07:12.379] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=63, y=-61, z=-49}
+[08Jun2025 07:07:12.827] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=63, y=-61, z=-51}
+[08Jun2025 07:07:13.028] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=64, y=-61, z=-51}
+[08Jun2025 07:07:13.335] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=63, y=-61, z=-50}
+[08Jun2025 07:07:14.030] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=63, y=-61, z=-47}
+[08Jun2025 07:07:14.786] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=64, y=-61, z=-52}
+[08Jun2025 07:07:15.035] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=65, y=-61, z=-52}
+[08Jun2025 07:07:15.253] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=66, y=-61, z=-52}
+[08Jun2025 07:07:15.432] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=67, y=-61, z=-52}
+[08Jun2025 07:07:15.641] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=68, y=-61, z=-52}
+[08Jun2025 07:07:15.837] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=69, y=-61, z=-52}
+[08Jun2025 07:07:16.041] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=70, y=-61, z=-52}
+[08Jun2025 07:07:16.270] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=70, y=-61, z=-51}
+[08Jun2025 07:07:17.135] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=71, y=-61, z=-51}
+[08Jun2025 07:07:17.488] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=71, y=-61, z=-50}
+[08Jun2025 07:07:17.678] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=71, y=-61, z=-49}
+[08Jun2025 07:07:17.887] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=71, y=-61, z=-48}
+[08Jun2025 07:07:18.076] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=71, y=-61, z=-47}
+[08Jun2025 07:07:18.278] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=71, y=-61, z=-45}
+[08Jun2025 07:07:18.927] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=71, y=-61, z=-46}
+[08Jun2025 07:07:19.379] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=70, y=-61, z=-44}
+[08Jun2025 07:07:19.583] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=69, y=-61, z=-44}
+[08Jun2025 07:07:19.777] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=68, y=-61, z=-44}
+[08Jun2025 07:07:19.978] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=67, y=-61, z=-44}
+[08Jun2025 07:07:20.182] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=66, y=-61, z=-44}
+[08Jun2025 07:07:20.380] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=65, y=-61, z=-44}
+[08Jun2025 07:07:20.832] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=64, y=-61, z=-44}
+[08Jun2025 07:07:30.834] [Server thread/INFO] [Portal/]: Portal Generation Attempted minecraft:overworld 66 -62 -45
+[08Jun2025 07:07:30.834] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=66, y=-62, z=-45}
+[08Jun2025 07:07:30.834] [Server thread/INFO] [Portal/]: Portal Generation Attempted minecraft:overworld 66 -62 -45
+[08Jun2025 07:07:38.979] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=65, y=-61, z=-44}
+[08Jun2025 07:07:39.640] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=66, y=-61, z=-44}
+[08Jun2025 07:07:40.146] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=67, y=-61, z=-44}
+[08Jun2025 07:07:40.536] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=68, y=-61, z=-44}
+[08Jun2025 07:07:41.022] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=69, y=-61, z=-44}
+[08Jun2025 07:07:41.430] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=70, y=-61, z=-44}
+[08Jun2025 07:07:42.335] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=71, y=-61, z=-45}
+[08Jun2025 07:07:42.580] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=71, y=-61, z=-46}
+[08Jun2025 07:07:43.178] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=71, y=-61, z=-46}
+[08Jun2025 07:07:43.578] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=71, y=-61, z=-47}
+[08Jun2025 07:07:43.986] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=71, y=-61, z=-48}
+[08Jun2025 07:07:44.500] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=71, y=-61, z=-49}
+[08Jun2025 07:07:45.047] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=71, y=-61, z=-50}
+[08Jun2025 07:07:45.433] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=71, y=-61, z=-51}
+[08Jun2025 07:07:45.840] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=70, y=-61, z=-52}
+[08Jun2025 07:07:46.277] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=69, y=-61, z=-52}
+[08Jun2025 07:07:46.686] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=68, y=-61, z=-52}
+[08Jun2025 07:07:46.975] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=67, y=-61, z=-52}
+[08Jun2025 07:07:47.382] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=66, y=-61, z=-52}
+[08Jun2025 07:07:47.733] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=65, y=-61, z=-52}
+[08Jun2025 07:07:48.082] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=64, y=-61, z=-52}
+[08Jun2025 07:07:48.487] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=63, y=-61, z=-51}
+[08Jun2025 07:07:48.832] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=63, y=-61, z=-50}
+[08Jun2025 07:07:49.140] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=63, y=-61, z=-49}
+[08Jun2025 07:07:49.535] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=63, y=-61, z=-47}
+[08Jun2025 07:07:49.988] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=63, y=-61, z=-45}
+[08Jun2025 07:07:50.442] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=64, y=-61, z=-44}
+[08Jun2025 07:07:50.904] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=63, y=-61, z=-46}
+[08Jun2025 07:07:51.335] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=64, y=-61, z=-48}
+[08Jun2025 07:07:52.779] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=64, y=-61, z=-48}
+[08Jun2025 07:07:56.876] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=63, y=-61, z=-48}
+[08Jun2025 07:07:58.282] [Server thread/INFO] [Portal/]: Portal Generation Attempted minecraft:overworld 64 -61 -48
+[08Jun2025 07:08:07.244] [Server thread/DEBUG] [Portal/]: literal{Reinhard_VA} :: (minecraft:overworld 66.29331611008 -62.564113591329544 -46.598151897305065)->(minecraft:the_nether 6 93 -5)
+[08Jun2025 07:08:07.244] [Server thread/DEBUG] [Portal/]: Forge Event PlayerEvent.PlayerChangedDimensionEvent fired
+[08Jun2025 07:08:08.319] [Server thread/INFO] [Portal/]: Server performance level: medium
+[08Jun2025 07:08:09.150] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749366489118
+[08Jun2025 07:08:22.067] [Server thread/INFO] [qouteall.imm_ptl.core.portal.PortalExtension/]: portal linking break NetherPortalEntity{26729,up,(minecraft:overworld 67.5 -60.5 -47.5)->(minecraft:the_nether 7.5 95.5 -6.5),imm_ptl:intrinsic_nether_portal}
+[08Jun2025 07:08:22.067] [Server thread/INFO] [qouteall.imm_ptl.core.portal.PortalExtension/]: portal linking break NetherPortalEntity{26730,down,(minecraft:overworld 67.5 -60.5 -47.5)->(minecraft:the_nether 7.5 95.5 -6.5),imm_ptl:intrinsic_nether_portal}
+[08Jun2025 07:08:26.028] [Server thread/DEBUG] [Portal/]: literal{Reinhard_VA} :: (minecraft:the_nether 7.804717194267746 94.21069770953194 -5.208242504751533)->(minecraft:overworld 67 -62 -46)
+[08Jun2025 07:08:26.029] [Server thread/DEBUG] [Portal/]: Forge Event PlayerEvent.PlayerChangedDimensionEvent fired
+[08Jun2025 07:08:26.247] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749366506246
+[08Jun2025 07:08:28.329] [Server thread/INFO] [Portal/]: Server performance level: good
+[08Jun2025 07:08:29.197] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jun2025 07:08:29.209] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jun2025 07:08:57.570] [Server thread/DEBUG] [Portal/]: literal{Reinhard_VA} :: (minecraft:overworld 66.16931461140445 -63.76949507184037 -46.21651957852175)->(minecraft:the_nether 6 94 -5)
+[08Jun2025 07:08:57.570] [Server thread/DEBUG] [Portal/]: Forge Event PlayerEvent.PlayerChangedDimensionEvent fired
+[08Jun2025 07:08:57.954] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749366537852
+[08Jun2025 07:09:23.939] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=7, y=76, z=-4}
+[08Jun2025 07:09:24.144] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=7, y=77, z=-4}
+[08Jun2025 07:09:24.336] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=6, y=76, z=-4}
+[08Jun2025 07:09:24.549] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=5, y=76, z=-4}
+[08Jun2025 07:09:24.738] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=4, y=76, z=-4}
+[08Jun2025 07:09:25.036] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=3, y=76, z=-4}
+[08Jun2025 07:09:26.047] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=2, y=76, z=-4}
+[08Jun2025 07:09:26.278] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=1, y=76, z=-4}
+[08Jun2025 07:09:27.530] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=1, y=76, z=-5}
+[08Jun2025 07:09:27.841] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=1, y=76, z=-6}
+[08Jun2025 07:09:28.030] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=1, y=76, z=-7}
+[08Jun2025 07:09:28.256] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=1, y=76, z=-8}
+[08Jun2025 07:09:28.434] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=1, y=76, z=-9}
+[08Jun2025 07:09:28.630] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=1, y=76, z=-10}
+[08Jun2025 07:09:30.677] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=7, y=76, z=-12}
+[08Jun2025 07:09:30.875] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=6, y=76, z=-12}
+[08Jun2025 07:09:31.084] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=5, y=76, z=-12}
+[08Jun2025 07:09:31.273] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=4, y=76, z=-12}
+[08Jun2025 07:09:31.481] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=3, y=76, z=-12}
+[08Jun2025 07:09:31.679] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=2, y=76, z=-12}
+[08Jun2025 07:09:31.877] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=2, y=76, z=-11}
+[08Jun2025 07:09:32.294] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=1, y=76, z=-12}
+[08Jun2025 07:09:32.641] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=1, y=76, z=-11}
+[08Jun2025 07:09:33.843] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=3, y=76, z=-11}
+[08Jun2025 07:09:34.124] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=3, y=76, z=-10}
+[08Jun2025 07:09:34.343] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=3, y=76, z=-9}
+[08Jun2025 07:09:35.400] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=2, y=76, z=-9}
+[08Jun2025 07:09:35.528] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=2, y=77, z=-9}
+[08Jun2025 07:09:36.445] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=2, y=76, z=-10}
+[08Jun2025 07:09:37.005] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=3, y=76, z=-8}
+[08Jun2025 07:09:37.382] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=2, y=76, z=-8}
+[08Jun2025 07:09:37.993] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=2, y=77, z=-8}
+[08Jun2025 07:09:38.384] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=2, y=76, z=-7}
+[08Jun2025 07:09:39.386] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=3, y=76, z=-7}
+[08Jun2025 07:09:39.740] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=3, y=76, z=-6}
+[08Jun2025 07:09:40.034] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=2, y=76, z=-6}
+[08Jun2025 07:09:40.478] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=2, y=76, z=-5}
+[08Jun2025 07:09:40.842] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=3, y=76, z=-5}
+[08Jun2025 07:09:41.981] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=4, y=76, z=-5}
+[08Jun2025 07:09:42.384] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=4, y=76, z=-6}
+[08Jun2025 07:09:42.833] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=4, y=76, z=-7}
+[08Jun2025 07:09:43.590] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=4, y=76, z=-10}
+[08Jun2025 07:09:43.884] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=4, y=76, z=-9}
+[08Jun2025 07:09:44.236] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=4, y=77, z=-9}
+[08Jun2025 07:09:44.727] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=4, y=76, z=-8}
+[08Jun2025 07:09:45.479] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=4, y=76, z=-11}
+[08Jun2025 07:09:45.780] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=5, y=76, z=-11}
+[08Jun2025 07:09:46.434] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=7, y=76, z=-11}
+[08Jun2025 07:09:46.625] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=6, y=76, z=-11}
+[08Jun2025 07:09:46.932] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=7, y=76, z=-10}
+[08Jun2025 07:09:47.244] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=6, y=76, z=-10}
+[08Jun2025 07:09:47.688] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=5, y=76, z=-10}
+[08Jun2025 07:09:48.092] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=7, y=76, z=-9}
+[08Jun2025 07:09:48.345] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=6, y=76, z=-9}
+[08Jun2025 07:09:48.591] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=5, y=76, z=-9}
+[08Jun2025 07:09:49.006] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=7, y=76, z=-8}
+[08Jun2025 07:09:49.188] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=6, y=76, z=-8}
+[08Jun2025 07:09:49.625] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=5, y=76, z=-8}
+[08Jun2025 07:09:50.025] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=5, y=76, z=-7}
+[08Jun2025 07:09:50.379] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=7, y=76, z=-7}
+[08Jun2025 07:09:50.624] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=6, y=76, z=-7}
+[08Jun2025 07:09:50.977] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=7, y=76, z=-6}
+[08Jun2025 07:09:51.184] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=6, y=76, z=-6}
+[08Jun2025 07:09:51.485] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=5, y=76, z=-6}
+[08Jun2025 07:09:51.889] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=7, y=76, z=-5}
+[08Jun2025 07:09:52.180] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=6, y=75, z=-5}
+[08Jun2025 07:09:52.684] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=6, y=76, z=-5}
+[08Jun2025 07:09:52.883] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=5, y=76, z=-5}
+[08Jun2025 07:09:57.731] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=2, y=77, z=-6}
+[08Jun2025 07:09:59.087] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=2, y=77, z=-5}
+[08Jun2025 07:10:01.186] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=2, y=77, z=-6}
+[08Jun2025 07:10:07.699] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=2, y=77, z=-5}
+[08Jun2025 07:10:12.983] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=3, y=77, z=-5}
+[08Jun2025 07:11:00.267] [Server thread/DEBUG] [Portal/]: literal{Reinhard_VA} :: (minecraft:the_nether 4.97879657946945 94.19422836591279 -6.495154785990864)->(minecraft:overworld 64 -62 -47)
+[08Jun2025 07:11:00.267] [Server thread/DEBUG] [Portal/]: Forge Event PlayerEvent.PlayerChangedDimensionEvent fired
+[08Jun2025 07:11:00.517] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749366660488
+[08Jun2025 07:11:25.521] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=63, y=71, z=-49}
+[08Jun2025 07:11:43.883] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=65, y=69, z=-50}
+[08Jun2025 07:11:44.341] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=65, y=70, z=-50}
+[08Jun2025 07:11:45.950] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=65, y=71, z=-50}
+[08Jun2025 07:11:48.285] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=65, y=69, z=-46}
+[08Jun2025 07:11:49.025] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=65, y=70, z=-46}
+[08Jun2025 07:11:49.427] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=65, y=71, z=-46}
+[08Jun2025 07:11:49.849] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=65, y=71, z=-47}
+[08Jun2025 07:11:50.175] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=65, y=71, z=-48}
+[08Jun2025 07:11:50.634] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=65, y=71, z=-49}
+[08Jun2025 07:11:51.877] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=66, y=71, z=-48}
+[08Jun2025 07:11:52.805] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=67, y=71, z=-48}
+[08Jun2025 07:11:53.226] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=68, y=71, z=-48}
+[08Jun2025 07:11:53.732] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=69, y=71, z=-48}
+[08Jun2025 07:11:55.877] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=69, y=69, z=-46}
+[08Jun2025 07:11:56.847] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=69, y=71, z=-47}
+[08Jun2025 07:11:57.585] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=69, y=71, z=-46}
+[08Jun2025 07:11:57.849] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=69, y=70, z=-46}
+[08Jun2025 07:11:59.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reinhard_VA: Set own game mode to Survival Mode]
+[08Jun2025 07:12:01.087] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=66, y=71, z=-50}
+[08Jun2025 07:12:01.499] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=67, y=71, z=-50}
+[08Jun2025 07:12:02.283] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=68, y=71, z=-50}
+[08Jun2025 07:12:03.482] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=69, y=69, z=-50}
+[08Jun2025 07:12:03.923] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=69, y=70, z=-50}
+[08Jun2025 07:12:05.533] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=69, y=71, z=-50}
+[08Jun2025 07:12:06.252] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=69, y=71, z=-49}
+[08Jun2025 07:12:08.526] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=68, y=71, z=-46}
+[08Jun2025 07:12:08.976] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=67, y=71, z=-46}
+[08Jun2025 07:12:09.780] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=66, y=71, z=-46}
+[08Jun2025 07:12:10.447] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=67, y=71, z=-47}
+[08Jun2025 07:12:11.136] [Server thread/INFO] [boomcow.minezero.event.BlockChangeListener/]: Block placed at: BlockPos{x=67, y=71, z=-49}
+[08Jun2025 07:12:36.870] [Server thread/DEBUG] [boomcow.minezero.checkpoint.CheckpointManager/]: Restoring checkpoint...
+[08Jun2025 07:12:38.033] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Egg'/28250, l='ServerWorld minecraft:overworld world', x=153.22, y=70.00, z=-161.37]
+[08Jun2025 07:12:38.033] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Rail'/28251, l='ServerWorld minecraft:overworld world', x=199.57, y=-32.00, z=134.26]
+[08Jun2025 07:12:38.033] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Rail'/28252, l='ServerWorld minecraft:overworld world', x=198.76, y=-32.00, z=135.10]
+[08Jun2025 07:12:38.033] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Essence Of Earth'/28253, l='ServerWorld minecraft:overworld world', x=-19.50, y=70.00, z=-53.71]
+[08Jun2025 07:12:38.033] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Glow Ink Sac'/28254, l='ServerWorld minecraft:overworld world', x=-9.86, y=-37.00, z=-9.34]
+[08Jun2025 07:12:38.033] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Egg'/28255, l='ServerWorld minecraft:overworld world', x=155.86, y=70.00, z=-153.02]
+[08Jun2025 07:12:38.033] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Rotten Flesh'/28256, l='ServerWorld minecraft:overworld world', x=6.03, y=70.00, z=-53.13]
+[08Jun2025 07:12:38.034] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Gunpowder'/28257, l='ServerWorld minecraft:overworld world', x=21.86, y=69.00, z=-36.24]
+[08Jun2025 07:12:38.034] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Bow'/28258, l='ServerWorld minecraft:overworld world', x=-14.56, y=75.00, z=-95.23]
+[08Jun2025 07:12:38.036] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Egg'/28259, l='ServerWorld minecraft:overworld world', x=143.38, y=66.00, z=-110.78]
+[08Jun2025 07:12:38.036] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Egg'/28260, l='ServerWorld minecraft:overworld world', x=143.83, y=70.00, z=-159.79]
+[08Jun2025 07:12:38.037] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Mechanical Drill'/28261, l='ServerWorld minecraft:overworld world', x=64.55, y=-63.00, z=-50.13]
+[08Jun2025 07:12:38.037] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Mechanical Drill'/28262, l='ServerWorld minecraft:overworld world', x=70.69, y=68.00, z=-51.11]
+[08Jun2025 07:12:38.037] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Kelp'/28263, l='ServerWorld minecraft:overworld world', x=-219.94, y=62.41, z=-253.42]
+[08Jun2025 07:12:38.037] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Kelp'/28264, l='ServerWorld minecraft:overworld world', x=-221.22, y=62.40, z=-255.65]
+[08Jun2025 07:12:38.037] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Kelp'/28265, l='ServerWorld minecraft:overworld world', x=-221.30, y=62.72, z=-250.88]
+[08Jun2025 07:12:38.038] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Kelp'/28266, l='ServerWorld minecraft:overworld world', x=-219.18, y=51.02, z=-254.09]
+[08Jun2025 07:12:38.038] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Kelp'/28267, l='ServerWorld minecraft:overworld world', x=-224.06, y=62.68, z=-252.60]
+[08Jun2025 07:12:38.038] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Rotten Flesh'/28268, l='ServerWorld minecraft:overworld world', x=-238.76, y=79.00, z=-10.27]
+[08Jun2025 07:12:38.039] [Server thread/DEBUG] [boomcow.minezero.checkpoint.CheckpointManager/]: Restoring states took 1169 ms
+[08Jun2025 07:12:38.039] [Server thread/DEBUG] [boomcow.minezero.event.DeathEventHandler/]: Playing classic chime
+[08Jun2025 07:12:38.585] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Bee['Bee'/28269, l='ServerWorld minecraft:overworld world', x=-199.36, y=68.73, z=30.84]
+[08Jun2025 07:12:38.862] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Kelp'/28270, l='ServerWorld minecraft:overworld world', x=-219.94, y=62.41, z=-253.42]
+[08Jun2025 07:12:38.862] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Kelp'/28271, l='ServerWorld minecraft:overworld world', x=-221.22, y=62.40, z=-255.65]
+[08Jun2025 07:12:38.862] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Kelp'/28272, l='ServerWorld minecraft:overworld world', x=-221.30, y=62.72, z=-250.88]
+[08Jun2025 07:12:38.862] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Kelp'/28273, l='ServerWorld minecraft:overworld world', x=-219.18, y=51.02, z=-254.09]
+[08Jun2025 07:12:38.862] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Kelp'/28274, l='ServerWorld minecraft:overworld world', x=-224.06, y=62.68, z=-252.60]
+[08Jun2025 07:12:38.863] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Rotten Flesh'/28275, l='ServerWorld minecraft:overworld world', x=-238.76, y=79.00, z=-10.27]
+[08Jun2025 07:12:44.621] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Pig['Pig'/28295, l='ServerWorld minecraft:overworld world', x=-180.79, y=80.00, z=148.95]
+[08Jun2025 07:12:45.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reinhard_VA> la ptm
+[08Jun2025 07:12:53.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabo399993 was killed
+[08Jun2025 07:12:53.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Reinhard_VA: Killed Gabo399993]
+[08Jun2025 07:12:56.374] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749366776361
